@@ -1,0 +1,16 @@
+{% set chapters = collections.book | inFolder("category03") %}
+<section id="category03" class="category{% if chapters[0].data.tocNested %} book-category{% endif %}">
+  <h2 class="category-title">{{ chapters[0].data.categoryTitle }}</h2>
+   <p>
+  This section situates computational media within specific ecological and social contexts, allowing each computational practice to become a set of coordinates through which our understanding of the relationships between environment, technology, and society can be recalibrated.
+<br><br>
+Here, water, wind, insects, reflections, punctuation marks, sensors, maps, platforms, and algorithms are no longer merely isolated objects or tools, but become ways of tracing issues of sustainability, political relations, and infrastructural systems.
+<br><br>
+By exposing these otherwise latent systems, these practices question our dependence on “precision,” “connectivity,” and “intelligence,” while weaving new networks of relation: a micro-poetics that begins from situated ecological conditions and extends into global technological systems.
+  </p>
+  {% for chapter in chapters %}
+  <article id="{{ chapter | fileId }}" class="chapter">
+    {{ chapter.templateContent | safe }}
+  </article>
+  {% endfor %}
+</section>

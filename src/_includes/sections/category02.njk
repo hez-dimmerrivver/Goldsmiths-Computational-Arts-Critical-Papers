@@ -1,0 +1,19 @@
+{% set chapters = collections.book | inFolder("category02") %}
+<section id="category02" class="category{% if chapters[0].data.tocNested %} book-category{% endif %}">
+  <h2 class="category-title">{{ chapters[0].data.categoryTitle }}</h2>
+    <p>
+  In the age of artificial intelligence, machine vision and algorithms, images are no longer only objects that we look at. They are also processed, classified, ranked and circulated by computational systems. This means that images do not only represent meaning; they may also influence our attention, emotions, behaviour and beliefs.
+<br><br>
+This section discusses how AI and machine vision change the ways images are seen, produced and understood. We do not treat AI as a neutral tool. Instead, we ask further questions: How do machines recognise, classify, predict and act through images? What happens when “seeing” is no longer only a human activity? What does it mean when images have already been read by machines before they are read by us?
+<br><br>
+Drawing on the questions raised by Trevor Paglen in How to See Like a Machine, we may need to ask not only what an image means, or whether it is real or fake, but also what it is doing. What kind of response is it trying to trigger? What does it make visible, and what does it simplify, misread or erase?
+<br><br>
+The following texts approach these questions from different artistic and critical perspectives. Together, they discuss the gap between human perception and machine perception, the friction between technological promises and lived experience, and the relationship between algorithmic classification and the complexity of identity, culture and subjectivity.
+
+  </p>
+  {% for chapter in chapters %}
+  <article id="{{ chapter | fileId }}" class="chapter">
+    {{ chapter.templateContent | safe }}
+  </article>
+  {% endfor %}
+</section>
