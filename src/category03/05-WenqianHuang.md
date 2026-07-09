@@ -66,6 +66,11 @@ In this version, a contemporary way of seeing the city becomes clearer. People s
 
 <div class="divider"></div>
 <div class="endnote-container">
+<<<<<<< HEAD
+=======
+  
+#### **End Notes**
+>>>>>>> 0d6b17b316a8fc84ef96573a56d1146ab8d11090
 
 #### END NOTES
 

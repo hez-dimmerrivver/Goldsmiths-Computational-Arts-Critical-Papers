@@ -211,14 +211,14 @@ body {
 
 .endnote-container p {
     margin-top: 0;
-    margin-bottom: 0.4em;   
+    margin-bottom: 0em;   
 }
 
 .divider {
     column-span: all;         
     border-top: 1px solid #888888; 
     width: 100%;                   
-    margin-top: 30px;             
+    margin-top: 20px;             
     margin-bottom: 20px;           
     height: 0;                     
 }
@@ -334,6 +334,8 @@ h4 {
     font-size: 12pt;    
     font-family: 'dichtmy';       
     font-weight: normal;
+    margin-top: 0em;
+    margin-bottom: 0em;
 }
 
 /*name*/
@@ -401,3 +403,37 @@ iframe .nav.preview-nav{
 a {    
     color: black;
 }
+
+/*endnote dots*/
+ul {
+    padding-left: 0 !important;
+    list-style: none !important; 
+}
+
+li {
+    position: relative;
+    padding-left: 12px;          
+}
+
+li::before {
+    content: "•";                
+    position: absolute;
+    left: 0;                   
+    font-size: 12px;            
+}
+
+/* Haiyi article layout test - body only */
+.chapter-two .body-text {
+    column-fill: balance;
+}
+
+.chapter-two .body-text p {
+    text-align: justify;
+    hyphens: auto;
+    margin-top: 0;
+    margin-bottom: 1.2em;
+    text-indent: 0;
+    orphans: 1;
+    widows: 1;
+}
+
