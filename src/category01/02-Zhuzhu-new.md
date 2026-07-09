@@ -3,14 +3,13 @@ title: In-Between States
 ---
 <div class="chapter-one">
 
+##### Zhuzhu  
+
 # In-Between States
 
-## Zhuzhu  
-
-**Assemblage, Repetition, and the Labour of Technical Objects in Artistic Practice**
+## Assemblage, Repetition, and the Labour of Technical Objects in Artistic Practice**
 
 #### 
-
 
 Instructions:
 
