@@ -1,12 +1,14 @@
 ---
-title: Moving from Technofeudal Enclosure to Techno-Socialist Infrastructures
+title: Reclaiming the Cloud
 ---
 
 <div class="chapter-three">
 
 ##### Stathis
 
-# Moving from Technofeudal Enclosure to Techno-Socialist Infrastructures
+# Reclaiming the Cloud
+
+## From Technofeudalism to Techno-Socialism
 
 <div class="body-text">
 
@@ -80,6 +82,9 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
 
 </div>
 
+<div class="divider"></div>
+<div class="endnote-container">
+  
 ### **End Notes**
 
 - Bratton, B. H. (2015). The Stack: On Software and Sovereignty. Cambridge, MA: MIT Press. Available at: http://www.vlebooks.com/vleweb/product/openreader?id=Goldsmiths\&isbn=9780262330183 (Accessed: 7 May 2026).
