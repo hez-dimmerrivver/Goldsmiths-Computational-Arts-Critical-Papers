@@ -98,6 +98,9 @@ What continues to exist in the second cloud is not a simple copy of the first cl
 
 </div>
 
+<div class="divider"></div>
+<div class="endnote-container">
+  
 ### **End Notes**
 
 - 1, Benjamin, W. et al. (2005) The arcades project. International journal of urban and regional research 29 (1) p.187–200.
