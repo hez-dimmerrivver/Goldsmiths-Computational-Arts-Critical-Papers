@@ -96,7 +96,7 @@ E-mail for correspondence: [savannah.r.perry@gmail.com](mailto:savannah.r.perry@
 
 </div>
 
-### **End Notes**
+### **END NOTES**
 
 - 1. Timothy Binkley, ‘The Computer Is Not a Medium’, Philosophic Exchange, 19.1 (1988), 155-73 (p. 157).
 
