@@ -51,7 +51,7 @@ Instructions:
 
 
   
-<img src ="/static/images/zhuzhu/image1.png">
+<img src ="/static/images/zhuzhu/image1.png" class="single-column-img">
 
 <div class="body-text">
 
