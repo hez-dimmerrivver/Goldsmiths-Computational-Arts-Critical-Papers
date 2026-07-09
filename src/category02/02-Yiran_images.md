@@ -54,8 +54,9 @@ What can be established ends here: the hollowing-out has already taken place, em
 </div>
 <div class="divider"></div>
 <div class="endnote-container">
+  
 #### END NOTES
-</div><br>
+
 - Hildebrandt, M. (2016) 'Law as information in the era of data-driven agency', The Modern Law Review, 79(1), pp. 1–30.  
 - Hildebrandt, M. (2015) Smart Technologies and the End(s) of Law: Novel Entanglements of Law and Technology. Cheltenham: Edward Elgar.  
 - Gallese, C. (2026) 'Predictive policing and predictive justice: Ethics, data protection, and the AI Act', Computer Law & Security Review, 61, 106282\.  
