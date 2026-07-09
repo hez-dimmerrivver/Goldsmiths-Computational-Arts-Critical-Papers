@@ -32,13 +32,13 @@ It was only after the experiment that I understood how the machine works. A diff
 
 This raises the objection Mattia pressed on me: why use an image model at all? A language model writes 處 without ever failing, because it does not write—it retrieves a fixed code point and a font renders it. There is nothing to see there. I chose the system where writing must actually happen, pixel by pixel, because aphasia can only appear where synthesis is required. And the failure is not symmetrical. Given the same prompt and seeds, FLUX renders the English words—loss, language, place—legibly, while the six characters collapse into one shape. At the same unit of meaning, one word against one character, the alphabet survives and the hanzi does not. Twenty-six letters cover most English; each of thousands of characters must be learned alone. Even a perfectly balanced dataset would not equalise this, because the architecture already treats the complexity of the alphabet as its default. Recent computer-vision research names this exact pattern long-tail text rendering: image quality and character accuracy both fall as a character grows rarer in the data (Zhuang et al. 2025). My 處\-into-慶 is one instance of a documented law.
 
-<img src ="/static/images/Ethan/image4.jpg">
+<img src ="/static/images/Ethan/image4.jpg" class="single-column-img">
 
 _Fig. 1 Same model, prompt, seeds. Top: six characters, collapsed into one shape. Bottom: six matched English words, legible._
 
 At first I assumed East versus West: Western models mute, the Chinese model fluent. The results broke that. SD 1.5 produced no single character at all—a scroll of dense, illegible marks with no character boundary. FLUX gave the shape of one character, but wrote all six as the same form, differing only in small ways. GLM, trained for Chinese, came closest: it separated the six, its strokes were more plausible—and it still failed, strangely. 失 gained extra strokes, the radical of 語 loosened, the interior of 宣 broke down. Then 處: four images, all resembling 慶, without exception.
 
-<img src ="/static/images/Ethan/image2.jpg">
+<img src ="/static/images/Ethan/image2.jpg" class="single-column-img">
 
 _Fig. 2 Six characters, three models. Top: SD 1.5 (West, 2022). Middle: FLUX.1 (West, 2024). Bottom: GLM Image (Chinese, 2025). One sample per character._
 
@@ -46,7 +46,7 @@ The model is not writing wrong; it is replacing. 處 barely appears in the data,
 
 My East-West binary collapsed. The variable is not which civilisation trained the model but frequency. The three models form a descending order—SD 1.5 heaviest, FLUX next, GLM lightest—without exception. As a native reader I see it at the stroke level: the outline survives, the stroke logic is gone. From a distance it looks like writing; up close it is misalignment, one stroke too many or too few. Readability dissolves with distance.
 
-<img src ="/static/images/Ethan/image1.jpg">
+<img src ="/static/images/Ethan/image1.jpg" class="single-column-img">
 
 _Fig. 3 Diptych: The Aphasic Manifesto / I Am Here. Left: generated English, collapsed. Right: pseudo-characters, structurally held but internally broken. Fine-tuned model, edited by the artist._
 
@@ -68,7 +68,7 @@ These characters do not need to be fixed. Aphasia is not an error to correct; it
 
 </div>
 <div class="divider"></div>
-<div class="endnote-container">
+<div class="endnote-container" class="single-column-img">
 
 #### END NOTES
 
