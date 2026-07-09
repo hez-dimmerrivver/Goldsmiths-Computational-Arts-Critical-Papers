@@ -2,10 +2,10 @@
 title: Onycho Lab Artificial Nails as Bodily Technology
 ---
 <div class="chapter-one">
+  
+##### Fioretta Zhang
 
 # Onycho Lab Artificial Nails as Bodily Technology
-
-## Fioretta Zhang
 
 <div class="body-text">
 
