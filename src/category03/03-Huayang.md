@@ -10,8 +10,9 @@ title: Beyond the Organic
 
 ## Emergent Umwelt and Indeterminacy in Embodied Computational Systems
 
+<img src ="/static/images/Huayang/image_01.png">
+<br>
 <div class="body-text">
-
 Living organisms are typically understood as autonomous entities that sense, respond to, and adapt to their surroundings, while artificial systems are regarded as passive tools executing predetermined instructions. Developments in cybernetics, artificial life, and computational art increasingly unsettle this division. This essay asks whether a non-biological system can develop an operational Umwelt through embodied interaction with its environment, and answers on conceptual grounds. An Umwelt is not a pre-given setting but a relational structure emerging through the interplay of perception, action, memory, and feedback. And this emergence is not purely computational, since embodiment is the condition under which a system meets a world, it has not itself specified. Drawing on von Uexküll, theories of emergence, and feminist science studies, the argument is developed conceptually and then instantiated in a computational installation of my own. On this basis, the boundary between the biological and the artificial requires reconsideration.
 
 1\. Umwelt: The World as Selectively Constructed
@@ -39,6 +40,8 @@ The channels are limited, but the world they reach is not. The colour sensor rea
 A slowly drifting baseline adds memory: salience is computed relative to an accumulated history rather than an absolute value, so identical input can prompt different responses over time. The installation thus instantiates the paper’s claims directly, an Umwelt selectively constructed, relationally produced, and dependent on embodiment for its coupling to an unspecified world.
 
 **Figure 2\. \[description of the installation\]**
+
+<img src="/static/images/Huayang/image_02.png" class="single-column-img">
 
 5\. Rethinking of the Biological Boundary
 
