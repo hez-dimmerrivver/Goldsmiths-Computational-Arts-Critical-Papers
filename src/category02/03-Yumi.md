@@ -4,13 +4,11 @@ title: The_Unarchivable
 
 <div class="chapter-two">
 
-##### Yumi
+##### Yumi Zhang
 
 # The_Unarchivable
 
 ####
-
-<div class="body-text">
 
 To most passers-by, pigeons appear almost identical. They belong to the familiar background of the city: birds gathering on pavements, rooftops and window ledges, visible almost everywhere but rarely noticed as individuals. _The Unarchivable_ began by interrupting this habitual form of attention. It centred on Huihui and Diandian, two homing pigeons raised by the artist. Although they lived under human care and had individual names and histories, their appearance closely resembled that of the anonymous pigeons encountered across the city. Their position therefore remained uncertain: they were intimate and familiar lives, yet they also belonged visually to a population often treated as an interchangeable urban background.
 
@@ -58,8 +56,10 @@ More powerful hardware, faster cameras, larger datasets or different detection m
 
 - Temporal opacity is also developed within this project. It draws on Glissant’s right to opacity and Blas’s informatic opacity but refers specifically to uneven computational legibility across successive frames of object detection.
 </div>
-
-### **End Notes**
+<div class="divider"></div>
+<div class="endnote-container">
+ 
+#### END NOTES
 
 - Bergson, Henri. 2001\. Time and Free Will: An Essay on the Immediate Data of Consciousness. Translated by F. L. Pogson. Mineola, NY: Dover Publications.
 
