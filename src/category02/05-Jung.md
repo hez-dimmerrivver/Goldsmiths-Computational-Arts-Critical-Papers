@@ -34,9 +34,15 @@ This is where re-cognition matters. If the mirror was never a coherent model of 
 ### **End Notes**
 
 - Bergson, Henri, Matter and Memory, trans. by N. M. Paul and W. S. Palmer (London: George Allen and Unwin, 1911)
+  
 - Clark, Andy, 'Whatever next? Predictive brains, situated agents, and the future of cognitive science', Behavioral and Brain Sciences, 36.3 (2013), 181–204
+
 - Crawford, Kate, and Trevor Paglen, 'Excavating AI: The Politics of Training Sets for Machine Learning', excavating.ai (2019) <[https://excavating.ai\>](https://excavating.ai%5C%3E) [accessed 2025]
+
 - Haraway, Donna, 'Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective', in Simians, Cyborgs, and Women: The Reinvention of Nature (New York: Routledge, 1991), pp. 183–201
+
 - Merleau-Ponty, Maurice, Phenomenology of Perception, trans. by Colin Smith (London: Routledge, 1962)
+
 - Rorty, Richard, Philosophy and the Mirror of Nature (Princeton: Princeton University Press, 1979)
+
 - Sluis, Katrina, 'What Does the Database Want?', lecture and publication, The Photographers' Gallery, London, 2019
