@@ -212,7 +212,7 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 <div class="divider"></div>
 <div class="endnote-container">
 
-**End Notes**
+#### End Notes
 
 Blaise Agüera y Arcas, ‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’, online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk \[accessed 7 July 2026\] (01:12:42), at 22:10–26:30.
 
