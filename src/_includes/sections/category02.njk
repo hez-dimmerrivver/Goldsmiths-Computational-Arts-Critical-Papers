@@ -1,6 +1,11 @@
 {% set chapters = collections.book | inFolder("category02") %}
 <section id="category02" class="category{% if chapters[0].data.tocNested %} book-category{% endif %}">
-  <h2 class="category-title">{{ chapters[0].data.categoryTitle }}</h2>
+  <h2 class="category-title">
+    <span style="display: none;">{{ chapters[0].data.categoryTitle }}</span>
+  </h2>
+  <div class="full-width category-cover">
+    <iframe src="https://editor.p5js.org/yairis11017/full/Zx0AMrGcY"></iframe>
+  </div>
     <p>
   In the age of artificial intelligence, machine vision and algorithms, images are no longer only objects that we look at. They are also processed, classified, ranked and circulated by computational systems. This means that images do not only represent meaning; they may also influence our attention, emotions, behaviour and beliefs.
 <br><br>

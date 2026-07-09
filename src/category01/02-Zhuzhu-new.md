@@ -1,15 +1,17 @@
 ---
 title: In-Between States
 ---
+
 <div class="chapter-one">
+
+##### Zhuzhu
 
 # In-Between States
 
-## Zhuzhu  
+## Assemblage, Repetition, and the Labour of Technical Objects in Artistic Practice
 
-**Assemblage, Repetition, and the Labour of Technical Objects in Artistic Practice**
+####
 
-#### 
 <div class="body-text">
 
 Instructions:
@@ -44,7 +46,7 @@ The technical object does not exist only when assembled and functional. What Sim
 
 The question that keeps returning to me is one that extends what Ingold asks in his critique of the hylomorphic model of creation.⁴ He asks: what does it mean to create things? I want to push this further: what does it mean to maintain things? Because the shift from creation to maintenance changes everything. It means the work is never finished. It means the encounter with material is ongoing. It means the labour of repetition, adjustment, and care is the practice itself rather than a stage on the way to a completed object.
 
-Ukeles understood this when she wrote her *Manifesto for Maintenance Art* in 1969\.⁵ She drew a line between development and maintenance. Development labour produces a finished object and terminates. Maintenance labour is cyclical, endless, structurally incapable of completion. "Maintenance is a drag; it takes all the fucking time." I keep coming back to this sentence because it says something precise about the ontological condition of maintenance: it occupies all available time because it has no endpoint at which it could stop. To maintain a technical object is to enter a relationship with it that cannot be concluded. Every adjustment invites the next adjustment. Every tightened screw will loosen again.
+Ukeles understood this when she wrote her _Manifesto for Maintenance Art_ in 1969\.⁵ She drew a line between development and maintenance. Development labour produces a finished object and terminates. Maintenance labour is cyclical, endless, structurally incapable of completion. "Maintenance is a drag; it takes all the fucking time." I keep coming back to this sentence because it says something precise about the ontological condition of maintenance: it occupies all available time because it has no endpoint at which it could stop. To maintain a technical object is to enter a relationship with it that cannot be concluded. Every adjustment invites the next adjustment. Every tightened screw will loosen again.
 
 The parts are not passive in this. They carry forward what has happened to them. Their accumulated wear, their loosened connections, their particular resistances shape what the next assembly can become. What Bolt calls material thinking, the idea that the practitioner does not think first and then make but thinks through the making itself, converges here with what Stiegler calls prosthetic memory, the way technical objects store experience outside the body.⁶ ⁷ The guitar parts are not inert matter waiting for my plan. They think back. They remember what my hands have done to them, and they push back in ways that change what I can do next. I am not the sole author of the configuration. The parts co-author it through their memory.
 
@@ -54,21 +56,23 @@ I should be honest about the limits of this position. If "refusing to finish" be
 
 What sustains all of this is care. To maintain is to repeat. To repeat is to differentiate. To differentiate is to remain in between. And to remain in between, deliberately, with attention and persistence, is to care.
 
+<div class="divider"></div>
+<div class="endnote-container">
+
+**End Notes**
+
+¹ Norbert Wiener, Cybernetics: Or Control and Communication in the Animal and the Machine (Cambridge, MA: MIT Press, 1948), 11\.
+
+² Martin Heidegger, Being and Time, trans. John Macquarrie and Edward Robinson (Oxford: Blackwell, 1962), 102–103.
+
+³ Gilbert Simondon, "The Genesis of Technicity," trans. Cecile Malaspina and John Rogove, e-flux Journal, no. 82 (May 2017).
+
+⁴ Tim Ingold, Making: Anthropology, Archaeology, Art and Architecture (London: Routledge, 2013), 21\.
+
+⁵ Mierle Laderman Ukeles, Manifesto for Maintenance Art 1969\! Proposal for an Exhibition "CARE" (1969), unpublished manuscript.
+
+⁶ Barbara Bolt, Art Beyond Representation: The Performative Power of the Image (London: I.B. Tauris, 2004).
+
+⁷ Bernard Stiegler, Technics and Time, 1: The Fault of Epimetheus, trans. Richard Beardsworth and George Collins (Stanford: Stanford University Press, 1998).
+
 </div>
-
-### **End Notes**
-
- ¹ Norbert Wiener, Cybernetics: Or Control and Communication in the Animal and the Machine (Cambridge, MA: MIT Press, 1948), 11\.
-
-  ² Martin Heidegger, Being and Time, trans. John Macquarrie and Edward Robinson (Oxford: Blackwell, 1962), 102–103.
-
-  ³ Gilbert Simondon, "The Genesis of Technicity," trans. Cecile Malaspina and John Rogove, e-flux Journal, no. 82 (May 2017).
-
-  ⁴ Tim Ingold, Making: Anthropology, Archaeology, Art and Architecture (London: Routledge, 2013), 21\.
-
-  ⁵ Mierle Laderman Ukeles, Manifesto for Maintenance Art 1969\! Proposal for an Exhibition "CARE" (1969), unpublished manuscript.
-
-  ⁶ Barbara Bolt, Art Beyond Representation: The Performative Power of the Image (London: I.B. Tauris, 2004).
-
-  ⁷ Bernard Stiegler, Technics and Time, 1: The Fault of Epimetheus, trans. Richard Beardsworth and George Collins (Stanford: Stanford University Press, 1998).
-

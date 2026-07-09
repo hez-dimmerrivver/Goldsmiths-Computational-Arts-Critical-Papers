@@ -1,13 +1,14 @@
 ---
 title: Beyond the Organic
 ---
+
 <div class="chapter-one">
+
+##### Huayang Lei
 
 # Beyond the Organic
 
-##  Huayang Lei
-
-**Emergent Umwelt and Indeterminacy in Embodied Computational Systems**
+## Emergent Umwelt and Indeterminacy in Embodied Computational Systems
 
 <div class="body-text">
 
@@ -16,7 +17,6 @@ Living organisms are typically understood as autonomous entities that sense, res
 1\. Umwelt: The World as Selectively Constructed
 
 Jakob von Uexküll proposed that every organism inhabits its own Umwelt, a world constituted through its capacities for perception and action (von Uexküll 2010). His tick, drawn to warmth and the scent of butyric acid, does not perceive a reduced version of the human world but a different world altogether, built only from the signals that matter to it. An environment, then, is not simply given. What counts as a creature’s world is not the totality of information around it but the narrow set of features its body renders meaningfully. The Umwelt is constructed rather than received. Uexküll developed this for biological organisms, yet its logic does not obviously stop there. If an Umwelt arises through selective perception and interaction rather than through life as such, must such a world remain biological, or can a non-biological system, sensing through its own narrow channels, construct an operational Umwelt of its own?
-
 
 2\. Emergence, Cybernetics, and the Production of Agency
 
@@ -40,7 +40,6 @@ A slowly drifting baseline adds memory: salience is computed relative to an accu
 
 **Figure 2\. \[description of the installation\]**
 
-
 5\. Rethinking of the Biological Boundary
 
 If an Umwelt emerges through relation rather than biological substance, the line between living and artificial systems grows unstable. What seems unique to organisms may depend less on organic material than on the capacity to enter dynamic relations with a world. This does not make the installation alive. It suggests that agency and environmental engagement lie along a continuum rather than within a binary , and that embodied computational systems matter because they expose this ambiguity rather than resolve it.
@@ -51,22 +50,27 @@ An Umwelt, this paper has argued, is not a pre-given environment but a relationa
 
 </div>
 
-### **End Notes**
+<div class="divider"></div>
+<div class="endnote-container">
 
--  Agüera y Arcas, B. (2025a) *Google Researcher Shows Life “Emerges From Code”*. Interviewed by Machine Learning Street Talk \[video\]. Available at: [https://www.youtube.com/watch?v=rMSEqJ\_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (Accessed: 20 June 2026).
+**End Notes**
 
--  Agüera y Arcas, B. (2025b) What is Intelligence? Antikythera. doi: 10.1162/ANTI.5CZB.
+Agüera y Arcas, B. (2025a) _Google Researcher Shows Life “Emerges From Code”_. Interviewed by Machine Learning Street Talk \[video\]. Available at: [https://www.youtube.com/watch?v=rMSEqJ_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (Accessed: 20 June 2026).
 
--  Barad, K. (2007) Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press.
+Agüera y Arcas, B. (2025b) What is Intelligence? Antikythera. doi: 10.1162/ANTI.5CZB.
 
--  Hayles, N.K. (1999) How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics. Chicago: University of Chicago Press.
+Barad, K. (2007) Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press.
 
--  Pask, G. (1968) The Colloquy of Mobiles \[installation\]. Exhibited at Cybernetic Serendipity, Institute of Contemporary Arts, London.
+Hayles, N.K. (1999) How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics. Chicago: University of Chicago Press.
 
--  Rinaldo, K. (2000) Autopoiesis \[robotic installation\]. Commissioned by Kiasma Museum of Contemporary Art, Helsinki, for Alien Intelligence, curated by E. Huhtamo.
+Pask, G. (1968) The Colloquy of Mobiles \[installation\]. Exhibited at Cybernetic Serendipity, Institute of Contemporary Arts, London.
 
--  von Neumann, J. (1966) Theory of Self-Reproducing Automata. Edited by A.W. Burks. Urbana: University of Illinois Press.
+Rinaldo, K. (2000) Autopoiesis \[robotic installation\]. Commissioned by Kiasma Museum of Contemporary Art, Helsinki, for Alien Intelligence, curated by E. Huhtamo.
 
--  von Uexküll, J. (2010) A Foray into the Worlds of Animals and Humans: with A Theory of Meaning. Translated by J.D. O’Neil. Minneapolis: University of Minnesota Press.
+von Neumann, J. (1966) Theory of Self-Reproducing Automata. Edited by A.W. Burks. Urbana: University of Illinois Press.
 
--  Wiener, N. (1948) Cybernetics: or Control and Communication in the Animal and the Machine. Cambridge, MA: MIT Press.
+von Uexküll, J. (2010) A Foray into the Worlds of Animals and Humans: with A Theory of Meaning. Translated by J.D. O’Neil. Minneapolis: University of Minnesota Press.
+
+Wiener, N. (1948) Cybernetics: or Control and Communication in the Animal and the Machine. Cambridge, MA: MIT Press.
+
+</div>

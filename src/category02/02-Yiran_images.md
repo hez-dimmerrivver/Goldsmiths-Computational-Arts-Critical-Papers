@@ -1,13 +1,14 @@
 ---
 title: Bypassing
 ---
+
 <div class="chapter-two">
+
+##### Yiran Jiao
 
 # Bypassing
 
-## Yiran Jiao
-
-**An Empty Judgment Produced by Technology**
+## An Empty Judgment Produced by Technology
 
 <div class="body-text">
 
@@ -41,6 +42,7 @@ So technology opens a wormhole at the very place where judgment used to unfold. 
 And these bypassed conditions are precisely the qualification by which a person is treated as a subject who can argue back, can respond, can be understood anew. When judgment can take effect as usual while bypassing them, what is suspended is the subject's position to speak within this judgment. This, of course, we already know. What I want to raise is a further question beyond it. "Judgment" has always been taken as a single whole, its conditions and its outcome hard to pull apart. But if a "predictive system" became accurate enough, accurate enough to absorb an individual's appeals and, on that basis, actually change the outcome it gives, handing down an adjusted "perfect judgment," then has this synthetic empty judgment already come to possess the reality of "judgment"? And the sense of "being judged" that a person receives within it, what kind of synthetic artefact is that?
 
 One line of research argues that subjects determined by an algorithm should regain channels to contest, to respond, and to demand explanations, and that once these channels are designed into the system, the subject's position to respond can be restored (Yurrita et al., 2025\).[^5] But when a system becomes accurate enough to absorb these contestations and to adjust its own outcomes accordingly, I think the situation only grows worse. The more a system can respond to appeals, the more thoroughly it hollows out: each "perfect" adjustment produces a new judgment that has bypassed the constitutive conditions, and so produces more and more of an undefinable, incomplete "experience of being judged."
+
 </div>
 
 ### **End Notes**
@@ -55,7 +57,7 @@ Saunders, J., Hunt, P. and Hollywood, J.S. (2016) 'Predictions put into practice
 
 Yurrita, M., Verma, H., Balayn, A., Alfrink, K., Gadiraju, U. and Bozzon, A. (2025) 'Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability', Proceedings of the ACM on Human-Computer Interaction, 9(7), CSCW234. Available at: [https://doi.org/10.1145/3757415](https://doi.org/10.1145/3757415).
 
-#### 
+####
 
 [^1]: Hildebrandt, M. (2015) Smart Technologies and the End(s) of Law: Novel Entanglements of Law and Technology. Cheltenham: Edward Elgar.
 

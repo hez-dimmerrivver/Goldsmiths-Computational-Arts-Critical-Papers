@@ -1,6 +1,11 @@
 {% set chapters = collections.book | inFolder("category03") %}
 <section id="category03" class="category{% if chapters[0].data.tocNested %} book-category{% endif %}">
-  <h2 class="category-title">{{ chapters[0].data.categoryTitle }}</h2>
+  <h2 class="category-title">
+    <span style="display: none;">{{ chapters[0].data.categoryTitle }}</span>
+  </h2>
+  <div class="full-width category-cover">
+    <iframe src="https://editor.p5js.org/yairis11017/full/Mrc1TgFFQ"></iframe>
+  </div>
    <p>
   This section situates computational media within specific ecological and social contexts, allowing each computational practice to become a set of coordinates through which our understanding of the relationships between environment, technology, and society can be recalibrated.
 <br><br>

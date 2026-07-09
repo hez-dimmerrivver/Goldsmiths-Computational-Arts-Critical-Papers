@@ -4,9 +4,9 @@ title: The Dual Oracle
 
 <div class="chapter-two">
 
-# The Dual Oracle
+##### Zhenzhen Xie
 
-##  Zhenzhen Xie
+# The Dual Oracle
 
 <div class="body-text">
 
@@ -59,28 +59,28 @@ Online mass divination is not simply a digital version of an old spiritual pract
 
 ### **End Notes**
 
- Boyer, P. (2020) ‘Why Divination?: Evolved Psychology and Strategic Interaction in the Production of Truth’, Current Anthropology, 61(1), pp. 100–123. Available at: https://doi.org/10.1086/706879.
+Boyer, P. (2020) ‘Why Divination?: Evolved Psychology and Strategic Interaction in the Production of Truth’, Current Anthropology, 61(1), pp. 100–123. Available at: https://doi.org/10.1086/706879.
 
- Cheney-Lippold, J. (2011) ‘A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control’, Theory, Culture & Society, 28(6), pp. 164–181. Available at: https://doi.org/10.1177/0263276411424420.
+Cheney-Lippold, J. (2011) ‘A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control’, Theory, Culture & Society, 28(6), pp. 164–181. Available at: https://doi.org/10.1177/0263276411424420.
 
- Homola, S. (2025) ‘Online Divination Ethnographies: The Transformative Impact of Digital Technology and Social Media on Divination Practices’, International Journal of Divination and Prognostication, 6(1), pp. 1–7. Available at: https://doi.org/10.1163/25899201-bja10018.
+Homola, S. (2025) ‘Online Divination Ethnographies: The Transformative Impact of Digital Technology and Social Media on Divination Practices’, International Journal of Divination and Prognostication, 6(1), pp. 1–7. Available at: https://doi.org/10.1163/25899201-bja10018.
 
- Hui, Y. (2018) 'On automation and free time', e-flux journal, 98\. Available at: https://www.e-flux.com/architecture/superhumanity/179224/on-automation-and-free-time.
+Hui, Y. (2018) 'On automation and free time', e-flux journal, 98\. Available at: https://www.e-flux.com/architecture/superhumanity/179224/on-automation-and-free-time.
 
- Hui, Y. (2019) The Question Concerning Technology in China: An Essay in Cosmotechnics. Cambridge, MA: MIT Press. 
+Hui, Y. (2019) The Question Concerning Technology in China: An Essay in Cosmotechnics. Cambridge, MA: MIT Press.
 
- Jung, C.G. (1952) Synchronicity: An acausal connecting principle. Translated by R. F. C. Hull. London: Routledge & Kegan Paul. 
+Jung, C.G. (1952) Synchronicity: An acausal connecting principle. Translated by R. F. C. Hull. London: Routledge & Kegan Paul.
 
- Lazaro, C. (2023) ‘Algorithmic Divination: From Prediction to Preemption of the Future’, Information & Culture, 58(2), pp. 145–165. Available at: https://doi.org/10.7560/IC58202.
+Lazaro, C. (2023) ‘Algorithmic Divination: From Prediction to Preemption of the Future’, Information & Culture, 58(2), pp. 145–165. Available at: https://doi.org/10.7560/IC58202.
 
- Makuochukwu, E. and Ededet, I. (2026) ‘The Impact of Social Media Algorithms on Religious Belief Formation and Community Engagement’.
+Makuochukwu, E. and Ededet, I. (2026) ‘The Impact of Social Media Algorithms on Religious Belief Formation and Community Engagement’.
 
- Narayanan, A. (2023) 'Understanding social media recommendation algorithms', Knight First Amendment Institute at Columbia University. Available at: https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms.
+Narayanan, A. (2023) 'Understanding social media recommendation algorithms', Knight First Amendment Institute at Columbia University. Available at: https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms.
 
- Peng, L. (2024) ‘Divination Reimagined: The Impact of Online Platforms on Traditional Beliefs among Chinese Netizens’, Lecture Notes in Education Psychology and Public Media, 73(1), pp. 135–140. Available at: https://doi.org/10.54254/2753-7048/73/20241055.
+Peng, L. (2024) ‘Divination Reimagined: The Impact of Online Platforms on Traditional Beliefs among Chinese Netizens’, Lecture Notes in Education Psychology and Public Media, 73(1), pp. 135–140. Available at: https://doi.org/10.54254/2753-7048/73/20241055.
 
- Rouvroy, A. (2013) 'The end(s) of critique: Data-behaviourism vs. due-process', in Hildebrandt, M. and de Vries, K. (eds.) Privacy, due process and the computational turn: The philosophy of law meets the philosophy of technology. Abingdon: Routledge, pp. 143-168. 
+Rouvroy, A. (2013) 'The end(s) of critique: Data-behaviourism vs. due-process', in Hildebrandt, M. and de Vries, K. (eds.) Privacy, due process and the computational turn: The philosophy of law meets the philosophy of technology. Abingdon: Routledge, pp. 143-168.
 
- Rouvroy, A. and Berns, T. (2013) 'Algorithmic Governmentality and Prospects of Emancipation: Disparateness as a Precondition for Individuation Through Relationships?', translated by L. Carey-Libbrecht, Réseaux, 177(1), pp. 163–196. Available at: https://doi.org/10.3917/res.177.0163. 
+Rouvroy, A. and Berns, T. (2013) 'Algorithmic Governmentality and Prospects of Emancipation: Disparateness as a Precondition for Individuation Through Relationships?', translated by L. Carey-Libbrecht, Réseaux, 177(1), pp. 163–196. Available at: https://doi.org/10.3917/res.177.0163.
 
- Sartre, J.-P. (1946) Existentialism and Humanism. Translated by P. Mairet. London: Methuen. 
+Sartre, J.-P. (1946) Existentialism and Humanism. Translated by P. Mairet. London: Methuen.
