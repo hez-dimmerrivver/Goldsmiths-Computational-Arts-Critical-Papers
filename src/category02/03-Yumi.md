@@ -14,9 +14,11 @@ To most passers-by, pigeons appear almost identical. They belong to the familiar
 
 The project asked whether technologies normally associated with classification, surveillance and identification could be redirected towards overlooked non-human life. Instead of detecting only the general category “pigeon,” could a machine-vision system learn to recognise Huihui and Diandian as separate individuals? Could this process create a space in which non-human life became visible, recordable and open to broader discussion?
 
-<img src ="/static/images/Yumi/image2.png">
+<img src ="/static/images/Yumi/image3.png">
 
 Photographs and videos of the two pigeons were selected, cropped, organised and labelled to form a bespoke dataset. A YOLO object-detection model was then trained to distinguish Huihui, Diandian and other pigeons. YOLO frames object detection as a regression problem in which a neural network predicts bounding boxes and associated class probabilities from an image (Redmon et al. 2016, 779–80). It does not encounter a bird as a living subject. Instead, the image is processed as numerical input and translated into coordinates, class labels and confidence values.
+
+<img src ="/static/images/Yumi/image2.png">
 
 Recognition is therefore produced through abstraction. Visual differences are transformed into measurable features and compared with the categories established during training. As Trevor Paglen argues, machine-readable images increasingly operate through classifications, training sets and mathematical abstractions rather than through forms of vision addressed primarily to human spectators (Paglen 2016). What appears through the interface as the recognition of a stable object is consequently the visible result of a series of computational operations.
 
