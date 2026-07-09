@@ -10,7 +10,7 @@ title: Re-Sensing Locality
 
 ## DRIFTING as a Remote Signal
 
-</div>
+####
 <div class="body-text">
 
 ![][image1]  
