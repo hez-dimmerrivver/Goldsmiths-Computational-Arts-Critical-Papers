@@ -8,12 +8,12 @@ title: Misalignment
 
 # Misalignment
 
-**When GPS is disrupted, time and space no longer align**
+## When GPS is disrupted, time and space no longer align
 
 <img src="/static/images/Hez/image-01.webp">
 
 <div class="body-text">
-Why are humans so obsessed with precise time? Everything we rely on such as communication, financial markets, and even war depends on precise time working flawlessly. From sundials to atomic clocks with GPS systems, we have spent centuries trying to reduce natural variation and human error for the timekeeping system.
+Why are humans so obsessed with precise time? Everything we rely on such as communication, financial markets, and even war depends on precise time working flawlessly. From sundials to atomic clocks with GPS systems (Johnsen Oct 2024), we have spent centuries trying to reduce natural variation and human error for the timekeeping system.
 
 **//- \- Past to Now \- \-**  
 **//From Human Perception of Time to Machine Readable Time**
@@ -22,73 +22,67 @@ Before time was defined by atomic oscillations and digital signals, it was a sha
 
 _“Timing is rapidly becoming a critical element for many industries. As the need for precise timing grows, more and more users are turning to GPS technology.” \-Dennis L. Workman._
 
-Right now, we obtain precise time on our smartphones, synchronized through atomic clocks and GPS satellites. This time is transmitted as signals from satellites to receivers, where it is processed and corrected. It then passes through different time standards before becoming the time we see on our screens.  
+Right now, we obtain precise time on our smartphones, synchronized through atomic clocks and GPS satellites. This time is transmitted as signals from satellites to receivers, where it is processed and corrected(Khalpada Apr 2026). It then passes through different time standards before becoming the time we see on our screens. (The images below illustrate the relationship between GPS time and positioning) (UNAVCO Spotlight n.d.)
 <img src="/static/images/Hez/image1.png" class="single-column-img">
-
-![][image2]  
-Figure 1\. The relationship between GPS time and positioning  
-![][image3]  
-Figure 2\. How GPS works
+<img src="/static/images/Hez/image2.png" class="single-column-img">
 
 **//- \- Now \- \-**  
 **//Signal Interference: The Fragility Behind Perfect Precision**
 
 Have you ever doubted the time displayed on your smartphone or laptops? If it were altered by a cyberattack, would you even notice it?
 
-Once we moved away from nature-based timekeeping, human beings achieved unprecedented precision in measuring time. Modern time is distributed through satellites, cloud infrastructure, and interconnected software systems, all of which have been accumulating new layers of vulnerability. Modern time systems are accurate to microseconds, yet even a small disruption such as GPS jamming or spoofing can lead to errors of an hour or more.
+Once we moved away from nature-based timekeeping, human beings achieved unprecedented precision in measuring time. Modern time is distributed through satellites, cloud infrastructure, and interconnected software systems, all of which have been accumulating new layers of vulnerability. Modern time systems are accurate to microseconds, yet even a small disruption such as GPS jamming (Windward n.d.) or spoofing (Brown Apr 2024) can lead to errors of an hour or more.
 
-![][image4]  
-Figure 3\. Two types of GPS interference: spoofing and jamming.
+<img src="/static/images/Hez/image3.png" class="single-column-img">
 
-These two forms of interference create distortions and illusions of time and space. GPS jamming prevents receivers from accessing authentic satellite signals, while GPS spoofing replaces them with false ones. Although GPS depends on satellites orbiting above us, both attacks originate from the ground. Their signals are powerful enough to overwhelm the weak transmissions arriving from space, allowing false time and location information to take their place.
+These two forms of interference create distortions and illusions of time and space. GPS jamming prevents receivers from accessing authentic satellite signals, while GPS spoofing replaces them with false ones.
+
+Although GPS depends on satellites orbiting above us, both attacks originate from the ground. Their signals are powerful enough to overwhelm the weak transmissions arriving from space, allowing false time and location information to take their place.
 
 GPS is not only a positioning system but also a time synchronization infrastructure. As signal interference becomes more frequent, the reliability of modern timekeeping systems is increasingly at risk. In recent years, GPS signals have experienced growing levels of jamming and spoofing, particularly in regions affected by geopolitical tensions. These disruptions not only affect navigation but also the global timing systems that modern infrastructure depends on.
 
-![][image5]  
-Figure 4\. Live GPS interference map (source: GPSWise)
+<img src="/static/images/Hez/image4.png" class="single-column-img">
+The image shows a live GPS interference map (GPS Wise n.d.).
 
 **// Visualisation of Misalignment**
 
-Both the signals that synchronise our time and the threats that disrupt them are invisible. As interference becomes increasingly common, it is still difficult to perceive the vulnerability hidden within the GPS Time keeping system. Therefore, this project aims to make that vulnerability visible through data visualization.
+Both the signals that synchronise our time and the threats that disrupt them are invisible. As interference becomes increasingly common, it is still difficult to perceive the vulnerability hidden within the GPS Time keeping system. Therefore, Misalignment aims to make that vulnerability visible through data visualization and a piece of installation art.
+By comparing the sundial and GPS timekeeping systems, Misalignment explores the contradiction between two forms of reliability: one is imprecise yet difficult to manipulate, while another is extraordinarily precise yet increasingly vulnerable to interference.
 
-By comparing the sundial and GPS timekeeping systems, _Misalignment_ explores the contradiction between two forms of reliability: one is imprecise yet difficult to manipulate, while another is extraordinarily precise yet increasingly vulnerable to interference.
+<img src="/static/images/Hez/image5.png" class="single-column-img">
 
-![][image6]  
-Figure 5\. Installation rendering of the installation (generated by Google Gemini).
-
-_Misalignment_ developed a dual timekeeping system. The sundial is driven by the Sun, while the GPS clock depends on satellite timing signals and real-time data from the OpenSky API. Using this data, I developed two formulas to measure the daily intensity of GPS jamming and spoofing in a specific region.
+It developed a dual timekeeping system. The sundial is driven by the Sun, while the GPS clock depends on satellite timing signals and real-time data from the OpenSky API. Using this data, I developed two formulas to measure the daily intensity of GPS jamming and spoofing in a specific region.
 
 Initially, the dual timekeeping system records two nearly identical trajectories. However, as interference emerges, the GPS clock begins to drift. Jamming causes the GPS clock hand to pause, while spoofing alters its speed. Over time, these deviations accumulate into visible traces of disruption, revealing the hidden instability beneath modern precision. The more a system depends on information and technology, the more easily it can be interfered with.
 
-![][image7]![][image8]  
-Figure 6\. The installation records the trajectory of time, transforming rotational movement into sine waves.
+<img src="/static/images/Hez/image6.png" class="single-column-img">
 
-The movement of the clocks creates two sine-wave trajectories derived from circular motion. These traces show how time can be translated into distance, while also connecting to light waves and satellite signals that travel through space to transmit information. Both trajectories are marked by their own specific limitations. Sundials cannot display time at night, while GPS time measurement can be easily disrupted by strong interference signals. Although they rarely align perfectly, their highs and lows fall into a rhythm. This harmony reflects the friction and flow between humans and the path of technological development.
+The movement of the clocks creates two sine-wave trajectories derived from circular motion. These traces show how time can be translated into distance, while also connecting to light waves and satellite signals that travel through space to transmit information. Although they rarely align perfectly, their highs and lows fall into a rhythm. This harmony reflects the friction and flow between humans and the path of technological development.
 
-In the past, during the Age of Agriculture, people lived in accordance with sunrise and sunset and did not rely on precise time measurement while sleeping at night. However, as modern society requires precise timing to operate advanced technologies and 24-hour infrastructure, increasingly accurate timekeeping systems had to be developed. Over time, technological development has pushed humans to rely more on machines because of their accuracy. However, at the same time, human beings have gradually lost sensitivity to changes in nature and the environment.
+During the Age of Agriculture, people lived according to natural rhythms, waking with sunrise and resting with sunset. However, as modern societies developed complex technologies and 24-hour infrastructures, increasingly accurate timekeeping systems became essential. This technological progress gradually shifted human dependence from natural cycles to mechanical and digital systems, reducing our awareness of environmental changes and natural rhythms.
 
 **//- \- Now to Future- \-**  
 **//Reflection: Balancing Precision and Resilience**
 
-Time is always in motion, and there are many ways to define and perceive it. Yet we are gradually losing our intuition for how fast or slow it passes, as we increasingly rely on digital displays and systems shaped by technology. Perhaps this is because the boundary between the real and virtual worlds has become blurred, leaving us immersed in a continuous flow of mediated time. To communicate seamlessly across the world, we depend on internet protocols to synchronize time. As a result, we no longer sense it through natural rhythms such as light or temperature changes, but instead trust the numbers on screens.
-
+Time is always in motion, and the way humans perceive it has been transformed. Today, our understanding of time is increasingly shaped by digital displays, synchronized networks, and technological systems rather than direct experiences of the natural world. As the boundary between the physical and virtual worlds becomes increasingly blurred, we may be losing our intuitive sense of time’s passage and becoming more dependent on the numerical representations provided by technology.
 Humans never stop evolving, which is our greatest strength. Seeing scientists tackle cyber threats like jamming and spoofing is encouraging, but it’s a constant arms race. As we keep pursuing more precision, we have to acknowledge that we may be sacrificing long-term resilience just to get the numbers to match.
 
 What time is it now? It’s time to wrap up. We embrace technology, but maintaining a critical mindset and independent thinking still matters. As we collaborate more closely with machines, it is important to keep our critical sharpness. When we ask machines or AI for information, whether about time or anything else, we should also understand the reasons behind the answers. We should ask ourselves: are we leveraging machines, or are we being shaped and leveraged by them?
 
 </div>
 
-### **End Notes**
+<div class="divider"></div>
+<div class="endnote-container">
 
-- Workman, Dennis L., ‘GPS and Telling Time’, _GPS.gov_, Trimble Component Technologies Division, accessed 15 June 2026 [https://www.gps.gov/gps-and-telling-time](https://www.gps.gov/gps-and-telling-time).
+#### End Notes
 
-- _Per Thirty Six_, ‘How the Heck Does GPS Work?’, accessed 15 June 2026 [https://perthirtysix.com/how-the-heck-does-gps-work](https://perthirtysix.com/how-the-heck-does-gps-work).
-- _UNAVCO Spotlight_, ‘Decoding the GPS Signal’, accessed 15 June 2026 [https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html](https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html).
-- ‘Atomic Clocks and GPS Timing’, _TimeBeat_, accessed 15 June 2026 [https://www.timebeat.app/post/atomic-clocks-gps-timing](https://www.timebeat.app/post/atomic-clocks-gps-timing).
-- ‘Decoding the GPS Signal’, _UNAVCO Spotlight_, accessed 15 June 2026 [https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html](https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html).
-- ‘GPSwise: Real-Time GPS Spoofing & Jamming Map’, _GPSwise_, accessed 15 June 2026 [https://gpswise.aero/](https://gpswise.aero/).
-- Lauriault, Tracey P., and Jeremy Wood, ‘GPS Tracings – Personal Cartographies’, _The Cartographic Journal_, 46.4 (November 2009), 360–365, Geomatics and Cartographic Research Centre, Department of Geography and Environmental Studies, Carleton University, Ottawa.
-- ‘Space Odradek: Dive into the Spooky Invisible’, _CreativeApplications.net_, accessed 5 June 2026 [https://www.creativeapplications.net/member/space-odradek-dive-into-the-spooky-invisible/](https://www.creativeapplications.net/member/space-odradek-dive-into-the-spooky-invisible/)
+- Lasse Johnsen, ‘Understanding Atomic Clocks and GPS Timing: The Heart of Modern Timekeeping’, TimeBeat, 8 Oct 2024, <https://www.timebeat.app/post/atomic-clocks-gps-timing> [accessed 17 June 2026]
+- Dennis L.Workman , ‘GPS and Telling Time’, GPS.gov, Trimble Component Technologies Division, n.d.<https://www.gps.gov/gps-and-telling-time> [accessed 17 June 2026]
+- Shri Khalpada, ‘How The Heck Does GPS Work?’, PerThirtySix, 11 April 2026, <https://perthirtysix.com/how-the-heck-does-gps-work/> [accessed 15 June 2026]
+- UNAVCO Spotlight, ‘Decoding the GPS Signal’, n.d. <https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html> [accessed 18 June 2026]
+- Windward, ‘What Is GPS Jamming?’, n.d.< https://windward.ai/glossary/what-is-gps-jamming/> [accessed 12 June 2026]
+- Justin Brown, ‘What is GPS Spoofing? ...And How to Avoid It’, APG, 29 April 2024,<https://flyapg.com/blog/what-is-gps-spoofing> [accessed 12 June 2026]
+  GPSwise, ‘‘GPSwise: Real-Time GPS Spoofing & Jamming Map’, n.d. <https://gpswise.aero/> [accessed 14 June 2026]
 
 </div>
 

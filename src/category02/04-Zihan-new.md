@@ -6,11 +6,13 @@ title: AI’s Media Mix
 
 ##### Zihan
 
-# AI’s Media Mix
+# Ai’s Affinity With Anime, and Its Risks
+
+## Ai’s Affinity With Anime, and Its Risks
 
 <div class="body-text">
 
-Year is 2026, 4 years since Stable Diffusion hit the market. Me and a colleague were walking through the subway of Shanghai when a peculiar looking poster entered our vicinity. The advert features an anime-styled illustration of two people. The lady in front looks like she’s been excessively rendered by an artist, whereas the boy in the background had a slightly smeared face and hands. We immediately recognised this as “AI art”. My colleague, who just happen to be invested in the very field of image generation, made snarky comments that the image was made using an outdated “checkpoint model”, and if it were him, would have used “state-of-the-art” models such as \*Anima\* and \*Illustrious-XL\*. He then showed me an example output of both models, each featuring wondrous looking character art that are indeed free from artefacts. I could not help but wonder if there is certain endowed affinity between the anime and diffusion models, that they are able to replicate its feat so effectively. I jokingly asked him if he could reverse-engineer the prompt used to produce the image in front of us, and watched as a long chain of AI runes being ejected out of his mouth.
+The year is 2026, four years since Stable Diffusion hit the market. A colleague and I were walking through the subway platform of Shanghai when a peculiar-looking poster entered our vicinity. The advert featured an anime-styled illustration of two people. The girl in front looked like she’d been meticulously rendered by an artist, whereas the boy in the background had smeared, half-fused fingers. The generic yet uncanny depiction immediately presented itself as "AI art". My colleague, who happened to be invested in this field, made snarky comments that the image was a product of an outdated "checkpoint model", and that he would have used "state-of-the-art" illustration models such as Illustrious-XL and NoobAI-XL. I jokingly asked him if he could reverse-engineer the prompt used to produce the image in front of us, and watched a long chain of AI runes eject from his mouth.
 
 \> 1girl, 1boy, girl focus, looking at viewer, hands up, straight hair, short hair, dark skin, school uniform, best quality, masterpiece.
 
