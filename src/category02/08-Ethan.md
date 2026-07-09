@@ -52,7 +52,7 @@ _Fig. 3 Diptych: The Aphasic Manifesto / I Am Here. Left: generated English, col
 
 This descent is neither random nor a mere technical flaw; it is a visible register of power. Crawford argues that machine classification is never neutral—it records who holds weight in the world of data (Crawford 2021). The claim that such classification is objective is what Haraway calls the god trick: a view from nowhere that hides the position it speaks from (Haraway 1988). To stage this at small scale I trained a CNN on a deliberately skewed set, 95% Latin to 5% Chinese. It is a conceptual reenactment: the minority class is not unlearnable—it is learned late, and never quite caught up.
 
-<img src ="/static/images/Ethan/image3.jpg">
+<img src ="/static/images/Ethan/image3.gif">
 
 _Fig. 4 Validation accuracy per epoch. Latin (95%) mastered at once; Chinese (5%) never catches up. Conceptual reenactment._
 
