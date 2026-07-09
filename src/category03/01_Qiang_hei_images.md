@@ -12,8 +12,7 @@ title: Re-Sensing Locality
 
 ####
 
-
-
+<img src ="/static/images/Qiang/banner.png" class = "single-column-image">
 <div class="body-text">
 
 Abstract
