@@ -4,17 +4,23 @@ title: The_Unarchivable
 
 <div class="chapter-two">
 
-##### Yumi
+##### Yumi Zhang
 
 # The_Unarchivable
 
-<div class="body-text">
+####
+
+<div class= "body-text">
 
 To most passers-by, pigeons appear almost identical. They belong to the familiar background of the city: birds gathering on pavements, rooftops and window ledges, visible almost everywhere but rarely noticed as individuals. _The Unarchivable_ began by interrupting this habitual form of attention. It centred on Huihui and Diandian, two homing pigeons raised by the artist. Although they lived under human care and had individual names and histories, their appearance closely resembled that of the anonymous pigeons encountered across the city. Their position therefore remained uncertain: they were intimate and familiar lives, yet they also belonged visually to a population often treated as an interchangeable urban background.
 
 The project asked whether technologies normally associated with classification, surveillance and identification could be redirected towards overlooked non-human life. Instead of detecting only the general category “pigeon,” could a machine-vision system learn to recognise Huihui and Diandian as separate individuals? Could this process create a space in which non-human life became visible, recordable and open to broader discussion?
 
+<img src ="/static/images/Yumi/image3.png">
+
 Photographs and videos of the two pigeons were selected, cropped, organised and labelled to form a bespoke dataset. A YOLO object-detection model was then trained to distinguish Huihui, Diandian and other pigeons. YOLO frames object detection as a regression problem in which a neural network predicts bounding boxes and associated class probabilities from an image (Redmon et al. 2016, 779–80). It does not encounter a bird as a living subject. Instead, the image is processed as numerical input and translated into coordinates, class labels and confidence values.
+
+<img src ="/static/images/Yumi/image2.png">
 
 Recognition is therefore produced through abstraction. Visual differences are transformed into measurable features and compared with the categories established during training. As Trevor Paglen argues, machine-readable images increasingly operate through classifications, training sets and mathematical abstractions rather than through forms of vision addressed primarily to human spectators (Paglen 2016). What appears through the interface as the recognition of a stable object is consequently the visible result of a series of computational operations.
 
@@ -32,11 +38,17 @@ The project distinguishes embodied seeing from computational abstraction and cla
 
 The project develops the term _algorithmic disorientation_ to describe moments when this calculation cannot be maintained consistently across successive frames.¹ “Disorientation” does not imply that the algorithm is conscious, confused or capable of subjective experience. Rather, it names an operational condition in which the system loses the spatial and temporal consistency necessary to produce the appearance of one coherent object moving through time. The calculations continue, but bounding boxes compete for position, confidence values fall, and the detected object may fragment into several uncertain presences.
 
+<img src ="/static/images/Yumi/image1.png">
+
 To investigate this condition, _Learning to Fold_ moves away from the complete pigeon and focuses on a custom-built skeletal wing structure. The structure abstracts the wing into hinges, extensions and folding relations, allowing selected movements to be repeated under more controlled conditions. It does not claim to reproduce pigeon anatomy. Instead, it functions as an experimental device for testing folding, vibration, acceleration, concealment and changes in outline.
 
 These detection failures cannot be attributed to one cause. Within the experiments, folding produced overlap and concealed previously visible features. Speed introduced motion blur and greater visual differences between consecutive frames. Lighting, camera frame rate, object scale, processing latency and the limits of the training data also affected the model’s outputs. The project therefore does not claim that pigeon wings are intrinsically or permanently beyond computation. Improved cameras, larger datasets, faster hardware or different model architectures might reduce many of these errors. What matters is the temporary interval in which the system used in the project cannot stabilise the moving body as a continuous computational identity.
 
 Henri Bergson’s concept of duration helps to frame this interval. Bergson distinguishes lived duration from spatialised models of time that divide movement into separate and measurable units. In duration, successive moments do not exist as isolated points but flow into and transform one another (Bergson 2001, 100–106). Object detection, by contrast, samples movement through separate frames and reconstructs continuity from a sequence of individual predictions. Flickering and multiplying boxes expose moments when this reconstruction no longer appears seamless. The wing continues moving, but the model’s account of it becomes discontinuous.
+
+</div>
+<img src ="/static/images/Yumi/image4.png" class = "single-column-image">
+<div class= "body-text">
 
 Building on these ideas, the project develops the term _temporal opacity_.² Édouard Glissant’s right to opacity challenges the assumption that difference must become fully transparent or comprehensible in order to enter into relation. Opacity does not simply mean invisibility, isolation or withdrawal. It protects that which cannot be entirely reduced to the terms through which another person or system seeks to understand it (Glissant 1997, 189–94).
 
@@ -56,8 +68,10 @@ More powerful hardware, faster cameras, larger datasets or different detection m
 
 - Temporal opacity is also developed within this project. It draws on Glissant’s right to opacity and Blas’s informatic opacity but refers specifically to uneven computational legibility across successive frames of object detection.
 </div>
-
-### **End Notes**
+<div class="divider"></div>
+<div class="endnote-container">
+ 
+#### END NOTES
 
 - Bergson, Henri. 2001\. Time and Free Will: An Essay on the Immediate Data of Consciousness. Translated by F. L. Pogson. Mineola, NY: Dover Publications.
 

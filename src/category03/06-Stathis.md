@@ -1,12 +1,14 @@
 ---
-title: Moving from Technofeudal Enclosure to Techno-Socialist Infrastructures
+title: Reclaiming the Cloud
 ---
 
 <div class="chapter-three">
 
 ##### Stathis
 
-# Moving from Technofeudal Enclosure to Techno-Socialist Infrastructures
+# Reclaiming the Cloud
+
+## From Technofeudalism to Techno-Socialism
 
 <div class="body-text">
 
@@ -46,7 +48,7 @@ This influence is not exercised through explicit persuasion or transparent edito
 
 We are left standing on a profound political threshold. The tech giants have vastly outgrown the definitions of private enterprise. As Benjamin Bratton (2015) outlines in his structural model of the _Cloud Polis_, mega-platforms already function as sovereign proto-states. They have absorbed traditional state assignments such as global cartography, legal identity verification, and private market governance, binding users to Terms of Service that supersede national constitutions (Bratton 2015).
 
-**This brings us to the conceptual horizon of my essay. A democratic society cannot survive if its primary spaces of discourse, commerce, and logistics are owned by unaccountable tech overlords. If Big Tech already functions as an essential infrastructure and a privatised proto-state, we must stop trying to politely persuade or regulate it within a neoliberal framework. We must begin transitioning these platforms into genuine public goods.**
+This brings us to the conceptual horizon of my essay. A democratic society cannot survive if its primary spaces of discourse, commerce, and logistics are owned by unaccountable tech overlords. If Big Tech already functions as an essential infrastructure and a privatised proto-state, we must stop trying to politely persuade or regulate it within a neoliberal framework. We must begin transitioning these platforms into genuine public goods.
 
 **Part V: The Techno-Socialist Counter-Offensive**
 
@@ -80,7 +82,10 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
 
 </div>
 
-### **End Notes**
+<div class="divider"></div>
+<div class="endnote-container">
+  
+#### **End Notes**
 
 - Bratton, B. H. (2015). The Stack: On Software and Sovereignty. Cambridge, MA: MIT Press. Available at: http://www.vlebooks.com/vleweb/product/openreader?id=Goldsmiths\&isbn=9780262330183 (Accessed: 7 May 2026).
 
