@@ -205,9 +205,10 @@ we were wondering how the human errors in the crochet code would cause mutations
 
 [future swarm]  
 The yarn is data/information. the hands behave as a slow compiler. mutations.bod(y)(ies). Is it a chain stitch or a radical shift? If then nothing, bbbbb bb bbbbbbbbbb missed stitch, extra yarn over, unhandled exception in wool. skipping rows to allocate memory for the body. A#HHHHKKKKKHHKKHa aa aaaaaaaaaaaaaaaaaaH.... A#HHHHHHKKHHKQ....... holes appeared; gaps were filled. Buuuuuuut!!!OVERFLOW:YARN the merging changed us more thaaaaaAAAAAAAaaaan the mutations(Agüera y Arcas 2025b: 18.32). Write C://BODY//GENOME.SYS SUCCESS as the feedback loop iterated more and more, the different origins of ourselves became more deeply entangled. you can no longer tell what parts of us were rooted where; we had become enmeshed in ourself.    
-   <br><br>                                                                                           
-### END NOTES      
-</div>
+   </div>
+<div class="divider"></div>
+<div class="endnote-container">
+#### END NOTES      
 
 -  Agüera y Arcas, Blaise. ‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’, online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk [accessed 7 July 2026]
 -  Agüera y Arcas, Blaise. Machine Learning Street Talk. (2025, October 21). Google researcher shows life "emerges from code" [Blaise Agüera y Arcas] [Video]. YouTube. https://www.youtube.com/watch?v=rMSEqJ_4EBk [accessed 9 July 2026]
@@ -219,3 +220,5 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 -  Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI.Available at: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta [accessed 9 July 2026]
 -   Margulis, Lynn, and Dorion Sagan. Microcosmos: Four Billion Years of Microbial Evolution. Summit Books, 1986.
 -  WomenTech Network. (2026). Women in tech stats. https://www.womentech.net/women-in-tech-stats [accessed 9 July 2026]
+
+</div>
