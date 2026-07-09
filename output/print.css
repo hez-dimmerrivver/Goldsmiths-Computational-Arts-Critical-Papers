@@ -81,6 +81,11 @@
     font-family: "Doto_Rounded-Regular";
     src: url("/static/fonts/Doto_Rounded-Regular.ttf");
 }
+
+@font-face {
+    font-family: "monaspace";
+    src: url("static/fonts/MonaspaceXenonNF-Regular.otf");
+}
    
    
 /*///////////// PAGED JS RULES ///////////////*/
@@ -340,6 +345,17 @@ h5 {
     page-break-before: always;/*new page for every submission title*/
     margin-top: 0.6em;
     margin-bottom: 1.1em;
+}
+
+/*zihan's code*/
+code {
+    font-size: 9pt;
+    line-height: 1.2em;
+    font-family: 'monaspace', monospace; 
+    background-color: #f0f0f0;
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    display: inline-block;
 }
 
 
