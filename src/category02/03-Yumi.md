@@ -47,7 +47,7 @@ These detection failures cannot be attributed to one cause. Within the experimen
 Henri Bergson’s concept of duration helps to frame this interval. Bergson distinguishes lived duration from spatialised models of time that divide movement into separate and measurable units. In duration, successive moments do not exist as isolated points but flow into and transform one another (Bergson 2001, 100–106). Object detection, by contrast, samples movement through separate frames and reconstructs continuity from a sequence of individual predictions. Flickering and multiplying boxes expose moments when this reconstruction no longer appears seamless. The wing continues moving, but the model’s account of it becomes discontinuous.
 
 </div>
-<img src ="/static/images/Yumi/image4.png">
+<img src ="/static/images/Yumi/image4.png" class = "single-column-image">
 <div class= "body-text">
 
 Building on these ideas, the project develops the term _temporal opacity_.² Édouard Glissant’s right to opacity challenges the assumption that difference must become fully transparent or comprehensible in order to enter into relation. Opacity does not simply mean invisibility, isolation or withdrawal. It protects that which cannot be entirely reduced to the terms through which another person or system seeks to understand it (Glissant 1997, 189–94).
