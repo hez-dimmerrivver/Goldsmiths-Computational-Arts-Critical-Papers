@@ -53,7 +53,7 @@ An Umwelt, this paper has argued, is not a pre-given environment but a relationa
 <div class="divider"></div>
 <div class="endnote-container">
 
-**End Notes**
+#### **END NOTES**
 
 • Agüera y Arcas, B. (2025a) _Google Researcher Shows Life “Emerges From Code”_. Interviewed by Machine Learning Street Talk \[video\]. Available at: [https://www.youtube.com/watch?v=rMSEqJ_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (Accessed: 20 June 2026).
 
