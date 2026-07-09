@@ -7,18 +7,14 @@ title: The Aphasic Manifesto
 ##### 張一航 Yihang Zhang
 
 # The Aphasic Manifesto
-
+  
 ## The Algorithm Does Not Write. It Samples.
 
-**_沉默呵，沉默呵！不在沉默中爆發，就在沉默中滅亡。_**
-
-**_Silence, silence\! Unless we burst out in silence, we perish in it._**
-
-**— Lu Xun, In Memory of Miss Liu Hezhen (1926), translation by the author**
-
-**Introduction**
-
 <div class="body-text">
+
+_沉默呵，沉默呵！不在沉默中爆發，就在沉默中滅亡。_
+_Silence, silence\! Unless we burst out in silence, we perish in it._
+— Lu Xun, In Memory of Miss Liu Hezhen (1926), translation by the author
 
 I asked a model to write 處 (place), and it returned a shape whose outline resembled 慶 (celebration) but whose strokes matched neither—four times, without exception. I tested three text-to-image models—SD 1.5 (2022, West), FLUX.1 schnell (2024, West), GLM Image (2025, China)—on six traditional characters, and the result overturned my assumption. It is not that Western models are mute and Chinese models fluent; all of them are aphasic, and the severity is set by how often a character appears in the training data. Algorithmic aphasia keeps the topological outline of a character and destroys its stroke logic. The model does not write; it samples a visual impression from a sparse, distorted distribution. I appropriate Glissant's right to opacity (Glissant 1997\) to rename this failure as refusal: these collapsed characters are not junk but evidence of a power structure. This manifesto does not propose to fix aphasia. It lets aphasia speak.
 
