@@ -74,7 +74,7 @@ What time is it now? It’s time to wrap up. We embrace technology, but maintain
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### End Notes
+#### END NOTES
 
 - Lasse Johnsen, ‘Understanding Atomic Clocks and GPS Timing: The Heart of Modern Timekeeping’, TimeBeat, 8 Oct 2024, <https://www.timebeat.app/post/atomic-clocks-gps-timing> [accessed 17 June 2026]
 - Dennis L.Workman , ‘GPS and Telling Time’, GPS.gov, Trimble Component Technologies Division, n.d.<https://www.gps.gov/gps-and-telling-time> [accessed 17 June 2026]
