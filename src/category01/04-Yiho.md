@@ -4,7 +4,7 @@ title: What Passes Through
 
 <div class="chapter-one">
 
-##### Yiho
+##### Yiho Li
 
 # What Passes Through
 
@@ -28,15 +28,9 @@ Furthermore, through my own artistic practice independently and as an art collec
 
 First, look at how boundaries in the arts frame our longing for an “elsewhere”. Before the advent of interactive digital media, the portal was still only a window within the medium itself. In architecture, illusionistic ceiling painting, the so-called “Trompe-l'œil”, or Quadratura, in the cathedral serves as a classic example. By dissolving the physical ceiling into an infinite sky, it invites the eye to ascend into a spiritual world.
 
-![][image1]![][image2]
-
 As for paintings, John Berger in Ways of Seeing notes, "perspective makes the single eye the centre of the visible world" (Berger 1972, 16). That is, everything in the painting is set out for our sight, and the viewer is always kept outside the picture frame as a physical boundary. Paintings like Jan van Eyck's Arnolfini Portrait or Petrus Christus's A Goldsmith in His Shop seem to push against this, using a convex mirror as a small meta-portal that reflects the space in front of the picture and appears to pull our world inside. However, such visual tricks still cannot eliminate the fact that the reality is blocked outside the picture frame.
 
-![][image3]![][image4]
-
 René Magritte pushes this play with the boundary even further. In La Condition Humaine, an easel stands in front of a window, and the painted canvas upon it continues the landscape outside so seamlessly that we cannot tell where the real view ends and the picture begins. Yet in his series of doors, such as La Réponse Imprévue, L'acte de Foi, a closed door is broken but open by an irregular hole that reveals the space behind it. The frame as a portal is no longer something we merely look into, but a threshold we desire to step through, which the screen, and later the headset, will take up in earnest to realise.
-
-![][image5]![][image6]
 
 **Watching Others Cross: The Diegetic Portal on Movie Screen**
 
@@ -48,15 +42,9 @@ However, it is the video game that takes the next radical step: what crosses the
 
 Speaking of games, the portal becomes the classic interactive metaphor for player agency. In fact, the concept of the "portal" is deeply rooted in video game terminology as a fundamental mechanic for avatar’s navigation. In the earlier games like Super Mario Bros, portals like “Warp Pipes” only served as symbolic gateways used to transition between game levels. While they offered access to hidden routes or shortcuts, their function remained passive and fixed within the game's spatial structure.
 
-![][image7]
-
 By contrast, in a more contemporary game like Portal 2, portals are transformed into an active tool for manipulating spaces. Players can strategically place portals to circumvent physical constraints and redirect momentum, for example, converting vertical free-fall energy into horizontal velocity when they are navigating in a 3D space.
 
-![][image8]
-
 To understand how portals redefine spatial structure in rendering, we must look into “Non-Euclidean geometry”. While traditional Euclidean space relies on absolute constants of distance and proportion, game designers can utilize the portal as a “spatial editor”. For instance, players may encounter chambers that are internally larger than their external dimensions, and having a “'TARDIS-like” feeling, or experience self-folding infinite loops in one space. This manipulation of topology turns what would be a static, enclosed room into a generative, malleable structure.
-
-![][image9]![][image10]
 
 Portals are no longer destinations to be traversed; they become tools through which players actively reshape their spatial environment. At the same time, it anticipates contemporary VR/MR experiences where space itself becomes a mutable and interactive medium.
 
@@ -68,8 +56,6 @@ What changes most on this virtual side of the portal is how we feel about our ow
 
 In my past work Low-life, I turned the viewer into a non-human body—a cockroach in a kitchen—where the world is seen from a low, ground-level vision, through a perspective our own bodies could never inhabit. Similarly, in CURIOSKI, one of my collective’s projects, A Glimpse of the Mind Landscape, we treated the headset itself as a “mind-plugin”. We explored how consciousness interacts with different states of embodiment, including human forms, mysterious creatures, and even existence without any body at all.
 
-![][image11]
-
 **Bringing the “Elsewhere” Closer in MR: Virtual Portals in Physical Reality**
 
 Moving to the mixed reality(MR), it becomes harder to say that the headset itself is the portal, because MR no longer clearly separates an inside from an outside (the virtual world vs. the reality). Here the discussion of the portal can be focused from the whole headset down to a threshold opened within the scene. Making an MR experience in a game engine like Unity, for example, we can design how exactly transparent the real world should be seen, and how our real body can trigger a simulated door, for the player to move back and forth between the reality and the virtual world.
@@ -77,8 +63,6 @@ Moving to the mixed reality(MR), it becomes harder to say that the headset itsel
 The realization of these bidirectional portals relies fundamentally on the "pass-through" technology of contemporary headsets, such as the Meta Quest 3 or Apple Vision Pro. When we put on the headset, our physical vision is completely enclosed at first, then, the "reality" will be rendered in a real-time, digitized reconstruction captured by external cameras and projected onto screens inside the headset.
 
 CURIOSKI's The Insider takes this up as a narrative practice, assembling physical and virtual objects into a single space: we placed a virtual window on the real wall through which one could look out. On the other hand, in Paxville, we did the opposite—making holes around the reality to look into the virtual world behind it. The two works map the two directions a portal can open in MR, emphasizing this threshold connecting “here” and “there”, is no longer merely transporting us, but collapsing the boundary between the two, allowing physical reality and virtual imagination to seamlessly blend into one another.
-
-![][image12]![][image13]
 
 **The Unfinished Imagination of the Elsewhere**
 
