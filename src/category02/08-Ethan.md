@@ -66,24 +66,17 @@ These characters do not need to be fixed. Aphasia is not an error to correct; it
 
 **We do not fix aphasia. We let it speak.**
 
-</div>
+</div><br><br>
 
-### **End Notes**
+### END NOTES
 
 - Chiang, Ted (2023), 'ChatGPT Is a Blurry JPEG of the Web', The New Yorker, 9 February
-
 - Crawford, Kate (2021), Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (New Haven: Yale University Press)
-
 - Glissant, Édouard (1997), Poetics of Relation, trans. by Betsy Wing (Ann Arbor: University of Michigan Press)
-
 - Haraway, Donna (1988), 'Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective', Feminist Studies 14.3, 575-599
-
 - Lu, Xun (1926), 'In Memory of Miss Liu Hezhen' \[记念刘和珍君\], Yusi Weekly 74, 12 April
-
 - Tsang, Tsou-choi (King of Kowloon) (1990s), Untitled \[ink on board\], M+, Hong Kong \<https://www.mplus.org.hk/en/collection/makers/tsang-tsou-choi-aka-king-of-kowloon/\> \[accessed 5 July 2026\]
-
 - Xu, Bing (1987-91), Book from the Sky \[Tianshu\], installation, hand-printed books and scrolls of invented characters, ink on paper
-
 - Zhuang, Shuhan, Mengqi Huang, Fengyi Fu, Nan Chen, Bohan Lei and Zhendong Mao (2025), 'HDGlyph: A Hierarchical Disentangled Glyph-Based Framework for Long-Tail Text Rendering in Diffusion Models', in Proceedings of the 33rd ACM International Conference on Multimedia (MM '25) (Dublin: ACM)
 
 </div>
