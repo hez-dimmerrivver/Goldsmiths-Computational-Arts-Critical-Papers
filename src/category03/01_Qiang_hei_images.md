@@ -12,8 +12,8 @@ title: Re-Sensing Locality
 
 ####
 
-<img src ="/static/images/Qiang/01village.png" class="double-column-img"> 
-<img src ="/static/images/Qiang/02wind turbine.png" class="double-column-img">
+<img src ="/static/images/Qiang/01village.png"> 
+<img src ="/static/images/Qiang/02wind turbine.png">
 
 <div class="body-text">
 
