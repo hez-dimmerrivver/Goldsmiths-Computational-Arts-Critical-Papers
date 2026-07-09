@@ -4,7 +4,7 @@ title: When Recognition Meets Re-cognition
 
 <div class="chapter-two">
 
-##### Jung
+##### Jung Namkoong
 
 # When Recognition Meets Re-cognition
 
