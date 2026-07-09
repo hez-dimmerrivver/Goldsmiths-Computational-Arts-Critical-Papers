@@ -12,8 +12,8 @@ title: Re-Sensing Locality
 
 ####
 
-<img src ="/static/images/Qiang/01village.png"> 
-<img src ="/static/images/Qiang/02wind turbine.png">
+<img src ="/static/images/Qiang/image1.png"> 
+<img src ="/static/images/Qiang/image2.png">
 
 <div class="body-text">
 
@@ -41,7 +41,7 @@ Therefore, the obscuring of place by infrastructure does not simply mean erasing
 2\. From Extractive Wind to Situated Wind
 
 In response to this infrastructural logic, computational art does not necessarily need to respond with a larger technological scale. On the contrary, it can begin from small scale, locality, and incompleteness in order to re-establish the relationship between technology and place. Donna Haraway’s discussion of “situated knowledges” offers an important reminder here: knowledge does not come from a disembodied, all-seeing perspective, but is always generated within specific bodies, locations, relations, and technological conditions.2  
-<img src ="/static/images/Qiang/03wind sensor.png"> 
+<img src ="/static/images/Qiang/image3.png"> 
 
 A technological device that appears to be globally applicable is no longer merely an abstract device once it enters a specific place. The wind turbines on the mountains of Quan’ergou and the wind turbines offshore near London cannot simply be understood as the same object. Although they share similar industrial forms, they are embedded in entirely different geographical environments, historical processes, and social relations. For Quan’ergou, the wind turbines have already become part of the mountainous landscape, as well as visible traces of the complex relations between energy development, population outflow, spatial reorganization, and the rupture of local memory.
 
@@ -53,7 +53,7 @@ Therefore, small-scale situated technological practice is not an objective repro
 
 In the mechanism of DRIFTING, a micro wind-direction sensor is deployed in Quan’ergou Village, transmitting data through a cloud server into a global networked system. The wind of Quan’ergou is no longer perceived only as a local natural phenomenon, but becomes a directional force that drives the drifting of a digital avatar. In this sense, the sensor does not simply record environmental data; rather, it participates in forming a new relation between a distant environment, a digital interface, and the audience’s present perception.3 Through this process, place is no longer viewed as a fixed image, but is re-sensed as a weak, remote, yet continuously active signal.
 
-<img src ="/static/images/Qiang/04avatar.png">   
+<img src ="/static/images/Qiang/image4.png">   
 At the same time, the digital Earth system is transformed from a platform usually serving navigation and planning into an unstable interface disturbed by a local environmental signal. 4 The digital avatar may walk over mountains and cross oceans. It has no clear destination, nor does it follow the shortest path or an efficiency-oriented logic of navigation; instead, it continuously drifts through changing map landscapes. It is precisely within this local, limited, and fragile mechanism that a new perceptual relation is formed between Quan’ergou and the outside world.
 
 The audience cannot directly arrive at Quan’ergou, nor can they fully view the village. Yet through a continuously changing signal, they are able to sense the influence of a distant environment on the present space. Locality is no longer buried as something belonging to the past, but is reactivated as a present continuous force: a force that remains at a distance while continuing to exert an effect.
