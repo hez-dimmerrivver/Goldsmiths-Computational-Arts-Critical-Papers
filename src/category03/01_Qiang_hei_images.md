@@ -12,8 +12,11 @@ title: Re-Sensing Locality
 
 ####
 
-<img src ="/static/images/Qiang/image1.png"> 
-<img src ="/static/images/Qiang/image2.png">
+<img src ="/static/images/Qiang/image1.png" class="double-column-img"> 
+<img src ="/static/images/Qiang/image2.png" class="double-column-img">
+
+<div class="body-text">
+
 Abstract
 
 This article develops from my practice-based research project DRIFTING. The project responds to the transformation of my family’s home village, Quanergo Village in Shanxi, China. This village was once shaped by abundant water resources, close kinship relations, and everyday rural life. However, under the combined effects of coal mining, groundwater depletion, population outflow, and wind power infrastructure, Quanergo has gradually been reorganised as a spatial node within an energy production network. Rather than understanding this transformation simply as the “disappearance of place”, this article asks: when a specific place is incorporated into the larger systems of modernisation and technological infrastructure, can locality still be re-sensed?
