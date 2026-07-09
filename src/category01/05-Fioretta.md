@@ -23,7 +23,7 @@ To explore this idea, I created *Onycho Lab*: a performative computational insta
 
 After multiple prototyping, I developed a wearable haptic feedback system to symbolically simulate the sensory experience at the fingertips. Micro-pressure sensors are embedded at the distal tip of the artificial nail, acting as synthetic nerve endings. When the extension makes physical contact with a surface, the sensor triggers a tiny vibration motor adhered to the dorsal side, the back, of the biological finger. By displacing the site of impact from the tip of the prosthetic to the skin of the wearer, the system creates a closed sensation loop. The artificial nail, therefore, becomes an interactable wearable device.
 
-![][image1]
+<img src ="/static/images/Fioretta/image2.jpg">
 
 **Between Salon and Clinic**
 
@@ -37,7 +37,7 @@ This observation motivated me to design an installation setting that sits betwee
 
 *Onycho Lab* brings the conflict among clinics and salons into the installation environment. Translucent white gauze surrounds the space, creating a semi-private and semi-public enclosure. From the outside, viewers can only vaguely glimpse the procedure inside, as if witnessing something intimate but not fully accessible. From within, participants temporarily detach from the ordinary exhibition space and enter a fictional clinical field. Strong spotlights illuminate the participant’s hand. Disinfectant scent intensifies the medical atmosphere. My masked face and doctor’s uniform produce an invisible pressure.
 
-![][image2]
+<img src ="/static/images/Fioretta/image1.jpg">
 
 **Consent, Care, and Feminist Hapticism**
 
