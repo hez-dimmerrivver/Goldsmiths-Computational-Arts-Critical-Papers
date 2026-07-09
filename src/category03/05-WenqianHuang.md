@@ -66,12 +66,7 @@ In this version, a contemporary way of seeing the city becomes clearer. People s
 
 <div class="divider"></div>
 <div class="endnote-container">
-<<<<<<< HEAD
-=======
   
-#### **End Notes**
->>>>>>> 0d6b17b316a8fc84ef96573a56d1146ab8d11090
-
 #### END NOTES
 
 - Benjamin, W. et al. (2005) The arcades project. International journal of urban and regional research 29 (1) p.187–200.
