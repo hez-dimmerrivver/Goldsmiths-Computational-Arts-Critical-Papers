@@ -70,7 +70,7 @@ These characters do not need to be fixed. Aphasia is not an error to correct; it
 <div class="divider"></div>
 <div class="endnote-container">
 
-### END NOTES
+#### END NOTES
 
 - Chiang, Ted (2023), 'ChatGPT Is a Blurry JPEG of the Web', The New Yorker, 9 February
 - Crawford, Kate (2021), Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence (New Haven: Yale University Press)
