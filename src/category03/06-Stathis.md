@@ -85,7 +85,7 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
 <div class="divider"></div>
 <div class="endnote-container">
   
-### **End Notes**
+#### **End Notes**
 
 - Bratton, B. H. (2015). The Stack: On Software and Sovereignty. Cambridge, MA: MIT Press. Available at: http://www.vlebooks.com/vleweb/product/openreader?id=Goldsmiths\&isbn=9780262330183 (Accessed: 7 May 2026).
 
