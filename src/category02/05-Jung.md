@@ -28,4 +28,7 @@ This is where re-cognition matters. If the mirror was never a coherent model of 
 
 </div>
 
+<div class="divider"></div>
+<div class="endnote-container">
+
 ### **End Notes**
