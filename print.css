@@ -385,3 +385,18 @@ iframe .nav.preview-nav{
 a {    
     color: black;
 }
+
+/* Haiyi article layout test - body only */
+.chapter-two .body-text {
+    column-fill: balance;
+}
+
+.chapter-two .body-text p {
+    text-align: justify;
+    hyphens: auto;
+    margin-top: 0;
+    margin-bottom: 1.2em;
+    text-indent: 0;
+    orphans: 1;
+    widows: 1;
+}
