@@ -2,7 +2,7 @@
 title: The Dual Oracle
 ---
 
-<div class="chapter-two">
+<div class="chapter-three">
 
 ##### Zhenzhen Xie
 
