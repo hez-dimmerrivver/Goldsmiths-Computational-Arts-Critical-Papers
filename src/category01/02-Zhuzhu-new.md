@@ -78,9 +78,11 @@ The artist, then, is a maintainer. Someone who stays with the system, shares con
 I should be honest about the limits of this position. If "refusing to finish" becomes a fixed formula, then the refusal of closure becomes its own form of closure. The methodology calcifies into style. The repetition stops producing difference and starts producing habit. I do not have a theoretical solution to this. The only safeguard is practical: genuine attention to whether the repetition is still producing difference or has become mechanical. Care cannot be guaranteed by a model. It can only be committed to and noticed when it fails.
 
 What sustains all of this is care. To maintain is to repeat. To repeat is to differentiate. To differentiate is to remain in between. And to remain in between, deliberately, with attention and persistence, is to care.
-
-   <br><br>  </div>                                                                                         
-### END NOTES  
+</div>  
+<div class="divider"></div>
+<div class="endnote-container">
+ 
+#### END NOTES  
 
 - Barbara Bolt, *Art Beyond Representation: The Performative Power of the Image* (London: I.B. Tauris, 2004).
 - Martin Heidegger, *Being and Time*, trans. by John Macquarrie and Edward Robinson (Oxford: Blackwell, 1962), pp. 102–103.
