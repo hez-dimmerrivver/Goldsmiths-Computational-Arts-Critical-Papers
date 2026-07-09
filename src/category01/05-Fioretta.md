@@ -23,7 +23,7 @@ To explore this idea, I created *Onycho Lab*: a performative computational insta
 
 After multiple prototyping, I developed a wearable haptic feedback system to symbolically simulate the sensory experience at the fingertips. Micro-pressure sensors are embedded at the distal tip of the artificial nail, acting as synthetic nerve endings. When the extension makes physical contact with a surface, the sensor triggers a tiny vibration motor adhered to the dorsal side, the back, of the biological finger. By displacing the site of impact from the tip of the prosthetic to the skin of the wearer, the system creates a closed sensation loop. The artificial nail, therefore, becomes an interactable wearable device.
 
-<img src ="/static/images/Fioretta/image2.jpg" class="single-column-img">
+<img src ="/static/images/Fioretta/image2.png" class="single-column-img">
 
 **Between Salon and Clinic**
 
@@ -65,7 +65,7 @@ These questions inevitably return to my own role as the designer. If I decide wh
 <div class="divider"></div>
 <div class="endnote-container">
 
-### END NOTES 
+#### END NOTES 
 
 
 - Clark, Andy, Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence (Oxford: Oxford University Press, 2003)
