@@ -31,7 +31,7 @@ This is where re-cognition matters. If the mirror was never a coherent model of 
 <div class="divider"></div>
 <div class="endnote-container">
 
-### **End Notes**
+#### **End Notes**
 
 - Bergson, Henri, Matter and Memory, trans. by N. M. Paul and W. S. Palmer (London: George Allen and Unwin, 1911)
   
