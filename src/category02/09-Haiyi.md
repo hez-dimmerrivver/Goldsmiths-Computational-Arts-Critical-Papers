@@ -9,6 +9,7 @@ title: Can Data Read Me?
 # Can Data Read Me?
 
 <div class="body-text">
+
 Every year, platforms such as Steam send me a year-in-review summary. The genres I spent the most time playing, the games I played the most, the distribution of my activity across the year — these visualisations, supposedly generated from “my” annual data, often make me feel as if data can truly read me. After all, these numbers are not invented; they are records of actual behaviour.
 
 Yet the limited categories in Steam’s official recap never fully satisfied me. I wanted to produce a more complete reading of my own gaming history. Following a similar logic of data-driven summarisation, I developed a practice-based project titled *Digital Gaming Identity*, which explores a player’s long-term gaming preferences across their Steam library. At the time, I believed that I could create a fuller and more truthful self-summary. However, when I finally transformed the data into visual charts, I felt a strange sense of distance. The result neither confirmed my existing self-image nor replaced it with a more objective version. Instead, it placed different versions of myself side by side, creating a strong sense of misalignment. The person it described seemed to be me, but not entirely.
@@ -52,6 +53,7 @@ The answer is not that the data is false, nor that my memory is simply wrong. Ra
 Looking back at the project, I realised that this strangeness does not only come from being translated. It also comes from the double nature of data visualisation itself. On the one hand, it is a creative practice: it allows me to organise fragmented records into a readable story and produce an engaging, seemingly complete summary portrait. On the other hand, it also makes clear that this portrait is not “me”, but a version of me produced through a series of design decisions. The shaping of this identity involved not only myself as the designer, but also Steam’s system, the API’s data structure, and the visual grammar of the charts themselves. These non-human actants, together with my own interpretive decisions, jointly produced a narrative about a “player”. I am both the author of this narrative and the subject it attempts to describe.
 
 It is precisely this doubled position that makes me more aware than anyone else of the gap between the portrait and myself. This awareness itself may be closer to lived experience than the portrait could ever be. It leaves me in a position from which I cannot fully withdraw. I cannot treat the data portrait as an honest mirror, but neither can I simply dismiss it. It does capture certain contours of me, but in a language that I cannot fully claim as my own. Faced with this portrait, I remain suspended between affirmation and refusal. Perhaps the relationship between humans and data is not ultimately about finding ever more precise measurements, but about learning, in each encounter between resemblance and estrangement, how to understand, question, and use these versions of ourselves.
+
 </div>
 
 <div class="divider"></div>
