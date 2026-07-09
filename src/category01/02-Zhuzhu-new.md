@@ -51,7 +51,7 @@ Instructions:
 
 
   
-![][image1]
+<img src ="/static/images/zhuzhu/image1.png">
 
 <div class="body-text">
 
