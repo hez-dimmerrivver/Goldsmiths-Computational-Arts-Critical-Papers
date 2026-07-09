@@ -77,4 +77,16 @@ The portal's magic was not arrival, but the way to reach it. What we are sure of
  
 #### **END NOTES**
 
+• Berger, John, Ways of Seeing (London: Penguin Books, 1972)
+• Christus, Petrus, A Goldsmith in His Shop, 1449, oil on oak panel, New York, Metropolitan Museum of Art
+• Eyck, Jan van, The Arnolfini Portrait, 1434, oil on oak panel, London, National Gallery
+• Magritte, René, La Condition Humaine, 1933, oil on canvas, Washington, D.C., National Gallery of Art 
+• Magritte, René, La Réponse Imprévue, 1933, Brussels, Musées royaux des Beaux-Arts de Belgique
+• Nintendo, Super Mario Bros. (Kyoto: Nintendo, 1985)
+• Valve Corporation, Portal 2 (Bellevue, WA: Valve Corporation, 2011)
+• Li, Yiho, Low-life (Taipei: DAC.TW, 2021)
+• CURIOSKI, A Glimpse of the Mind Landscape (Taipei: MOCA Taipei, 2022)
+• CURIOSKI, The Insider (Taipei: TAICCA, 2024)
+• CURIOSKI, Paxville (Taipei: NCAF, 2024)
+
 </div>
