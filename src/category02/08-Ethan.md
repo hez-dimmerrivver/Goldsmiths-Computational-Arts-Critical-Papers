@@ -16,7 +16,7 @@ title: The Aphasic Manifesto
 
 **— Lu Xun, In Memory of Miss Liu Hezhen (1926), translation by the author**
 
-**Abstract**
+**Introduction**
 
 <div class="body-text">
 
