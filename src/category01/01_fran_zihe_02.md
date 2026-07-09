@@ -109,7 +109,8 @@ We developed our own code to translate the png files into the embodied crocheted
 \[enter F|\_|T|\_|R3 5\\/\\//-\\R/\\/\\ \]
 </div><br>
 
-▜▘▙ ▌ ▀▛▘▌ ▌▛▀▘ ▛▀▘▌ ▌▀▛▘▌ ▌▛▀▖▛▀▘ ▛▀▖▛▀▖▛▀▘▞▀▖▛▀▘▙ ▌▀▛▘  ▞▀▖▞▀▖▞▀▖▞▀▖   IN THE FUTURE PRESENT: 2026 \- ∞     
+▜▘▙ ▌ ▀▛▘▌ ▌▛▀▘ ▛▀▘▌ ▌▀▛▘▌ ▌▛▀▖▛▀▘ ▛▀▖▛▀▖▛▀▘▞▀▖▛▀▘▙ ▌▀▛▘  ▞▀▖▞▀▖▞▀▖▞▀▖   
+IN THE FUTURE PRESENT: 2026 \- ∞     
 ▐ ▌▌▌  ▌ ▙▄▌▙▄  ▙▄ ▌ ▌ ▌ ▌ ▌▙▄▘▙▄  ▙▄▘▙▄▘▙▄ ▚▄ ▙▄ ▌▌▌ ▌▐▌  ▗▘▌▞▌ ▗▘▙▄   
 
 ´´´        ´  ´ ´´  ´´´´´´´´´w´´´´´ ´´ ´     ´´´´     ´ ´´ ´´´´´´´,´´´´´´    ´     ´           ´´´´   ´´´H´´                     ´ ´ ´´   ´´´´´O´ ´´   ´                  ´  ´´´´´´´d´o´ ´ ´                    ´   ´´ ´ ´y´´´o´´ ´´´                   ´´´´ ´´´´u´´´´´t  ´ ´´´                ´ ´´  ´ ´´h´´´´                      ´´´´´i´´´´´´´´´n´´´    ´                ´ ´´ ´´k´´´´´´´´´´´y´                      ´   ´´´o´´´´´´´´´´´´´U  
@@ -208,6 +209,7 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
    </div>
 <div class="divider"></div>
 <div class="endnote-container">
+	
 #### END NOTES      
 
 -  Agüera y Arcas, Blaise. ‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’, online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk [accessed 7 July 2026]
