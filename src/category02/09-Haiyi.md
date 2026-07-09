@@ -59,8 +59,7 @@ It is precisely this doubled position that makes me more aware than anyone else 
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### END NOTES
-
+#### **END NOTES**
 •  Behar, K. (2018) ‘Personalities Without People’. The Occulture, 21 March. Available at: [https://www.theocculture.net/personalities-without-people-guest-post-by-katherine-behar/](https://www.theocculture.net/personalities-without-people-guest-post-by-katherine-behar/) (Accessed: 6 July 2026).
 
 •  Latour, B. (2005) *Reassembling the Social*: An Introduction to Actor-Network-Theory. Oxford: Oxford University Press. Available at: [https://doi.org/10.1093/oso/9780199256044.001.0001](https://doi.org/10.1093/oso/9780199256044.001.0001) (Accessed: 6 July 2026).
