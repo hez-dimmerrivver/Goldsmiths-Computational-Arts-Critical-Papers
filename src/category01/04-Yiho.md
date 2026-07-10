@@ -74,8 +74,8 @@ The portal's magic was not arrival, but the way to reach it. What we are sure of
 
 <div class="divider"></div>
 <div class="endnote-container">
- 
-#### **END NOTES**
+
+#### END NOTES
 
 • Berger, John, Ways of Seeing (London: Penguin Books, 1972)
 
