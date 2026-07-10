@@ -60,12 +60,13 @@ It is precisely this doubled position that makes me more aware than anyone else 
 <div class="endnote-container">
 
 #### **END NOTES**
-- Behar, K. (2018) ‘Personalities Without People’. *The Occulture*, 21 March. Available at: [The Occulture](https://www.theocculture.net/personalities-without-people-guest-post-by-katherine-behar/) (Accessed: 6 July 2026).
 
-- Latour, B. (2005) *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford: Oxford University Press. Available at: [DOI](https://doi.org/10.1093/oso/9780199256044.001.0001) (Accessed: 6 July 2026).
+- Katherine Behar, ‘Personalities Without People’, *The Occulture*, 21 March 2018, \<https://www.theocculture.net/personalities-without-people-guest-post-by-katherine-behar/\> [accessed 6 July 2026]
 
-- Valve Corporation (n.d.) Steam Web API Documentation. Available at: [Steam Web API Documentation](https://steamcommunity.com/dev) (Accessed: 6 July 2026).
+- Bruno Latour, *Reassembling the Social: An Introduction to Actor-Network-Theory* (Oxford: Oxford University Press, 2005), \<https://doi.org/10.1093/oso/9780199256044.001.0001\> [accessed 6 July 2026]
 
-- van Dijck, J. (2013) *The Culture of Connectivity: A Critical History of Social Media*. Oxford: Oxford University Press. Available at: [DOI](https://doi.org/10.1093/acprof:oso/9780199970773.001.0001) (Accessed: 6 July 2026).
+- Valve Corporation, ‘Steam Web API Documentation’, \<https://steamcommunity.com/dev\> [accessed 6 July 2026]
+
+- José van Dijck, *The Culture of Connectivity: A Critical History of Social Media* (Oxford: Oxford University Press, 2013), \<https://doi.org/10.1093/acprof:oso/9780199970773.001.0001\> [accessed 6 July 2026]
 
 </div>
