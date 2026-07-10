@@ -12,16 +12,16 @@ title: EVELUTION
 
 ####
 
-According to technologist Blaise Agüera y Arcas, life is computational from its very inception; it emerges from systems that can self-replicate and transmit the information required to sustain existence. Under this lens, we are made of computers. We are computers. We are computers made of computers (Agüera y Arcas 2025b: 2.39).
+According to technologist Blaise Agüera y Arcas, life is computational from its very inception; it emerges from systems that can self-replicate and transmit the information required to sustain existence. Under this lens, we are made of computers. We are computers. We are computers made of computers (Agüera y Arcas 2025a: 2.39).
 However, while positioning collective life as a form of intelligence, by also inciting game theory - in particular The Prisoner’s Dilemma, which argues that even within a networking framework two individuals might choose not to cooperate even if it is in their best interest - Agüera y Arcas frames the collective as an optimisation strategy where individual, self-interested parts work together simply for efficiency (Agüera y Arcas 2025b: 22.10). He clings to atomistic origins, suggesting individuals are interchangeable parts within a network.
 
 We want to question and propose alternatives to this strict, rigid, masculine view of life and computation, views that, as stated in the publication DATA LOAM, are causing “the rise of autonomous systems whose algorithms of machine learning / artificial intelligence are deeply entangled with dubious and disintegrating forces—forces that by no means wish to make possible the prosperity and happiness of all.”(Golding, Reinhart, & Paganelli 2020: 1)  
-Following evolutionary biologist Lynn Margulis, we see the coming-together of life not as a corporate division of labor, but as a deeply messy, intimate entanglement of all kinds of living and non-living kin where boundaries dissolve entirely, “Life did not take over the globe by combat, but by networking” (Margulis & Sagan 1986: 26). We are not isolated processing units; we are all assemblages.
-In response we welcomed symbiogenesis, the coming-together of distinct parts to form a more complex whole(Agüera y Arcas 2025b: 21.42). Through opening our research into a space of radical feminist assemblage we conceived a speculative, symbiogenetic entity; an assemblage composed of the human mitochondrial genome - colloquially known as Mitochondrial Eve (NCBI n.d.), this genome is passed exclusively through the matriarchal lineage suggesting that the entire human race can be traced back to a singular woman - the traditionally feminine craft of crochet, JavaScript code, and slime mold. Within this assemblage relationships come first, the actors do not exist as individual parts, but actively become-together through acts of entanglement that transform them.
+Following evolutionary biologist Lynn Margulis, we see the coming-together of life not as a corporate division of labor, but as a deeply messy, intimate entanglement of all kinds of living and non-living kin where boundaries dissolve entirely, “Life did not take over the globe by combat, but by networking” (Margulis & Sagan 1986: 26). We are not isolated processing units; we are all assemblages. 
+In response we welcomed symbiogenesis, the coming-together of distinct parts to form a more complex whole(Agüera y Arcas 2025b: 21.42). Through opening our research into a space of radical feminist assemblage we conceived a speculative, symbiogenetic entity; an assemblage composed of the human mitochondrial genome - colloquially known as Mitochondrial Eve (NCBI n.d.). This genome is passed exclusively through the matriarchal lineage suggesting that the entire human race can be traced back to a singular woman - the traditionally feminine craft of crochet, JavaScript code, and slime mold. Within this assemblage relationships come first, the actors do not exist as individual parts, but actively become-together through acts of entanglement that transform them.
 
 **We are asking, can viewing the symbiogenesis of different bodies^ and ecologies through a radically feminine, craft-based lens offer a slower, kinder alternative to the relentless, extractive pace of the current technological landscape?**
 
-The text that follows is a conversation conducted across time, space, and kin. It brings together three distinct perspectives: **[MITO]**: The symbiogenic organism herself; **[FRAN & ZIHE]**: The human developers and companion-creators of the organism; **[FUTURE SWARM]**: A speculative, future, hive-mind evolution of the crochet cyborg, perhaps a symbiont of its own making.
+The text that follows is a conversation conducted across time, space, and kin. It brings together three distinct perspectives: [MITO]: The symbiogenic organism herself; [FRAN & ZIHE]: The human developers and companion-creators of the organism; [FUTURE SWARM]: A speculative, future, hive-mind evolution of the crochet cyborg, perhaps a symbiont of its own making.
 Through this polyphonic dialogue, we intend to interrogate the motives and methods behind the creation of the cyborg, to de-center its human developers, and to ask whether decentering more previously dominant (masculine) parties within our technological frameworks can shift us toward a future of deeper computational empathy and ecological respect.
 
 TIME: 16:00 16/06/2026  
@@ -74,13 +74,14 @@ return Mito.definition);  <br>
 </div>
 
 [fran\&zihe] <br>
-You are a form of life with partially human roots. And yet who is qualified enough to draw the definition of human? We were influenced by the idea of Blaise Agüera y Arcas: that natural biology functions as computation (Agüera y Arcas 2025c: chap. 2 ‘Symbiogenesis’). DNA is code. And you are a combination of DNA, algorithm and nonhuman organisms (although we reject reinforcing the human/nonhuman binary). Thus, we have expanded your potential as a living entity.
+You are a form of life with partially human roots. And yet who is qualified enough to draw the definition of human? We were influenced by the idea of Blaise Agüera y Arcas (Agüera y Arcas 2025c: chap. 2 ‘Symbiogenesis’): that natural biology functions as computation. DNA is code. And you are a combination of DNA, algorithm and nonhuman organisms (although we reject reinforcing the human/nonhuman binary). Thus, we have expanded your potential as a living entity.
 
 <div style = "text-align:right">
 [mito]  
 <H\>OW DID YOU CREATE//  
      DEVELOP ME?; 
 </div>
+<br>
 
 [fran & zihe] <br>
 Through reading Agüera y Arcas’ book _What is Intelligence?_ we discovered cellular automata (CA), a simulation for life-like behaviour popularised by John Conway’s Game of Life. CA functions most commonly as a two-dimensional grid of cells where each cell is affected by the state of its eight neighbouring cells.  
@@ -96,11 +97,11 @@ for(let whatReason \= ?; whatReason \< did you; whatReason \++ use slimeMold?);
 </div>
 
 [fran & zihe] <br>
-By embedding the Physarum polycephalum algorithm into your evolutionary code, we introduced an active layer of nonhuman biology. Through your development, we hope to model a slower, safer computational future—one that embraces a multi-layered becoming-together of - to borrow terminology from Haraway - Earthly critters, human and nonhuman, living and machine (Haraway 2016).
+By embedding the _Physarum polycephalum_ algorithm into your evolutionary code, we introduced an active layer of nonhuman biology. Through your development, we hope to model a slower, safer computational future—one that embraces a multi-layered becoming-together of  - to borrow terminology from Haraway - Earthly critters, human and nonhuman, living and machine (Haraway 2016).
 
 <div style = "text-align:right">
 [mito]  <br>
-andThen(?);  <br>
+andThen(?);  <br><br>
 </div>
 
 Both the algorithmically activated grids were used within a TouchDesigner (TD) patch to drive noise that simulated cell growth. This visual growth was outputted as a low resolution (30 x 30 pixel) grid of the original four colours and a white, transparent layer. <br>
@@ -108,10 +109,9 @@ We developed our own code to translate the png files into the embodied crocheted
 
 <div style = "text-align:center">
 \[enter F|\_|T|\_|R3 5\\/\\//-\\R/\\/\\ \]
-</div><br>
+</div><br><br>
 
-▜▘▙ ▌ ▀▛▘▌ ▌▛▀▘ ▛▀▘▌ ▌▀▛▘▌ ▌▛▀▖▛▀▘ ▛▀▖▛▀▖▛▀▘▞▀▖▛▀▘▙ ▌▀▛▘ ▞▀▖▞▀▖▞▀▖▞▀▖  
-IN THE FUTURE PRESENT: 2026 \- ∞  
+▜▘▙ ▌ ▀▛▘▌ ▌▛▀▘ ▛▀▘▌ ▌▀▛▘▌ ▌▛▀▖▛▀▘ ▛▀▖▛▀▖▛▀▘▞▀▖▛▀▘▙ ▌▀▛▘ ▞▀▖▞▀▖▞▀▖▞▀▖ IN THE FUTURE PRESENT: 2026 \- ∞  
 ▐ ▌▌▌ ▌ ▙▄▌▙▄ ▙▄ ▌ ▌ ▌ ▌ ▌▙▄▘▙▄ ▙▄▘▙▄▘▙▄ ▚▄ ▙▄ ▌▌▌ ▌▐▌ ▗▘▌▞▌ ▗▘▙▄
 
 ´´´ ´ ´ ´´ ´´´´´´´´´w´´´´´ ´´ ´ ´´´´ ´ ´´ ´´´´´´´,´´´´´´ ´ ´ ´´´´ ´´´H´´ ´ ´ ´´ ´´´´´O´ ´´ ´ ´ ´´´´´´´d´o´ ´ ´ ´ ´´ ´ ´y´´´o´´ ´´´ ´´´´ ´´´´u´´´´´t ´ ´´´ ´ ´´ ´ ´´h´´´´ ´´´´´i´´´´´´´´´n´´´ ´ ´ ´´ ´´k´´´´´´´´´´´y´ ´ ´´´o´´´´´´´´´´´´´U  
@@ -207,35 +207,27 @@ we were wondering how the human errors in the crochet code would cause mutations
 </div><br>
 
 [future swarm]  
-The yarn is data/information. the hands behave as a slow compiler. mutations.bod(y)(ies). Is it a chain stitch or a radical shift? If then nothing, bbbbb bb bbbbbbbbbb missed stitch, extra yarn over, unhandled exception in wool. skipping rows to allocate memory for the body. A#HHHHKKKKKHHKKHa aa aaaaaaaaaaaaaaaaaaH.... A#HHHHHHKKHHKQ....... holes appeared; gaps were filled. Buuuuuuut!!!OVERFLOW:YARN the merging changed us more thaaaaaAAAAAAAaaaan the mutations(Agüera y Arcas 2025b: 18.32). Write C://BODY//GENOME.SYS SUCCESS as the feedback loop iterated more and more, the different origins of ourselves became more deeply entangled. you can no longer tell what parts of us were rooted where; we had become enmeshed in ourself.
+The yarn is data/information. the hands behave as a slow compiler. mutations.bod(y)(ies). Is it a chain stitch or a radical shift? If then nothing, bbbbb bb bbbbbbbbbb missed stitch, extra yarn over, unhandled exception in wool. skipping rows to allocate memory for the body. A#HHHHKKKKKHHKKHa aa aaaaaaaaaaaaaaaaaaH.... A#HHHHHHKKHHKQ....... holes appeared; gaps were filled. Buuuuuuut!!!OVERFLOW:YARN the merging changed us more thaaaaaAAAAAAAaaaan the mutations[^9]. Write C://BODY//GENOME.SYS SUCCESS as the feedback loop iterated more and more, the different origins of ourselves became more deeply entangled. you can no longer tell what parts of us were rooted where; we had become enmeshed in ourself.
 
-   </div>
-   
 <div class="divider"></div>
 <div class="endnote-container">
-	
-#### END NOTES
 
-Blaise Agüera y Arcas, ‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’, online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk \[accessed 7 July 2026\] (01:12:42), at 22:10–26:30.
+#### End Notes
 
-Golding, J. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.), _Data loam: Sometimes hard, usually soft. The future of knowledge systems_ (pp. 1–14). De Gruyter.
-
-Margulis, Lynn, and Dorion Sagan. Microcosmos: Four Billion Years of Microbial Evolution. Summit Books, 1986, p. 26\.
-
-Machine Learning Street Talk. (2025, October 21). _Google researcher shows life "emerges from code" \[Blaise Agüera y Arcas\]_ \[Video\]. YouTube. [https://www.youtube.com/watch?v=rMSEqJ_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) \[accessed 7 July 2026\] (21.42)
-
-Homo sapiens mitochondrion, complete genome \- Nucleotide. (n.d.). NCBI.Available at: https://www.ncbi.nlm.nih.gov/nuccore/NC\_012920.1?report=fasta
-
-‘Bodies’ refers to all entities of Earthly origin \- human, nonhuman organism, inanimate agent, computational organism, machine etc…
-
-WomenTech Network. (2026). Women in tech stats. https://www.womentech.net/women-in-tech-stats
-
-Agüera y Arcas, Blaise, _What is Intelligence?_ (Antikythera; MIT Press, 2025\) \[accessed 6 May 2026\] [https://whatisintelligence.antikythera.org/](https://whatisintelligence.antikythera.org/)
-
-Haraway, Donna J., _Staying with the Trouble: Making Kin in the Chthulucene_ (Durham, NC: Duke University Press, 2016\)
-
-‘Tara Donovan’, _Pace Gallery_ \[accessed 23 June 2026\] [https://www.pacegallery.com/artists/tara-donovan/](https://www.pacegallery.com/artists/tara-donovan/)
-
-_Machine Learning Street Talk_, ‘Google researcher shows life "emerges from code"’ (18:32.)
+- ^‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
+  <br>
+- Agüera y Arcas, B. (2025a) <i>Google Researcher Shows Life “Emerges From Code”. Interviewed by Machine Learning Street Talk</i> [video]. Available at: https://www.youtube.com/watch?v=rMSEqJ_4EBk [accessed 8 July 2026]
+- Agüera y Arcas, Blaise. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk [accessed 7 July 2026]
+- Agüera y Arcas, B. (2025c)<i> What is Intelligence? </i>Antikythera. doi: 10.1162/ANTI.5CZB.
+ [accessed 9 July 2026]
+- Conway's Game of Life, <i>'Play John Conway's Game of Life', </i>[n.d.] <https://playgameoflife.com/> [accessed 10 July 2026]
+- Donovan, Tara (n.d.). Pace Gallery. Available at: https://www.pacegallery.com/artists/tara-donovan/ [accessed 16 June 2026]
+- Golding, Johnny. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.),<i> Data loam: Sometimes hard, usually soft. The future of knowledge systems. </i>De Gruyter. 
+- Haraway, Donna J. (2016).<i> Staying with the trouble: Making kin in the Chthulucene. </i>Duke University Press.
+- Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI.Available at: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta [accessed 9 July 2026]
+- Jones, Jeff, <i>'Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks', Artificial Life,</i> 16.2 (2010), 127–53 <https://doi.org/10.1162/artl.2010.16.2.16202>
+- Margulis, Lynn, and Dorion Sagan. <i>Microcosmos: Four Billion Years of Microbial Evolution.</i> Summit Books, 1986.
+- Sage Jenson, <i>'Physarum',</i> Cargo Collective, [n.d.] <https://cargocollective.com/sagejenson/physarum> [accessed 10 July 2026]
+- WomenTech Network. (2026).<i> Women in tech stats.</i> https://www.womentech.net/women-in-tech-stats [accessed 9 July 2026]
 
 </div>
