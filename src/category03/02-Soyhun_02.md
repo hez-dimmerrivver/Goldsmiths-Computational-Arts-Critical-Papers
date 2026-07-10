@@ -64,13 +64,13 @@ Lost rivers still redirect water, shape the ground, and give homes to countless 
 
 - Bruno Latour, _Reassembling the Social: An Introduction to Actor-Network-Theory_, Clarendon Lectures in Management Studies (Oxford: Oxford University Press, 2005).
 
-- 'Lost Rivers of South London Cycling Tour', _Open City_, n.d. <https://open-city.org.uk/events/river-10> [accessed 5 July 2026].
+- 'Lost Rivers of South London Cycling Tour', _Open City_, n.d. \<https://open-city.org.uk/events/river-10\> [accessed 5 July 2026].
 
 - Jon Newman, _River Effra: South London's Secret Spine_ (London: Signal Books, 2016).
 
 - United Nations Department of Economic and Social Affairs, _World Urbanization Prospects 2025: Summary of Results_ (New York: United Nations, 2025), pp. 5-9.
 
-- 'Water Companies Launch New Live Sewage Spill Maps', _The Rivers Trust_, n.d. [\<https://theriverstrust.org/about-us/news/water-companies-launch-new-live-sewage-spill-maps](https://theriverstrust.org/about-us/news/water-companies-launch-new-live-sewage-spill-maps)\> \[accessed 16 May 2026\].
+- 'Water Companies Launch New Live Sewage Spill Maps', _The Rivers Trust_, n.d. \<https://theriverstrust.org/about-us/news/water-companies-launch-new-live-sewage-spill-maps\> \[accessed 16 May 2026\].
 
 </div>
 
