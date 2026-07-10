@@ -62,22 +62,14 @@ An Umwelt, this paper has argued, is not a pre-given environment but a relationa
 
 #### END NOTES
 
-• Agüera y Arcas, B. (2025a) _Google Researcher Shows Life “Emerges From Code”_. Interviewed by Machine Learning Street Talk \[video\]. Available at: [https://www.youtube.com/watch?v=rMSEqJ_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (Accessed: 20 June 2026).
-
-• Agüera y Arcas, B. (2025b) What is Intelligence? Antikythera. doi: 10.1162/ANTI.5CZB.
-
-• Barad, K. (2007) Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press.
-
-• Hayles, N.K. (1999) How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics. Chicago: University of Chicago Press.
-
-• Pask, G. (1968) The Colloquy of Mobiles \[installation\]. Exhibited at Cybernetic Serendipity, Institute of Contemporary Arts, London.
-
-• Rinaldo, K. (2000) Autopoiesis \[robotic installation\]. Commissioned by Kiasma Museum of Contemporary Art, Helsinki, for Alien Intelligence, curated by E. Huhtamo.
-
-• von Neumann, J. (1966) Theory of Self-Reproducing Automata. Edited by A.W. Burks. Urbana: University of Illinois Press.
-
-• von Uexküll, J. (2010) A Foray into the Worlds of Animals and Humans: with A Theory of Meaning. Translated by J.D. O’Neil. Minneapolis: University of Minnesota Press.
-
-• Wiener, N. (1948) Cybernetics: or Control and Communication in the Animal and the Machine. Cambridge, MA: MIT Press.
+- Agüera y Arcas, B. (2025a) _Google Researcher Shows Life “Emerges From Code”_. Interviewed by Machine Learning Street Talk \[video\]. Available at: [https://www.youtube.com/watch?v=rMSEqJ_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (Accessed: 20 June 2026).
+- Agüera y Arcas, B. (2025b) What is Intelligence? Antikythera. doi: 10.1162/ANTI.5CZB.
+- Barad, K. (2007) Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning. Durham, NC: Duke University Press.
+- Hayles, N.K. (1999) How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics. Chicago: University of Chicago Press.
+- Pask, G. (1968) The Colloquy of Mobiles \[installation\]. Exhibited at Cybernetic Serendipity, Institute of Contemporary Arts, London.
+- Rinaldo, K. (2000) Autopoiesis \[robotic installation\]. Commissioned by Kiasma Museum of Contemporary Art, Helsinki, for Alien Intelligence, curated by E. Huhtamo.
+- von Neumann, J. (1966) Theory of Self-Reproducing Automata. Edited by A.W. Burks. Urbana: University of Illinois Press.
+- von Uexküll, J. (2010) A Foray into the Worlds of Animals and Humans: with A Theory of Meaning. Translated by J.D. O’Neil. Minneapolis: University of Minnesota Press.
+- Wiener, N. (1948) Cybernetics: or Control and Communication in the Animal and the Machine. Cambridge, MA: MIT Press.
 
 </div>
