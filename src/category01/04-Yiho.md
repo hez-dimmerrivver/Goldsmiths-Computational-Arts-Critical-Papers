@@ -62,7 +62,7 @@ In my past work Low-life (2021), I turned the viewer into a non-human body: a co
 
 If the VR headset itself already acts as a physical portal for the body, then when we encounter simulated gateways as symbols inside the virtual space, what exactly is passing through? By looking at the social platform VRChat, a new answer emerges: what passes through the portal is the social relationship itself.
 
-In VRChat, any user can "drop" a glowing 3D portal in the middle of a room. However, this portal is no longer merely a tool for individual transit, on the contrary, it functions as a "collective gateway". When a group of friends steps through a newly dropped portal to leave a chaotic public hall for a quiet private room, they are transporting their shared conversations, group dynamics, and social boundaries into a new world. In this sense, the portal acts as a social filter, creating the meaning of defining who belongs to this "elsewhere" together.
+In VRChat, any user can "drop" a glowing 3D portal that functions as a "collective gateway" in the middle of a room. When a group of friends steps through a newly dropped portal to leave a chaotic public hall for a quiet private room, they are transporting their shared conversations, group dynamics, and social boundaries into a new world. In this sense, the portal acts as a social filter, creating the meaning of defining who belongs to this "elsewhere" together.
 
 **Bringing the “Elsewhere” Closer in MR: Virtual Portals in Physical Reality**
 
@@ -76,7 +76,7 @@ CURIOSKI's The Insider (2024) takes this up as a narrative practice, assembling 
 
 **The Unfinished Imagination of the Elsewhere**
 
-Tracing the genealogy of the portal reveals that humanity has always had that fantasy to imaginary worlds before and after the technological era. The portal is simply the evolving vessel for this profound longing. From the painted sky of a cathedral ceiling, to painter's canvases, to the moving image of film, to the digital gateways an avatar can cross in games, to the VR headset the body itself can enter, and finally to mixed reality, which pulls the virtual into our physical world—the medium changes, and so does what passes through, from sight, to avatar, to body. The portal's magic was not arrival, but the way to reach it. What we are sure of is that our exploration into the “elsewhere” will continue forever.
+Tracing the genealogy of the portal reveals that humanity has always had that fantasy to imaginary worlds before and after the technological era. The portal is simply the evolving vessel for this longing. From the painted sky of a cathedral ceiling, to painter's canvases, to the moving image of film, to the digital gateways an avatar can cross in games, to the VR headset the body itself can enter, and finally to the MR, which pulls the virtual into our physical world—the medium changes, and so does what passes through, from sight, to avatar, to body. What we are sure of is that our exploration into the “elsewhere” will continue forever.
 
 </div>
 
