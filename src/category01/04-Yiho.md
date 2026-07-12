@@ -58,6 +58,12 @@ In my past work Low-life (2021), I turned the viewer into a non-human body: a co
 
 <img src="/static/images/Yiho/Yiho_1.jpg" class="single-column-img">
 
+**Transporting the Context: The Social Portal in VRChat** 
+
+If the VR headset itself already acts as a physical portal for the body, then when we encounter simulated gateways as symbols inside the virtual space, what exactly is passing through? By looking at the social platform VRChat, a new answer emerges: what passes through the portal is the social relationship itself.
+
+In VRChat, any user can "drop" a glowing 3D portal in the middle of a room. However, this portal is no longer merely a tool for individual transit, on the contrary, it functions as a "collective gateway". When a group of friends steps through a newly dropped portal to leave a chaotic public hall for a quiet private room, they are transporting their shared conversations, group dynamics, and social boundaries into a new world. In this sense, the portal acts as a social filter, creating the meaning of defining who belongs to this "elsewhere" together.
+
 **Bringing the “Elsewhere” Closer in MR: Virtual Portals in Physical Reality**
 
 Moving to the mixed reality (MR), it becomes harder to say that the headset itself is the portal, because MR no longer clearly separates an inside from an outside (the virtual world vs. the reality). Here the discussion of the portal can be focused from the whole headset down to a threshold opened within the scene. Making an MR experience in a game engine like Unity, for example, we can design how exactly transparent the real world should be seen, and how our real body can trigger a simulated door, for the player to move back and forth between the reality and the virtual world. 
@@ -70,9 +76,7 @@ CURIOSKI's The Insider (2024) takes this up as a narrative practice, assembling 
 
 **The Unfinished Imagination of the Elsewhere**
 
-Tracing the genealogy of the portal reveals that humanity has always had that fantasy to imaginary worlds before and after the technological era. The portal is simply the evolving vessel for this profound longing. From the painted sky of a cathedral ceiling, to painter's canvases, to the moving image of film, to the digital gateways an avatar can cross in games, to the VR headset the body itself can enter, and finally to mixed reality, which pulls the virtual into our physical world—the medium changes, and so does what passes through, from sight, to avatar, to body. 
-
-The portal's magic was not arrival, but the way to reach it. What we are sure of is that our exploration into the “elsewhere” will continue forever.
+Tracing the genealogy of the portal reveals that humanity has always had that fantasy to imaginary worlds before and after the technological era. The portal is simply the evolving vessel for this profound longing. From the painted sky of a cathedral ceiling, to painter's canvases, to the moving image of film, to the digital gateways an avatar can cross in games, to the VR headset the body itself can enter, and finally to mixed reality, which pulls the virtual into our physical world—the medium changes, and so does what passes through, from sight, to avatar, to body. The portal's magic was not arrival, but the way to reach it. What we are sure of is that our exploration into the “elsewhere” will continue forever.
 
 </div>
 
@@ -90,9 +94,10 @@ The portal's magic was not arrival, but the way to reach it. What we are sure of
 - Nintendo, Super Mario Bros. (Kyoto: Nintendo, 1985). 
 - Valve Corporation, Portal 2 (Bellevue, WA: Valve Corporation, 2011). 
 - Lanier, Jaron, Dawn of the New Everything: Encounters with Reality and Virtual Reality (New York: Henry Holt and Company, 2017), p. 141. 
+- VRChat Inc., VRChat (San Francisco: VRChat Inc., 2017).
 - Li, Yiho, Low-life (Taipei: DAC.TW, 2021). 
 - CURIOSKI, A Glimpse of the Mind Landscape (Taipei: MOCA Taipei, 2022). 
 - CURIOSKI, The Insider (Taipei: TAICCA, 2024). 
 - CURIOSKI, Paxville (Taipei: NCAF, 2024). 
-
+  
 </div>
