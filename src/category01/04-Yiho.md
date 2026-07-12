@@ -56,6 +56,8 @@ What changes most on this virtual side of the portal is not simply our sense of 
 
 In my past work Low-life (2021), I turned the viewer into a non-human body: a cockroach in a kitchen, where the world is seen from a low, ground-level vision, through a perspective our own bodies could never inhabit. Similarly, in CURIOSKI, one of my collective’s projects, A Glimpse of the Mind Landscape (2022), we treated the headset itself as a “mind-plugin”. We explored how consciousness interacts with different states of embodiment, including human forms, mysterious creatures, and even existence without any body at all.
 
+<img src="/static/images/Yiho/Yiho_1.jpg" class="single-column-img">
+
 **Bringing the “Elsewhere” Closer in MR: Virtual Portals in Physical Reality**
 
 Moving to the mixed reality (MR), it becomes harder to say that the headset itself is the portal, because MR no longer clearly separates an inside from an outside (the virtual world vs. the reality). Here the discussion of the portal can be focused from the whole headset down to a threshold opened within the scene. Making an MR experience in a game engine like Unity, for example, we can design how exactly transparent the real world should be seen, and how our real body can trigger a simulated door, for the player to move back and forth between the reality and the virtual world. 
@@ -63,6 +65,8 @@ Moving to the mixed reality (MR), it becomes harder to say that the headset itse
 The realisation of these bidirectional portals relies fundamentally on the "pass-through" technology of contemporary headsets, such as the Meta Quest 3 or Apple Vision Pro. When we put on the headset, our physical vision is completely enclosed at first, then, the "reality" will be rendered in a real-time, digitised reconstruction captured by external cameras and projected onto screens inside the headset.
 
 CURIOSKI's The Insider (2024) takes this up as a narrative practice, assembling physical and virtual objects into a single space: we placed a virtual window on the real wall through which one could look out. On the other hand, in Paxville (2024), we did the opposite—making holes around the reality to look into the virtual world behind it. The two works map the two directions a portal can open in MR, emphasising this threshold connecting “here” and “there”, is no longer merely transporting us, but collapsing the boundary between the two, allowing physical reality and virtual imagination to seamlessly blend into one another.
+
+<img src="/static/images/Yiho/Yiho_2.jpg" class="single-column-img">
 
 **The Unfinished Imagination of the Elsewhere**
 
