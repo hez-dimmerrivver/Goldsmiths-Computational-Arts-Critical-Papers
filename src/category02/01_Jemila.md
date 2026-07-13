@@ -87,23 +87,20 @@ Although AI currently seems to be advancing at a speed that feels overwhelming t
 
 #### **END NOTES**
 
-
-- Wikipedia, ‘Artificial intelligence’, 2026 < https://en.wikipedia.org/wiki/Artificial_intelligence>     [accessed July 2026] 
-- Brunell, Raymond , ‘Introducing the AI Friend Necklace: Surveillance Has Never Looked So Cute’, June 2025 <https://raymond-brunell.medium.com/introducing-the-ai-friend-necklace-surveillance-has-never-looked-so-cute-2b576a7ccd77>   [accessed July 2026] 
-- Tangermann, Victor , ‘AI “Friend” Startup Overwhelmed With Hatred’, Oct 2025 <https://futurism.com/future-society/ai-friend-startup-overwhelmed-hatred>  [accessed July 2026]   
-- Grimm, Paul W. et al., The GPTJudge: Justice in a Generative AI World, Duke Law & Technology Review, Vol. 23, No. 1, May 2023. To Appear in Vol. 23, Iss. 1 of Duke Law & Technology Review (Oct. 2023).
- <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4460184>    [accessed July 2026]   
-- Ahmad, Sayed Fayaz et al., ‘Impact of artificial intelligence on human loss in decision making, laziness and safety in education.’ Humanities & social sciences communications vol. 10,1 (2023): 311. doi:10.1057/s41599-023-01787-8  <https://pubmed.ncbi.nlm.nih.gov/37325188/>  [accessed July 2026]    
-- Nice Aunties, 2026,  <https://www.niceaunties.com/>  [accessed July 2026] 
-- Google, ‘Teaching LLMs to reason like Bayesians’, 2026 <https://research.google/blog/teaching-llms-to-reason-like-bayesians/>   [accessed July 2026]   
-- Sutela, Jenna , ‘nimiia cetii’, 2018  <https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii>  [accessed July 2026]    
-- Herndon, Holly , ‘Spawn’, Aug 2022, <https://red-eye.world/c/holly-herndon-mat-dryhurst-and-their-ai-baby-named-spawn>  [accessed July 2026]  
-- Iqoqo, ‘Reimagining immersive storytelling through African perspectives: A conversation with Chipo Mapondera’, May 2025 <https://iqoqo.org/reimagining-immersive-storytelling-through-african-perspectives-a-conversation-with-chipo-mapondera/>   [accessed July 2026]  
-- Tenner , Edward , ‘Why being efficient is bad for your creativity’, 2019, <https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/>   [accessed July 2026]  
-- Dimacali, Kenneah ,’Just because we can, doesn't always mean we should’, Feb 2025,
-<https://www.aucklandartgallery.com/explore/stories-and-voices/ai-art-just-because-we-can-doesnt-always-mean-we-should>  [accessed July 2026]      
-- MIT News,’Generative AI’s environmental impact’, 2025
-<https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117#:~:text=Rapid%20development%20and%20deployment%20of,electricity%20demand%20and%20water%20consumption>  [accessed July 2026] .   
-- Corral,  Matt , ‘The harm and hypocrisy of AI art : The Vampire Machine’, 2023 <https://www.corralldesign.com/writing/ai-harm-hypocrisy>  [accessed July 2026] 
-- Vice, ‘AI Models  are cannibalising each other’, June 2025, <https://www.vice.com/en/article/ai-models-are-cannibalizing-each-other-and-it-might-destroy-them/>  [accessed July 2026] 
-
+- Wikipedia, 'Artificial intelligence', 2026  [](https://en.wikipedia.org/wiki/Artificial_intelligence)     \[accessed July 2026\] 
+- Brunell, Raymond , 'Introducing the AI Friend Necklace: Surveillance Has Never Looked So Cute', June 2025 [](https://raymond-brunell.medium.com/introducing-the-ai-friend-necklace-surveillance-has-never-looked-so-cute-2b576a7ccd77)   \[accessed July 2026\] 
+- Tangermann, Victor , AI “Friend” Startup Overwhelmed With Hatred, Oct 2025 [](https://futurism.com/future-society/ai-friend-startup-overwhelmed-hatred)  \[accessed July 2026\]   
+- Grimm, Paul W. et al., 'The GPTJudge: Justice in a Generative AI World', Duke Law & Technology Review, Vol. 23, No. 1, May 2023\. To Appear in Vol. 23, Iss. 1 of Duke Law & Technology Review (Oct. 2023).
+[](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4460184)    \[accessed July 2026\]   
+- Ahmad, Sayed Fayaz et al. 'Impact of artificial intelligence on human loss in decision making, laziness and safety in education.' Humanities & social sciences communications vol. 10,1 (2023): 311\. doi:10.1057/s41599-023-01787-8  [](https://pubmed.ncbi.nlm.nih.gov/37325188/)   \[accessed July 2026\]    
+- Nice Aunties, 2026,  [](https://www.niceaunties.com/)  \[accessed July 2026\] 
+- Google, 'Teaching LLMs to reason like Bayesians', 2026 [](https://research.google/blog/teaching-llms-to-reason-like-bayesians/)   \[accessed July 2026\]   
+- Sutela, Jenna , 'nimiia cetii', 2018  [](https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii)  \[accessed July 2026\]    
+- Herndon, Holly , 'Spawn', Aug 2022, [](https://red-eye.world/c/holly-herndon-mat-dryhurst-and-their-ai-baby-named-spawn)  \[accessed July 2026\]  
+- Iqoqo, 'Reimagining immersive storytelling through African perspectives: A conversation with Chipo Mapondera', May 2025 [](https://iqoqo.org/reimagining-immersive-storytelling-through-african-perspectives-a-conversation-with-chipo-mapondera/)   \[accessed July 2026\]  
+- Tenner, Edward , 'Why being efficient is bad for your creativity', 2019, [](https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/)   \[accessed July 2026\]  
+- Dimacali, Kenneah ,'Just because we can, doesn't always mean we should', Feb 2025,
+[](https://www.aucklandartgallery.com/explore/stories-and-voices/ai-art-just-because-we-can-doesnt-always-mean-we-should)  \[accessed July 2026\]      
+- MIT News,'Generative AI’s environmental impact', 2025 [](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117#:~:text=Rapid%20development%20and%20deployment%20of,electricity%20demand%20and%20water%20consumption)  \[accessed July 2026\] .   
+- Corral,  Matt , 'The harm and hypocrisy of AI art : The Vampire Machine', 2023 [](https://www.corralldesign.com/writing/ai-harm-hypocrisy)  \[accessed July 2026\] 
+- Vice, 'AI Models  are cannibalising each other', June 2025, [](https://www.vice.com/en/article/ai-models-are-cannibalizing-each-other-and-it-might-destroy-them/)   \[accessed July 2026\] 
