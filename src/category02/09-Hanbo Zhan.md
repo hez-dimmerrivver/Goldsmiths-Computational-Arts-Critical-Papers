@@ -1,5 +1,6 @@
 ---
 title: Algorithmic Smoothness and the End of Subjectivity
+name: Hanbo Zhan
 ---
 
 <div class="chapter-two">

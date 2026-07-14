@@ -1,5 +1,6 @@
 ---
 title: Can Data Read Me?
+name: Haiyi Xiao
 ---
 
 <div class="chapter-two">
@@ -12,7 +13,7 @@ title: Can Data Read Me?
 
 Every year, platforms such as Steam send me a year-in-review summary. The genres I spent the most time playing, the games I played the most, the distribution of my activity across the year — these visualisations, supposedly generated from “my” annual data, often make me feel as if data can truly read me. After all, these numbers are not invented; they are records of actual behaviour.
 
-Yet the limited categories in Steam’s official recap never fully satisfied me. I wanted to produce a more complete reading of my own gaming history. Following a similar logic of data-driven summarisation, I developed a practice-based project titled *Digital Gaming Identity*, which explores a player’s long-term gaming preferences across their Steam library. At the time, I believed that I could create a fuller and more truthful self-summary. However, when I finally transformed the data into visual charts, I felt a strange sense of distance. The result neither confirmed my existing self-image nor replaced it with a more objective version. Instead, it placed different versions of myself side by side, creating a strong sense of misalignment. The person it described seemed to be me, but not entirely.
+Yet the limited categories in Steam’s official recap never fully satisfied me. I wanted to produce a more complete reading of my own gaming history. Following a similar logic of data-driven summarisation, I developed a practice-based project titled _Digital Gaming Identity_, which explores a player’s long-term gaming preferences across their Steam library. At the time, I believed that I could create a fuller and more truthful self-summary. However, when I finally transformed the data into visual charts, I felt a strange sense of distance. The result neither confirmed my existing self-image nor replaced it with a more objective version. Instead, it placed different versions of myself side by side, creating a strong sense of misalignment. The person it described seemed to be me, but not entirely.
 
 Why would a self-portrait built from real data make me feel both like myself and unlike myself? I cannot say with certainty whether the data had left out part of me, or whether my own memory of myself was already partial and unstable. However, this personal sense of misalignment drew me to investigate how such a gap came into being. It also points to a larger question: in an age where data has increasingly become an important medium of self-understanding, what kind of relationship should we have with the numbers that claim to represent us?
 
@@ -61,12 +62,12 @@ It is precisely this doubled position that makes me more aware than anyone else 
 
 #### **END NOTES**
 
-- Katherine Behar, ‘Personalities Without People’, *The Occulture*, 21 March 2018, \<https://www.theocculture.net/personalities-without-people-guest-post-by-katherine-behar/\> [accessed 6 July 2026]
+- Katherine Behar, ‘Personalities Without People’, _The Occulture_, 21 March 2018, \<https://www.theocculture.net/personalities-without-people-guest-post-by-katherine-behar/\> [accessed 6 July 2026]
 
-- Bruno Latour, *Reassembling the Social: An Introduction to Actor-Network-Theory* (Oxford: Oxford University Press, 2005), \<https://doi.org/10.1093/oso/9780199256044.001.0001\> [accessed 6 July 2026]
+- Bruno Latour, _Reassembling the Social: An Introduction to Actor-Network-Theory_ (Oxford: Oxford University Press, 2005), \<https://doi.org/10.1093/oso/9780199256044.001.0001\> [accessed 6 July 2026]
 
 - Valve Corporation, ‘Steam Web API Documentation’, \<https://steamcommunity.com/dev\> [accessed 6 July 2026]
 
-- José van Dijck, *The Culture of Connectivity: A Critical History of Social Media* (Oxford: Oxford University Press, 2013), \<https://doi.org/10.1093/acprof:oso/9780199970773.001.0001\> [accessed 6 July 2026]
+- José van Dijck, _The Culture of Connectivity: A Critical History of Social Media_ (Oxford: Oxford University Press, 2013), \<https://doi.org/10.1093/acprof:oso/9780199970773.001.0001\> [accessed 6 July 2026]
 
 </div>

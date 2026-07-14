@@ -1,5 +1,6 @@
 ---
 title: Emotional Dependency Is Not a Product Category
+name: Yunlong Jue
 ---
 
 <div class="chapter-three">

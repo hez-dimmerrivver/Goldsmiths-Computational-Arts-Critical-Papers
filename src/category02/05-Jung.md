@@ -1,5 +1,6 @@
 ---
 title: When Recognition Meets Re-cognition
+name: Jung Namkoong
 ---
 
 <div class="chapter-two">

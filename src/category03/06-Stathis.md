@@ -1,5 +1,6 @@
 ---
 title: Reclaiming the Cloud
+name: Stathis
 ---
 
 <div class="chapter-three">

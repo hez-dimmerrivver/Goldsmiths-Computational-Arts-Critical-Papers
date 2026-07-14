@@ -1,5 +1,6 @@
 ---
 title: The Aphasic Manifesto
+name: Yihang Zhang
 ---
 
 <div class="chapter-two">
@@ -7,7 +8,7 @@ title: The Aphasic Manifesto
 ##### 張一航 Yihang Zhang
 
 # The Aphasic Manifesto
-  
+
 ## The Algorithm Does Not Write. It Samples.
 
 <div class="body-text">

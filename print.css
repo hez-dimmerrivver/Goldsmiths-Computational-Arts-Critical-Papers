@@ -218,8 +218,8 @@ body {
     column-span: all;         
     border-top: 1px solid #888888; 
     width: 100%;                   
-    margin-top: 20px;             
-    margin-bottom: 20px;           
+    margin-top: 18px;             
+    margin-bottom: 10px;           
     height: 0;                     
 }
 
@@ -227,6 +227,7 @@ body {
 .book-category {
     break-before: always;
     page: chapter;
+    counter-increment: page 2;
 }
 
 .chapter {
@@ -256,12 +257,21 @@ body {
 .toc{
     break-before: page;
 }
+
 a:not(.toc a):after {
     content:" <" attr(href) ">";
 }
 
+.toc a {
+    display: flex;
+    justify-content: space-between; /* title left, page number right */
+    align-items: flex-end;         
+    text-decoration: none;         /* remove underline */
+}
+
 .toc a::after {
     content: " " target-counter(attr(href url), page);
+    margin-left: auto;             /* page number right */
 }
 
 code {    
@@ -269,16 +279,18 @@ code {
 }
 
 
+
+
 /* ///////////// GENERAL STYLING ///////// */
 
 h1 {
-    font-size: 36pt;
+    font-size: 30pt;
     font-family: 'Doto_Rounded-Bold';
     font-weight: normal;
     text-align: center;
     line-height: 1.1em;  
-    margin-top: 0em;
-    margin-bottom: 0.6em;
+    margin-top: -0.1em;
+    margin-bottom: 0.5em;
     
     /* page-break-before: always;new page for every submission title */
 
@@ -347,6 +359,16 @@ h5 {
     page-break-before: always;/*new page for every submission title*/
     margin-top: 0.6em;
     margin-bottom: 1.1em;
+}
+
+h6 {    
+    font-size: 24pt;  
+    line-height: 1em;  
+    font-family: 'dichtmy';   /*local font*/
+    font-weight: normal;
+    text-align: Left;
+    margin-top: 0em;
+    margin-bottom: 0em;
 }
 
 /*zihan's code*/
@@ -447,7 +469,7 @@ li::before {
 }
 
 /* Haiyi article layout test - body only */
-.chapter-two .body-text {
+/* .chapter-two .body-text {
     column-fill: balance;
 }
 
@@ -459,5 +481,5 @@ li::before {
     text-indent: 0;
     orphans: 1;
     widows: 1;
-}
+} */
 

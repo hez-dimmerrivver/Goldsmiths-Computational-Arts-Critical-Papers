@@ -1,21 +1,28 @@
 <nav class="toc">
-  <h2 class="toc-title">Contents</h2>
-  <ul>
-    {% for section in collections.book | groupBySectionOrder %}
+  <br>
+  <br>
+  <h1 class="toc-title">Contents</h1>
+  <br>
+  <br>
+  <br>
+  {% for section in collections.book | groupBySectionOrder %}
     {% if section.tocNested %}
-    <li>
-      {{ section.title }}
-      <ul>
-        {% for chapter in section.chapters %}
-        <li><a href="#{{ chapter | fileId }}">{{ chapter.data.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </li>
+    <br>
+      <h4>{{ section.title }}</h4>
+      
+      {% for chapter in section.chapters %}
+        <div style="margin-bottom: 5px;">
+          <a href="#{{ chapter | fileId }}">{{ chapter.data.title }}<i>{{" "}}{{"/ "}}{{ chapter.data.name }}</i></a>
+        </div>
+      {% endfor %}
+      <br>
     {% else %}
-    {% for chapter in section.chapters %}
-    <li><a href="#{{ chapter | fileId }}">{{ chapter.data.title }}</a></li>
-    {% endfor %}
+
+      {% for chapter in section.chapters %}
+        <div style="margin-bottom: 5px;">
+          <a href="#{{ chapter | fileId }}">{{ chapter.data.title }}</a>
+        </div>
+      {% endfor %}
     {% endif %}
-    {% endfor %}
-  </ul>
+  {% endfor %}
 </nav>

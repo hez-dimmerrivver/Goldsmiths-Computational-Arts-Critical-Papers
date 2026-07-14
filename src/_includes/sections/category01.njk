@@ -1,8 +1,11 @@
 {% set chapters = collections.book | inFolder("category01") %}
+
 <section id="category01" class="category{% if chapters[0].data.tocNested %} book-category{% endif %}">
-  <h2 class="category-title">
-    <span style="display: none;">{{ chapters[0].data.categoryTitle }}</span>
+ 
+  <h2 class="category-title" id="{{ chapters[0].data.categoryTitle }}">
+  <span style="display: none;">{{ chapters[0].data.categoryTitle }}</span>
   </h2>
+  
   <div class="full-width category-cover">
     <iframe src="https://editor.p5js.org/yairis11017/full/Nz77beFBV"></iframe>
   </div>
@@ -25,3 +28,5 @@ Following through on the promise of change, this section offers an examination o
   </article>
   {% endfor %}
 </section>
+
+

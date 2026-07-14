@@ -1,5 +1,6 @@
 ---
 title: Misalignment
+name: Jiang He Zhang (Hez)
 ---
 
 <div class="chapter-three">
@@ -76,13 +77,13 @@ What time is it now? It’s time to wrap up. We embrace technology, but maintain
 
 #### END NOTES
 
-- Lasse Johnsen, ‘Understanding Atomic Clocks and GPS Timing: The Heart of Modern Timekeeping’, TimeBeat, 8 Oct 2024, \<https://www.timebeat.app/post/atomic-clocks-gps-timing\> [accessed 17 June 2026]
-- Dennis L.Workman , ‘GPS and Telling Time’, GPS.gov, Trimble Component Technologies Division, n.d.\<https://www.gps.gov/gps-and-telling-time\> [accessed 17 June 2026]
-- Shri Khalpada, ‘How The Heck Does GPS Work?’, PerThirtySix, 11 April 2026, \<https://perthirtysix.com/how-the-heck-does-gps-work/\> [accessed 15 June 2026]
-- UNAVCO Spotlight, ‘Decoding the GPS Signal’, n.d. \<https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html\> [accessed 18 June 2026]
-- Windward, ‘What Is GPS Jamming?’, n.d.\<https://windward.ai/glossary/what-is-gps-jamming/\> [accessed 12 June 2026]
-- Justin Brown, ‘What is GPS Spoofing? ...And How to Avoid It’, APG, 29 April 2024,\<https://flyapg.com/blog/what-is-gps-spoofing\> [accessed 12 June 2026]
-  GPSwise, ‘‘GPSwise: Real-Time GPS Spoofing & Jamming Map’, n.d. \<https://gpswise.aero/\> [accessed 14 June 2026]
+- Lasse Johnsen, ‘Understanding Atomic Clocks and GPS Timing: The Heart of Modern Timekeeping’, _TimeBeat_, 8 Oct 2024, \<https://www.timebeat.app/post/atomic-clocks-gps-timing\> [accessed 17 June 2026]
+- Dennis L.Workman , ‘GPS and Telling Time’, _GPS.gov_, Trimble Component Technologies Division, n.d.\<https://www.gps.gov/gps-and-telling-time\> [accessed 17 June 2026]
+- Shri Khalpada, ‘How The Heck Does GPS Work?’, _PerThirtySix_, 11 April 2026, \<https://perthirtysix.com/how-the-heck-does-gps-work/\> [accessed 15 June 2026]
+- UNAVCO Spotlight, ‘Decoding the GPS Signal’, _UNAVCO Spotlight n.d._ \<https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html\> [accessed 18 June 2026]
+- Windward, ‘What Is GPS Jamming?’, _Windward_, n.d.\<https://windward.ai/glossary/what-is-gps-jamming/\> [accessed 12 June 2026]
+- Justin Brown, ‘What is GPS Spoofing? ...And How to Avoid It’, _APG_, 29 April 2024,\<https://flyapg.com/blog/what-is-gps-spoofing\> [accessed 12 June 2026]
+  _GPSwise_, ‘GPSwise: Real-Time GPS Spoofing & Jamming Map’, n.d. \<https://gpswise.aero/\> [accessed 14 June 2026]
 
 </div>
 
