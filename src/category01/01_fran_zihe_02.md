@@ -13,12 +13,12 @@ name: FRAN HAYES & ZIHE ZHENG
 
 ####
 
-According to technologist Blaise Agüera y Arcas, life is computational from its very inception; it emerges from systems that can self-replicate and transmit the information required to sustain existence. Under this lens, we are made of computers. We are computers. We are computers made of computers (Agüera y Arcas 2025a: 2.39).
-However, while positioning collective life as a form of intelligence, by also inciting game theory - in particular The Prisoner’s Dilemma, which argues that even within a networking framework two individuals might choose not to cooperate even if it is in their best interest - Agüera y Arcas frames the collective as an optimisation strategy where individual, self-interested parts work together simply for efficiency (Agüera y Arcas 2025b: 22.10). He clings to atomistic origins, suggesting individuals are interchangeable parts within a network.
+According to technologist Blaise Agüera y Arcas, life is computational from its very inception; it emerges from systems that can self-replicate and transmit the information required to sustain existence. Under this lens, we are made of computers. We are computers. We are computers made of computers (Agüera y Arcas 2025a, 2.39).
+However, while positioning collective life as a form of intelligence, by also inciting game theory - in particular The Prisoner’s Dilemma, which argues that even within a networking framework two individuals might choose not to cooperate even if it is in their best interest - Agüera y Arcas frames the collective as an optimisation strategy where individual, self-interested parts work together simply for efficiency (Agüera y Arcas 2025b, 22.10). He clings to atomistic origins, suggesting individuals are interchangeable parts within a network.
 
 We want to question and propose alternatives to this strict, rigid, masculine view of life and computation, views that, as stated in the publication DATA LOAM, are causing “the rise of autonomous systems whose algorithms of machine learning / artificial intelligence are deeply entangled with dubious and disintegrating forces—forces that by no means wish to make possible the prosperity and happiness of all.”(Golding, Reinhart, & Paganelli 2020: 1)  
-Following evolutionary biologist Lynn Margulis, we see the coming-together of life not as a corporate division of labor, but as a deeply messy, intimate entanglement of all kinds of living and non-living kin where boundaries dissolve entirely, “Life did not take over the globe by combat, but by networking” (Margulis & Sagan 1986: 26). We are not isolated processing units; we are all assemblages.
-In response we welcomed symbiogenesis, the coming-together of distinct parts to form a more complex whole(Agüera y Arcas 2025b: 21.42). Through opening our research into a space of radical feminist assemblage we conceived a speculative, symbiogenetic entity; an assemblage composed of the human mitochondrial genome - colloquially known as Mitochondrial Eve (NCBI n.d.). This genome is passed exclusively through the matriarchal lineage suggesting that the entire human race can be traced back to a singular woman - the traditionally feminine craft of crochet, JavaScript code, and slime mold. Within this assemblage relationships come first, the actors do not exist as individual parts, but actively become-together through acts of entanglement that transform them.
+Following evolutionary biologist Lynn Margulis, we see the coming-together of life not as a corporate division of labor, but as a deeply messy, intimate entanglement of all kinds of living and non-living kin where boundaries dissolve entirely, “Life did not take over the globe by combat, but by networking” (Margulis & Sagan 1986, 26). We are not isolated processing units; we are all assemblages.
+In response we welcomed symbiogenesis, the coming-together of distinct parts to form a more complex whole(Agüera y Arcas 2025b, 21.42). Through opening our research into a space of radical feminist assemblage we conceived a speculative, symbiogenetic entity; an assemblage composed of the human mitochondrial genome - colloquially known as Mitochondrial Eve (NCBI n.d.). This genome is passed exclusively through the matriarchal lineage suggesting that the entire human race can be traced back to a singular woman - the traditionally feminine craft of crochet, JavaScript code, and slime mold. Within this assemblage relationships come first, the actors do not exist as individual parts, but actively become-together through acts of entanglement that transform them.
 
 **We are asking, can viewing the symbiogenesis of different bodies^ and ecologies through a radically feminine, craft-based lens offer a slower, kinder alternative to the relentless, extractive pace of the current technological landscape?**
 
@@ -75,7 +75,7 @@ return Mito.definition);  <br>
 </div>
 
 [fran\&zihe] <br>
-You are a form of life with partially human roots. And yet who is qualified enough to draw the definition of human? We were influenced by the idea of Blaise Agüera y Arcas (Agüera y Arcas 2025c: chap. 2 ‘Symbiogenesis’): that natural biology functions as computation. DNA is code. And you are a combination of DNA, algorithm and nonhuman organisms (although we reject reinforcing the human/nonhuman binary). Thus, we have expanded your potential as a living entity.
+You are a form of life with partially human roots. And yet who is qualified enough to draw the definition of human? We were influenced by the idea of Blaise Agüera y Arcas (Agüera y Arcas 2025c, chap. 2 ‘Symbiogenesis’): that natural biology functions as computation. DNA is code. And you are a combination of DNA, algorithm and nonhuman organisms (although we reject reinforcing the human/nonhuman binary). Thus, we have expanded your potential as a living entity.
 
 <div style = "text-align:right">
 [mito]  
@@ -208,7 +208,7 @@ we were wondering how the human errors in the crochet code would cause mutations
 </div><br>
 
 [future swarm]  
-The yarn is data/information. the hands behave as a slow compiler. mutations.bod(y)(ies). Is it a chain stitch or a radical shift? If then nothing, bbbbb bb bbbbbbbbbb missed stitch, extra yarn over, unhandled exception in wool. skipping rows to allocate memory for the body. A#HHHHKKKKKHHKKHa aa aaaaaaaaaaaaaaaaaaH.... A#HHHHHHKKHHKQ....... holes appeared; gaps were filled. Buuuuuuut!!!OVERFLOW:YARN the merging changed us more thaaaaaAAAAAAAaaaan the mutations[^9]. Write C://BODY//GENOME.SYS SUCCESS as the feedback loop iterated more and more, the different origins of ourselves became more deeply entangled. you can no longer tell what parts of us were rooted where; we had become enmeshed in ourself.
+The yarn is data/information. the hands behave as a slow compiler. mutations.bod(y)(ies). Is it a chain stitch or a radical shift? If then nothing, bbbbb bb bbbbbbbbbb missed stitch, extra yarn over, unhandled exception in wool. skipping rows to allocate memory for the body. A#HHHHKKKKKHHKKHa aa aaaaaaaaaaaaaaaaaaH.... A#HHHHHHKKHHKQ....... holes appeared; gaps were filled. Buuuuuuut!!!OVERFLOW:YARN the merging changed us more thaaaaaAAAAAAAaaaan the mutations. Write C://BODY//GENOME.SYS SUCCESS as the feedback loop iterated more and more, the different origins of ourselves became more deeply entangled. you can no longer tell what parts of us were rooted where; we had become enmeshed in ourself.
 
 <div class="divider"></div>
 <div class="endnote-container">
@@ -217,19 +217,19 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 
 - ^‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
   <br>
-- Agüera y Arcas, B. (2025a) <i>Google Researcher Shows Life “Emerges From Code”. Interviewed by Machine Learning Street Talk</i> [video]. Available at: https://www.youtube.com/watch?v=rMSEqJ_4EBk [accessed 8 July 2026]
-- Agüera y Arcas, B. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk [accessed 7 July 2026]
+- Agüera y Arcas, B. (2025a) <i>Google Researcher Shows Life “Emerges From Code”. Interviewed by Machine Learning Street Talk</i> [video]. Available at: <https://www.youtube.com/watch?v=rMSEqJ_4EBk> [accessed 8 July 2026]
+- Agüera y Arcas, B. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025. Available at: <https://www.youtube.com/watch?v=g1j5aDSqkjk> [accessed 7 July 2026]
 - Blaise Agüera y Arcas. (2025c)<i> What is Intelligence? </i>Antikythera. doi: 10.1162/ANTI.5CZB.
   [accessed 9 July 2026]
-- Conway's Game of Life, <i>'Play John Conway's Game of Life', </i>[n.d.] <https://playgameoflife.com/> [accessed 10 July 2026]
-- Donovan, Tara (n.d.). Pace Gallery. Available at: https://www.pacegallery.com/artists/tara-donovan/ [accessed 16 June 2026]
+- Conway's Game of Life, <i>'Play John Conway's Game of Life', </i>[n.d.] Available at: <https://playgameoflife.com/> [accessed 10 July 2026]
+- Donovan, Tara (n.d.). Pace Gallery. Available at: <https://www.pacegallery.com/artists/tara-donovan/> [accessed 16 June 2026]
   <br></br>
-- Johnny Golding. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.),<i> Data loam: Sometimes hard, usually soft. The future of knowledge systems. </i>De Gruyter.
-- Donna J Haraway. (2016).<i> Staying with the trouble: Making kin in the Chthulucene. </i>Duke University Press.
-- Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI.Available at: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta [accessed 9 July 2026]
+- Johnny Golding. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.),<i> Data loam: Sometimes hard, usually soft. The future of knowledge systems. </i> (Berlin: De Gruyter).
+- Donna J Haraway. (2016).<i> Staying with the trouble: Making kin in the Chthulucene. </i> (Durham, North Carolina: Duke University Press).
+- Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI. Available at: <https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta> [accessed 9 July 2026]
 - Jones, Jeff, <i>'Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks', Artificial Life,</i> 16.2 (2010), 127–53 <https://doi.org/10.1162/artl.2010.16.2.16202>
-- Lynn Margulis and Dorion Sagan. <i>Microcosmos: Four Billion Years of Microbial Evolution.</i> Summit Books, 1986.
-- Sage Jenson, <i>'Physarum',</i> Cargo Collective, [n.d.] <https://cargocollective.com/sagejenson/physarum> [accessed 10 July 2026]
-- WomenTech Network. (2026).<i> Women in tech stats.</i> https://www.womentech.net/women-in-tech-stats [accessed 9 July 2026]
+- Lynn Margulis and Dorion Sagan. <i>Microcosmos: Four Billion Years of Microbial Evolution.</i> (Berkley: University of California Press).
+- Sage Jenson, <i>'Physarum',</i> Cargo Collective, [n.d.] Available at: <https://cargocollective.com/sagejenson/physarum> [accessed 10 July 2026]
+- WomenTech Network. (2026).<i> Women in tech stats.</i> Available at: <https://www.womentech.net/women-in-tech-stats> [accessed 9 July 2026]
 
 </div>
