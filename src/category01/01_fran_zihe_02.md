@@ -218,17 +218,17 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 - ^‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
   <br>
 - Agüera y Arcas, B. (2025a) <i>Google Researcher Shows Life “Emerges From Code”. Interviewed by Machine Learning Street Talk</i> [video]. Available at: https://www.youtube.com/watch?v=rMSEqJ_4EBk [accessed 8 July 2026]
-- Agüera y Arcas, Blaise. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk [accessed 7 July 2026]
-- Agüera y Arcas, B. (2025c)<i> What is Intelligence? </i>Antikythera. doi: 10.1162/ANTI.5CZB.
+- Agüera y Arcas, B. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025, https://www.youtube.com/watch?v=g1j5aDSqkjk [accessed 7 July 2026]
+- Blaise Agüera y Arcas. (2025c)<i> What is Intelligence? </i>Antikythera. doi: 10.1162/ANTI.5CZB.
   [accessed 9 July 2026]
 - Conway's Game of Life, <i>'Play John Conway's Game of Life', </i>[n.d.] <https://playgameoflife.com/> [accessed 10 July 2026]
 - Donovan, Tara (n.d.). Pace Gallery. Available at: https://www.pacegallery.com/artists/tara-donovan/ [accessed 16 June 2026]
   <br></br>
-- Golding, Johnny. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.),<i> Data loam: Sometimes hard, usually soft. The future of knowledge systems. </i>De Gruyter.
-- Haraway, Donna J. (2016).<i> Staying with the trouble: Making kin in the Chthulucene. </i>Duke University Press.
+- Johnny Golding. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.),<i> Data loam: Sometimes hard, usually soft. The future of knowledge systems. </i>De Gruyter.
+- Donna J Haraway. (2016).<i> Staying with the trouble: Making kin in the Chthulucene. </i>Duke University Press.
 - Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI.Available at: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta [accessed 9 July 2026]
 - Jones, Jeff, <i>'Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks', Artificial Life,</i> 16.2 (2010), 127–53 <https://doi.org/10.1162/artl.2010.16.2.16202>
-- Margulis, Lynn, and Dorion Sagan. <i>Microcosmos: Four Billion Years of Microbial Evolution.</i> Summit Books, 1986.
+- Lynn Margulis and Dorion Sagan. <i>Microcosmos: Four Billion Years of Microbial Evolution.</i> Summit Books, 1986.
 - Sage Jenson, <i>'Physarum',</i> Cargo Collective, [n.d.] <https://cargocollective.com/sagejenson/physarum> [accessed 10 July 2026]
 - WomenTech Network. (2026).<i> Women in tech stats.</i> https://www.womentech.net/women-in-tech-stats [accessed 9 July 2026]
 
