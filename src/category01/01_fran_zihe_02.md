@@ -216,20 +216,18 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 #### End Notes
 
 - ^‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
-  <br>
-- Agüera y Arcas, B. (2025a) <i>Google Researcher Shows Life “Emerges From Code”. Interviewed by Machine Learning Street Talk</i> [video]. Available at: <https://www.youtube.com/watch?v=rMSEqJ_4EBk> [accessed 8 July 2026]
-- Agüera y Arcas, B. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025. Available at: <https://www.youtube.com/watch?v=g1j5aDSqkjk> [accessed 7 July 2026]
+- Agüera y Arcas, B. (2025a) <i>Google Researcher Shows Life “Emerges From Code”. Interviewed by Machine Learning Street Talk</i> [video]. Available at: [](https://www.youtube.com/watch?v=rMSEqJ_4EBk). [accessed 8 July 2026]
+- Agüera y Arcas, B. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025. Available at: [](https://www.youtube.com/watch?v=g1j5aDSqkjk). [accessed 7 July 2026]
 - Blaise Agüera y Arcas. (2025c)<i> What is Intelligence? </i>Antikythera. doi: 10.1162/ANTI.5CZB.
   [accessed 9 July 2026]
-- Conway's Game of Life, <i>'Play John Conway's Game of Life', </i>[n.d.] Available at: <https://playgameoflife.com/> [accessed 10 July 2026]
-- Donovan, Tara (n.d.). Pace Gallery. Available at: <https://www.pacegallery.com/artists/tara-donovan/> [accessed 16 June 2026]
-  <br></br>
+- Conway's Game of Life, <i>'Play John Conway's Game of Life', </i>[n.d.] Available at: [](https://playgameoflife.com/). [accessed 10 July 2026]
+- Donovan, Tara (n.d.). Pace Gallery. Available at: [](https://www.pacegallery.com/artists/tara-donovan/). [accessed 16 June 2026]
 - Johnny Golding. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.),<i> Data loam: Sometimes hard, usually soft. The future of knowledge systems. </i> (Berlin: De Gruyter).
 - Donna J Haraway. (2016).<i> Staying with the trouble: Making kin in the Chthulucene. </i> (Durham, North Carolina: Duke University Press).
-- Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI. Available at: <https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta> [accessed 9 July 2026]
-- Jones, Jeff, <i>'Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks', Artificial Life,</i> 16.2 (2010), 127–53 <https://doi.org/10.1162/artl.2010.16.2.16202>
+- Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI. Available at: [](https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta). [accessed 9 July 2026]
+- Jones, Jeff, <i>'Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks', Artificial Life,</i> 16.2 (2010), 127–53 [](https://doi.org/10.1162/artl.2010.16.2.16202).
 - Lynn Margulis and Dorion Sagan. <i>Microcosmos: Four Billion Years of Microbial Evolution.</i> (Berkley: University of California Press).
-- Sage Jenson, <i>'Physarum',</i> Cargo Collective, [n.d.] Available at: <https://cargocollective.com/sagejenson/physarum> [accessed 10 July 2026]
-- WomenTech Network. (2026).<i> Women in tech stats.</i> Available at: <https://www.womentech.net/women-in-tech-stats> [accessed 9 July 2026]
+- Sage Jenson, <i>'Physarum',</i> Cargo Collective, [n.d.] Available at: [](https://cargocollective.com/sagejenson/physarum). [accessed 10 July 2026]
+- WomenTech Network. (2026).<i> Women in tech stats.</i> Available at: [](https://www.womentech.net/women-in-tech-stats). [accessed 9 July 2026]
 
 </div>
