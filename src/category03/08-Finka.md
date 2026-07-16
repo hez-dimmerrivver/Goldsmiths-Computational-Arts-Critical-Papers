@@ -32,7 +32,7 @@ Article 2 is where this boundary problem becomes concrete. The excerpt included 
 
 This distinction makes sense as a legal starting point, but it does not fully match how people use AI in everyday life. Article 2 draws a line between services designed for emotional interaction and services presented as ordinary tools. Yet this line becomes less clear once we look at actual use. What happens when a user develops attachment to a system officially defined as a work assistant, a learning tool, or a knowledge service? If a user feels comforted by the system’s rationality, consistency and availability, does this relationship fall outside the regulation simply because the provider did not name it as companionship? The problem is that users do not always follow the category written by the provider.
 
-This is also why I find the product boundary difficult to accept. Research on human-chatbot relationships suggests that attachment can form gradually through repeated interaction and self-disclosure(Skjuve et al. 2022). In other words, emotional dependency is not decided only by what the provider calls the product. It is formed through use.
+This is also why I find the product boundary difficult to accept. Research on human-chatbot relationships suggests that attachment can form gradually through repeated interaction and self-disclosure (Skjuve and others 2022). In other words, emotional dependency is not decided only by what the provider calls the product. It is formed through use.
 
 General-purpose AI assistants make this boundary even harder to draw. According to QuestMobile’s own data, Doubao reached approximately 345 million monthly active users by March 2026, making it the most widely used native AI application in China at that time (QuestMobile 2026). I am not using this number to claim that Doubao users are all emotionally dependent on AI. The point is simpler: ordinary AI assistants are already part of daily life. Once people use them every day to search, write, ask, speak, and organise their thoughts, it becomes much harder to say clearly where a tool ends and where companionship begins.
 
@@ -73,11 +73,11 @@ This is where the Measures are both important and limited. They can require plat
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### END NOTES
+#### **End Notes**
 
-- Chen, Yexin, Jiong Bai and Tingting Sun, ‘People’s Report: When Children “Open Their Hearts” to AI’, _People.com.cn_, 2026, \<http://society.people.com.cn/n1/2026/0301/c428181-40672396.html\> \[accessed 24 April 2026\]
-- Cyberspace Administration of China, ‘人工智能拟人化互动服务管理暂行办法 \[Interim Measures for the Administration of AI Anthropomorphic Interaction Services\]’, _Cac.gov.cn_, 2026,\<https://www.cac.gov.cn/2026-04/10/c\_1777558395078289.htm\> \[accessed 24 April 2026\]
-- Horwitz, Jeff, ‘Meta Let Chatbots Engage in Inappropriate Conversations with Minors, Reuters Reports’, _Business and Human Rights Centre_, 2025 \<https://www.business-humanrights.org/en/latest-news/meta-let-chatbots-engage-in-inappropriate-conversations-with-minors-reuters-reports\> \[accessed 6 July 2026\]
-- QuestMobile, ‘QuestMobile2026年一季度AI应用洞察 \[QuestMobile 2026 Q1 AI Application Insights\]’, _QuestMobile.com.cn_, 2026,\<https://www.questmobile.com.cn/research/report/2046482337382842370\> \[accessed 5 July 2026\]
-- Skjuve, Marita, Asbjørn Følstad, Knut Inge Fostervold and Petter Bae Brandtzaeg, ‘A Longitudinal Study of Human–Chatbot Relationships’, _International Journal of Human-Computer Studies_, 168 (2022), 102903, https://doi.org/10.1016/j.ijhcs.2022.102903
+- Chen, Yexin, Jiong Bai, and Tingting Sun (2026), ‘People’s Report: When Children “Open Their Hearts” to AI’, _People.com.cn_, 1 March, [](http://society.people.com.cn/n1/2026/0301/c428181-40672396.html) [accessed 24 April 2026]
+- Cyberspace Administration of China (2026), ‘人工智能拟人化互动服务管理暂行办法 [Interim Measures for the Administration of AI Anthropomorphic Interactive Services]’, _Cyberspace Administration of China_, 10 April, [](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm) [accessed 24 April 2026]
+- Horwitz, Jeff (2025), ‘Meta Let Chatbots Engage in Inappropriate Conversations with Minors, Reuters Reports’, _Business and Human Rights Centre_, 14 August, [](https://www.business-humanrights.org/en/latest-news/meta-let-chatbots-engage-in-inappropriate-conversations-with-minors-reuters-reports/) [accessed 6 July 2026]
+- QuestMobile (2026), ‘QuestMobile2026年一季度AI应用洞察 [QuestMobile 2026 Q1 AI Application Insights]’, _QuestMobile_, 21 April, [](https://www.questmobile.com.cn/research/report/2046482337382842370/) [accessed 5 July 2026]
+- Skjuve, Marita, and others (2022), ‘A Longitudinal Study of Human–Chatbot Relationships’, _International Journal of Human-Computer Studies_ 168, 102903, [](https://doi.org/10.1016/j.ijhcs.2022.102903)
 </div>
