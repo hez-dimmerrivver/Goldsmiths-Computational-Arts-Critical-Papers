@@ -29,21 +29,21 @@ Furthermore, through my own artistic practice independently and as an art collec
 
 First, look at how boundaries in the arts frame our longing for an “elsewhere”. Before the advent of interactive digital media, the portal was still only a window within the medium itself. In architecture, illusionistic ceiling painting, the so-called “Trompe-l'œil”, or Quadratura, in the cathedral serves as a classic example. By dissolving the physical ceiling into an infinite sky, it invites the eye to ascend into a spiritual world.
 
-As for paintings, John Berger in Ways of Seeing notes, "Perspective makes the single eye the centre of the visible world" (Berger 1972). That is, everything in the painting is set out for our sight, and the viewer is always kept outside the picture frame as a physical boundary. Paintings like Jan van Eyck's Arnolfini Portrait (1434) and Petrus Christus's A Goldsmith in His Shop (1449) seem to push against this, using a convex mirror as a small meta-portal that reflects the space in front of the picture and appears to pull our world inside. However, such visual tricks still cannot eliminate the fact that the reality is blocked outside the picture frame.
+As for paintings, John Berger in _Ways of Seeing_ notes, "Perspective makes the single eye the centre of the visible world" (Berger 1972, 16). That is, everything in the painting is set out for our sight, and the viewer is always kept outside the picture frame as a physical boundary. Paintings like Jan van Eyck's _Arnolfini Portrait_ (van Eyck 1434) and Petrus Christus's _A Goldsmith in His Shop_ (Christus 1449) seem to push against this, using a convex mirror as a small meta-portal that reflects the space in front of the picture and appears to pull our world inside. However, such visual tricks still cannot eliminate the fact that the reality is blocked outside the picture frame.
 
-René Magritte pushes this play with the boundary even further. In La Condition Humaine (1933), an easel stands in front of a window, and the painted canvas upon it continues the landscape outside so seamlessly that we cannot tell where the real view ends and the picture begins. Yet in his series of doors, such as La Réponse Imprévue (1933), a closed door is broken but open by an irregular hole that reveals the space behind it. The frame as a portal is no longer something we merely look into, but a threshold we desire to step through, which the screen, and later the headset, will take up in earnest to realise.
+René Magritte pushes this play with the boundary even further. In _La Condition Humaine_ (Magritte 1933a), an easel stands in front of a window, and the painted canvas upon it continues the landscape outside so seamlessly that we cannot tell where the real view ends and the picture begins. Yet in his series of doors, such as _La Réponse Imprévue_ (Magritte 1933b), a closed door is broken but open by an irregular hole that reveals the space behind it. The frame as a portal is no longer something we merely look into, but a threshold we desire to step through, which the screen, and later the headset, will take up in earnest to realise.
 
 **Watching Others Cross: The Diegetic Portal on Movie Screen**
 
-With the arrival of the screen, portals begin to proliferate as diegetic objects within the story. In this context, we are no longer pointing solely at the framed medium itself, but at the impossible passages that open up inside the story such as a magic wardrobe, a rift in space, or even a stargate. Anne Friedberg argues in her book, The Virtual Window, that cinema relies on a fundamental paradox: the "mobility of the image, immobility of the spectator". She observes that while the medium provides "a virtual mobility—the illusion of transport to other places and times for its spectators," the physical body of the viewer remains firmly "confined" (Friedberg, 2006). Because we cannot physically step through the material surface of the screen, we satisfy our urge to enter the "fairyland" by watching characters cross these narrative portals on our behalf.
+With the arrival of the screen, portals begin to proliferate as diegetic objects within the story. In this context, we are no longer pointing solely at the framed medium itself, but at the impossible passages that open up inside the story such as a magic wardrobe, a rift in space, or even a stargate. Anne Friedberg argues in her book, _The Virtual Window_, that cinema relies on a fundamental paradox: the "mobility of the image, immobility of the spectator". She observes that while the medium provides "a virtual mobility—the illusion of transport to other places and times for its spectators," the physical body of the viewer remains firmly "confined" (Friedberg 2006, 160). Because we cannot physically step through the material surface of the screen, we satisfy our urge to enter the "fairyland" by watching characters cross these narrative portals on our behalf.
 
 However, it is the video game that takes the next radical step: what crosses the portal is no longer merely our sight, but an avatar under our direct control.
 
 **Beyond the Screen in Games: Interactive Portals and Avatar Agency**
 
-Speaking of games, the portal becomes the classic interactive metaphor for player agency. In fact, the concept of the "portal" is deeply rooted in video game terminology as a fundamental mechanic for avatar’s navigation. In the earlier games like Super Mario Bros. (1985), portals like “Warp Pipes” only served as symbolic gateways used to transition between game levels. While they offered access to hidden routes or shortcuts, their function remained passive and fixed within the game's spatial structure.
+Speaking of games, the portal becomes the classic interactive metaphor for player agency. In fact, the concept of the "portal" is deeply rooted in video game terminology as a fundamental mechanic for avatar’s navigation. In the earlier games like _Super Mario Bros._ (Nintendo 1985), portals like “Warp Pipes” only served as symbolic gateways used to transition between game levels. While they offered access to hidden routes or shortcuts, their function remained passive and fixed within the game's spatial structure.
 
-By contrast, in a more contemporary game like Portal 2 (2011), portals are transformed into an active tool for manipulating spaces. Players can strategically place portals to circumvent physical constraints and redirect momentum, for example, converting vertical free-fall energy into horizontal velocity when they are navigating in a 3D space.
+By contrast, in a more contemporary game like _Portal 2_ (Valve Corporation 2011), portals are transformed into an active tool for manipulating spaces. Players can strategically place portals to circumvent physical constraints and redirect momentum, for example, converting vertical free-fall energy into horizontal velocity when they are navigating in a 3D space.
 To understand how portals redefine spatial structure in rendering, we must look into “Non-Euclidean geometry”. While traditional Euclidean space relies on absolute constants of distance and proportion, game designers can utilise the portal as a “spatial editor”. For instance, players may encounter chambers that are internally larger than their external dimensions, and having a “TARDIS-like” feeling, or experience self-folding infinite loops in one space. This manipulation of topology turns what would be a static, enclosed room into a generative, malleable structure.
 
 Portals are no longer destinations to be traversed; they become tools through which players actively reshape their spatial environment. At the same time, it anticipates contemporary VR/MR experiences where space itself becomes a mutable and interactive medium.
@@ -52,15 +52,15 @@ Portals are no longer destinations to be traversed; they become tools through wh
 
 Before VR headsets came out, what passed through the portal into the "elsewhere" was only the viewer's sight, or at most their game avatar. The viewer always remained an outsider, peering in some kind of frame, either a picture's frame, or a screen. The VR headset, however, seals off reality altogether: once the display wraps a full 360 degrees around the eyes, what crosses into the "elsewhere" is, for the first time, the body itself.
 
-What changes most on this virtual side of the portal is not simply our sense of location, but our sense of embodiment. As VR dissolves the stable boundary between avatar and environment, the virtual world can gradually become incorporated into one's own body schema. Jaron Lanier, in his book, Dawn of the New Everything, he imagines that mature VR will no longer consist of "a virtual place you visit", but "a form you turn into". As he puts it, “After all, there is no absolute distinction between avatar and world in VR. If the clouds turn when you turn your wrists, you gradually take them on as part of your body map. You and clouds, one.” (Lanier, 2017)
+What changes most on this virtual side of the portal is not simply our sense of location, but our sense of embodiment. As VR dissolves the stable boundary between avatar and environment, the virtual world can gradually become incorporated into one's own body schema. Jaron Lanier, in his book, _Dawn of the New Everything_, imagines that mature VR will no longer consist of "a virtual place you visit", but "a form you turn into". As he puts it, “After all, there is no absolute distinction between avatar and world in VR. If the clouds turn when you turn your wrists, you gradually take them on as part of your body map. You and clouds, one.” (Lanier 2017, 141)
 
-In my past work Low-life (2021), I turned the viewer into a non-human body: a cockroach in a kitchen, where the world is seen from a low, ground-level vision, through a perspective our own bodies could never inhabit. Similarly, in CURIOSKI, one of my collective’s projects, A Glimpse of the Mind Landscape (2022), we treated the headset itself as a “mind-plugin”. We explored how consciousness interacts with different states of embodiment, including human forms, mysterious creatures, and even existence without any body at all.
+In my past work _Low-life_ (Li 2021), I turned the viewer into a non-human body: a cockroach in a kitchen, where the world is seen from a low, ground-level vision, through a perspective our own bodies could never inhabit. Similarly, in CURIOSKI, one of my collective’s projects, _A Glimpse of the Mind Landscape_ (CURIOSKI 2022), we treated the headset itself as a “mind-plugin”. We explored how consciousness interacts with different states of embodiment, including human forms, mysterious creatures, and even existence without any body at all.
 
 <img src="/static/images/Yiho/Yiho_1.jpg" class="single-column-img">
 
 **Transporting the Context: The Social Portal in VRChat**
 
-If the VR headset itself already acts as a physical portal for the body, then when we encounter simulated gateways as symbols inside the virtual space, what exactly is passing through? By looking at the social platform VRChat, a new answer emerges: what passes through the portal is the social relationship itself.
+If the VR headset itself already acts as a physical portal for the body, then when we encounter simulated gateways as symbols inside the virtual space, what exactly is passing through? By looking at the social platform _VRChat_ (VRChat Inc. 2017), a new answer emerges: what passes through the portal is the social relationship itself.
 In VRChat, any user can "drop" a glowing 3D portal that functions as a "collective gateway" in the middle of a room. When a group of friends steps through a newly dropped portal to leave a chaotic public hall for a quiet private room, they are transporting their shared conversations, group dynamics, and social boundaries into a new world. In this sense, the portal acts as a social filter, creating the meaning of defining who belongs to this "elsewhere" together.
 
 **Bringing the “Elsewhere” Closer in MR: Virtual Portals in Physical Reality**
@@ -68,7 +68,7 @@ In VRChat, any user can "drop" a glowing 3D portal that functions as a "collecti
 Moving to the mixed reality (MR), it becomes harder to say that the headset itself is the portal, because MR no longer clearly separates an inside from an outside (the virtual world vs. the reality). Here the discussion of the portal can be focused from the whole headset down to a threshold opened within the scene. Making an MR experience in a game engine like Unity, for example, we can design how exactly transparent the real world should be seen, and how our real body can trigger a simulated door, for the player to move back and forth between the reality and the virtual world.
 The realisation of these bidirectional portals relies fundamentally on the "pass-through" technology of contemporary headsets, such as the Meta Quest 3 or Apple Vision Pro. When we put on the headset, our physical vision is completely enclosed at first, then, the "reality" will be rendered in a real-time, digitised reconstruction captured by external cameras and projected onto screens inside the headset.
 
-CURIOSKI's The Insider (2024) takes this up as a narrative practice, assembling physical and virtual objects into a single space: we placed a virtual window on the real wall through which one could look out. On the other hand, in Paxville (2024), we did the opposite—making holes around the reality to look into the virtual world behind it. The two works map the two directions a portal can open in MR, emphasising this threshold connecting “here” and “there”, is no longer merely transporting us, but collapsing the boundary between the two, allowing physical reality and virtual imagination to seamlessly blend into one another.
+CURIOSKI's _The Insider_ (CURIOSKI 2024a) takes this up as a narrative practice, assembling physical and virtual objects into a single space: we placed a virtual window on the real wall through which one could look out. On the other hand, in _Paxville_ (CURIOSKI 2024b), we did the opposite—making holes around the reality to look into the virtual world behind it. The two works map the two directions a portal can open in MR, emphasising this threshold connecting “here” and “there”, is no longer merely transporting us, but collapsing the boundary between the two, allowing physical reality and virtual imagination to seamlessly blend into one another.
 
 <img src="/static/images/Yiho/Yiho_2.jpg" class="single-column-img">
 
@@ -81,21 +81,21 @@ Tracing the genealogy of the portal reveals that humanity has always had that fa
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### END NOTES
+#### **End Notes**
 
-- Berger, John, Ways of Seeing (London: Penguin Books, 1972), p. 16
-- Christus, Petrus, A Goldsmith in His Shop, 1449, oil on oak panel, New York, Metropolitan Museum of Art.
-- Eyck, Jan van, The Arnolfini Portrait, 1434, oil on oak panel, London, National Gallery.
-- Magritte, René, La Condition Humaine, 1933, oil on canvas, Washington, D.C., National Gallery of Art.
-- Magritte, René, La Réponse Imprévue, 1933, Brussels, Musées royaux des Beaux-Arts de Belgique.
-- Friedberg, Anne, The Virtual Window: From Alberti to Microsoft (Cambridge, MA: MIT Press, 2006), p. 160.
-- Nintendo, Super Mario Bros. (Kyoto: Nintendo, 1985).
-- Valve Corporation, Portal 2 (Bellevue, WA: Valve Corporation, 2011).
-- Lanier, Jaron, Dawn of the New Everything: Encounters with Reality and Virtual Reality (New York: Henry Holt and Company, 2017), p. 141.
-- VRChat Inc., VRChat (San Francisco: VRChat Inc., 2017).
-- Li, Yiho, Low-life (Taipei: DAC.TW, 2021).
-- CURIOSKI, A Glimpse of the Mind Landscape (Taipei: MOCA Taipei, 2022).
-- CURIOSKI, The Insider (Taipei: TAICCA, 2024).
-- CURIOSKI, Paxville (Taipei: NCAF, 2024).
+- Berger, John (1972), _Ways of Seeing_ (London: Penguin Books)
+- Christus, Petrus (1449), _A Goldsmith in His Shop_, oil on oak panel, Metropolitan Museum of Art, New York
+- CURIOSKI (2022), _A Glimpse of the Mind Landscape_ (Taipei: MOCA Taipei)
+- CURIOSKI (2024a), _The Insider_ (Taipei: TAICCA)
+- CURIOSKI (2024b), _Paxville_ (Taipei: NCAF)
+- Friedberg, Anne (2006), _The Virtual Window: From Alberti to Microsoft_ (Cambridge, MA: MIT Press)
+- Lanier, Jaron (2017), _Dawn of the New Everything: Encounters with Reality and Virtual Reality_ (New York: Henry Holt and Company)
+- Li, Yiho (2021), _Low-life_ (Taipei: DAC.TW)
+- Magritte, René (1933a), _La Condition Humaine_, oil on canvas, National Gallery of Art, Washington, DC
+- Magritte, René (1933b), _La Réponse Imprévue_, Musées royaux des Beaux-Arts de Belgique, Brussels
+- Nintendo (1985), _Super Mario Bros._ (Kyoto: Nintendo)
+- Valve Corporation (2011), _Portal 2_ (Bellevue, WA: Valve Corporation)
+- van Eyck, Jan (1434), _The Arnolfini Portrait_, oil on oak panel, National Gallery, London
+- VRChat Inc. (2017), _VRChat_ (San Francisco: VRChat Inc.)
 
 </div>
