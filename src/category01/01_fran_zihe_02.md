@@ -1,6 +1,6 @@
 ---
 title: EVELUTION
-name: FRAN HAYES & ZIHE ZHENG
+name: Fran Hayes & Zihe Zheng
 ---
 
 <div class="chapter-one">
