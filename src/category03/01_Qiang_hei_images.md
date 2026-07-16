@@ -58,16 +58,11 @@ From this perspective, the artistic logic of DRIFTING is not to preserve Quan'er
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### End Notes
+#### **End Notes**
 
-- Bratton, Benjamin H. (2015), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press).
-
-- Debord, Guy (2006), ‘Theory of the Dérive’, in Situationist International Anthology, ed. and trans. by Ken Knabb, rev. and expanded edn (Berkeley, CA: Bureau of Public Secrets), pp. 62–66.
-
-- Deleuze, Gilles, and Félix Guattari (1987), _A Thousand Plateaus: Capitalism and Schizophrenia_, trans. by Brian Massumi (Minneapolis: University of Minnesota Press).
-
-- Gabrys, Jennifer (2016), _Program Earth: Environmental Sensing Technology and the Making of a Computational Planet_ (Minneapolis: University of Minnesota Press).
-
-- Haraway, Donna J. (1988), ‘Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective’, _Feminist Studies_, 14.3, 575–99.
-
-- Kurgan, Laura (2013), _Close Up at a Distance: Mapping, Technology, and Politics_ (New York: Zone Books).
+- Bratton, Benjamin H. (2015), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press)
+- Debord, Guy (2006), ‘Theory of the Dérive’, in _Situationist International Anthology_, ed. and trans. by Ken Knabb, rev. and expanded edn (Berkeley, CA: Bureau of Public Secrets), 62–66
+- Deleuze, Gilles, and Félix Guattari (1987), _A Thousand Plateaus: Capitalism and Schizophrenia_, trans. by Brian Massumi (Minneapolis: University of Minnesota Press)
+- Gabrys, Jennifer (2016), _Program Earth: Environmental Sensing Technology and the Making of a Computational Planet_ (Minneapolis: University of Minnesota Press)
+- Haraway, Donna J. (1988), ‘Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective’, _Feminist Studies_ 14.3, 575–99
+- Kurgan, Laura (2013), _Close Up at a Distance: Mapping, Technology, and Politics_ (New York: Zone Books)
