@@ -213,21 +213,19 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### End Notes
+#### **End Notes**
 
 - ^‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
-- Agüera y Arcas, B. (2025a) <i>Google Researcher Shows Life “Emerges From Code”. Interviewed by Machine Learning Street Talk</i> [video]. Available at: [](https://www.youtube.com/watch?v=rMSEqJ_4EBk). [accessed 8 July 2026]
-- Agüera y Arcas, B. (2025b) <i>‘"Computational Symbiogenesis" by Blaise Agüera y Arcas’,</i> online video recording, YouTube, 20 November 2025. Available at: [](https://www.youtube.com/watch?v=g1j5aDSqkjk). [accessed 7 July 2026]
-- Blaise Agüera y Arcas. (2025c)<i> What is Intelligence? </i>Antikythera. doi: 10.1162/ANTI.5CZB.
-  [accessed 9 July 2026]
-- Conway's Game of Life, <i>'Play John Conway's Game of Life', </i>[n.d.] Available at: [](https://playgameoflife.com/). [accessed 10 July 2026]
-- Donovan, Tara (n.d.). Pace Gallery. Available at: [](https://www.pacegallery.com/artists/tara-donovan/). [accessed 16 June 2026]
-- Johnny Golding. (2020). Introduction. In J. Golding, M. Reinhart, & M. Paganelli (Eds.),<i> Data loam: Sometimes hard, usually soft. The future of knowledge systems. </i> (Berlin: De Gruyter).
-- Donna J Haraway. (2016).<i> Staying with the trouble: Making kin in the Chthulucene. </i> (Durham, North Carolina: Duke University Press).
-- Homo sapiens mitochondrion, complete genome - Nucleotide. (n.d.). NCBI. Available at: [](https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta). [accessed 9 July 2026]
-- Jones, Jeff, <i>'Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks', Artificial Life,</i> 16.2 (2010), 127–53 [](https://doi.org/10.1162/artl.2010.16.2.16202).
-- Lynn Margulis and Dorion Sagan. <i>Microcosmos: Four Billion Years of Microbial Evolution.</i> (Berkley: University of California Press).
-- Sage Jenson, <i>'Physarum',</i> Cargo Collective, [n.d.] Available at: [](https://cargocollective.com/sagejenson/physarum). [accessed 10 July 2026]
-- WomenTech Network. (2026).<i> Women in tech stats.</i> Available at: [](https://www.womentech.net/women-in-tech-stats). [accessed 9 July 2026]
-
+- Agüera y Arcas, Blaise (2025a), 'Google Researcher Shows Life "Emerges From Code"', interview by Machine Learning Street Talk, _YouTube_, [](https://www.youtube.com/watch?v=rMSEqJ_4EBk) [accessed 8 July 2026]
+- Agüera y Arcas, Blaise (2025b), '"Computational Symbiogenesis" by Blaise Agüera y Arcas', _YouTube_, 20 November, [](https://www.youtube.com/watch?v=g1j5aDSqkjk) [accessed 7 July 2026]
+- Agüera y Arcas, Blaise (2025c), _What Is Intelligence?_, _Antikythera_, [](https://doi.org/10.1162/ANTI.5CZB) [accessed 9 July 2026]
+- Conway's Game of Life (n.d.), 'Play John Conway's Game of Life', _Conway's Game of Life_, [](https://playgameoflife.com/) [accessed 10 July 2026]
+- Donovan, Tara (n.d.), 'Tara Donovan', _Pace Gallery_, [](https://www.pacegallery.com/artists/tara-donovan/) [accessed 16 June 2026]
+- Golding, Johnny (2020), 'Introduction', in _Data Loam: Sometimes Hard, Usually Soft. The Future of Knowledge Systems_, ed. by Johnny Golding, Martin Reinhart, and Mattia Paganelli (Berlin: De Gruyter)
+- Haraway, Donna J. (2016), _Staying with the Trouble: Making Kin in the Chthulucene_ (Durham, NC: Duke University Press)
+- Jenson, Sage (n.d.), 'Physarum', _Cargo Collective_, [](https://cargocollective.com/sagejenson/physarum) [accessed 10 July 2026]
+- Jones, Jeff (2010), 'Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks', _Artificial Life_ 16.2, 127–53, [](https://doi.org/10.1162/artl.2010.16.2.16202)
+- Margulis, Lynn, and Dorion Sagan (1986), _Microcosmos: Four Billion Years of Microbial Evolution_ (Berkeley: University of California Press)
+- NCBI (n.d.), 'Homo sapiens mitochondrion, complete genome - Nucleotide', _NCBI_, [](https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta) [accessed 9 July 2026]
+- WomenTech Network (2026), 'Women in Tech Stats', _WomenTech Network_, [](https://www.womentech.net/women-in-tech-stats) [accessed 9 July 2026]
 </div>
