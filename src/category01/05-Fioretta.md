@@ -1,11 +1,11 @@
 ---
 title: Onycho Lab Artificial Nails as Bodily Technology
-name: Fioretta(Keyi) Zhang
+name: Keyi Zhang (Fioretta)
 ---
 
 <div class="chapter-one">
   
-##### Fioretta(Keyi) Zhang
+##### Keyi Zhang (Fioretta)
 
 # Onycho Lab Artificial Nails as Bodily Technology
 
