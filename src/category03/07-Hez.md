@@ -81,6 +81,7 @@ What time is it now? It’s time to wrap up. We embrace technology, but maintain
 - GPSwise (n.d.), 'GPSwise: Real-Time GPS Spoofing & Jamming Map', _GPSwise_, [](https://gpswise.aero/) [accessed 14 June 2026]
 - Johnsen, Lasse (2024), 'Understanding Atomic Clocks and GPS Timing: The Heart of Modern Timekeeping', _TimeBeat_, 8 October, [](https://www.timebeat.app/post/atomic-clocks-gps-timing) [accessed 17 June 2026]
 - Khalpada, Shri (2026), 'How The Heck Does GPS Work?', _PerThirtySix_, 11 April, [](https://perthirtysix.com/how-the-heck-does-gps-work/) [accessed 15 June 2026]
+- OpenSky Network (n.d.), 'OpenSky Network API', _OpenSky Network_, [](https://opensky-network.org/data/api) [accessed 14 June 2026]
 - UNAVCO Spotlight (n.d.), 'Decoding the GPS Signal', _UNAVCO Spotlight_, [](https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html) [accessed 18 June 2026]
 - Windward (n.d.), 'What Is GPS Jamming?', _Windward_, [](https://windward.ai/glossary/what-is-gps-jamming/) [accessed 12 June 2026]
 - Workman, Dennis L. (n.d.), 'GPS and Telling Time', _GPS.gov_, Trimble Component Technologies Division, [](https://www.gps.gov/gps-and-telling-time) [accessed 17 June 2026]
