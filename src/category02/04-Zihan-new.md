@@ -50,9 +50,9 @@ The train arrived at the platform. My colleague was still refining his prompt as
 
 #### END NOTES
 
-- Albert, Yi, _Danbooru/Danbooru_, Ruby (4 February 2010; Danbooru, 4 July 2026) <https://github.com/danbooru/danbooru> [accessed 6 July 2026]
+- Albert, Yi, _Danbooru/Danbooru_, Ruby (4 February 2010; Danbooru, 4 July 2026) [](https://github.com/danbooru/danbooru) [accessed 6 July 2026]
 - Azuma, Hiroki, _Otaku: Japan’s Database Animals_ (University of Minnesota Press, 2009)
-- Branwen, Gwern, Danbooru2021: _A Large-Scale Crowdsourced &amp; Tagged Anime Illustration Dataset_, 15 December 2015 <https://gwern.net/danbooru2021> [accessed 11 February 2026]
+- Branwen, Gwern, Danbooru2021: _A Large-Scale Crowdsourced &amp; Tagged Anime Illustration Dataset_, 15 December 2015 [](https://gwern.net/danbooru2021) [accessed 11 February 2026]
 - Britt, Brian C., ‘Content Curation, Evaluation, and Refinement on a Nonlinearly Directed Imageboard: Lessons From Danbooru’, _Social Media + Society_, 5.4 (2019), p. 2056305119880020, doi:10.1177/2056305119880020
 - Condry, Ian, _The Soul of Anime: Collaborative Creativity and Japan’s Media Success Story_, Experimental Futures (Duke University Press, 2013)
 - Crawford, Kate, and Trevor Paglen, ‘Excavating AI: The Politics of Images in Machine Learning Training Sets’, _AI & Society_, published online 2021, doi:10.1007/s00146-021-01162-8
@@ -63,9 +63,10 @@ The train arrived at the platform. My colleague was still refining his prompt as
 - ——, Brian Bergstrom, and Marc Steinberg, ‘The Wartime Media Mix and Participatory Fascism as the Internalization of an Information Space: Thinking Through The Imperial Assistance Family and MomotarO: Sacred Sailors’, _Mechademia_, 16 (2023), pp. 215–40
 - ——, and Marc Steinberg, ‘World and Variation: The Reproduction and Consumption of Narrative’, _Mechademia_, 5 (2010), pp. 99–116
 - Petit, Aurélie, ‘“Do Female Anime Fans Exist?” The Impact of Women-Exclusionary Discourses on Rec.Arts.Anime’, _Internet Histories_, 6.4 (2022), pp. 352–68, doi:10.1080/24701475.2022.2109265
-- ‘SGRA Forum Report in Chinese - Media Mix and the Historical Development of Character Sharing’, n.d. <https://www.aisf.or.jp/sgra/chinese/2021/06/14/sgra-report-no-92/> [accessed 6 July 2026]
+- ‘SGRA Forum Report in Chinese - Media Mix and the Historical Development of Character Sharing’, n.d. [](https://www.aisf.or.jp/sgra/chinese/2021/06/14/sgra-report-no-92/) [accessed 6 July 2026]
 - Steinberg, Marc, ‘Introducing the Media Mix’, _Mechademia_, 16.1 (2023), pp. 1–11
 - ——, _The Platform Economy: How Japan Transformed the Consumer Internet_ (University of Minnesota Press, 2019), doi:10.5749/j.ctvc2rn88
 - Terranova, Tiziana, ‘Free Labor: Producing Culture for the Digital Economy’, _Social Text_, 18.2 (2000), pp. 33–58, doi:10.1215/01642472-18-2_63-33
+- Wagner, Laura, and Eva Cetinic, ‘Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm’, arXiv:2505.04600, preprint, arXiv, 20 May 2025, doi:10.48550/arXiv.2505.04600
 
 </div>
