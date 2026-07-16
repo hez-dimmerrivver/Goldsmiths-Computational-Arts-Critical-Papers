@@ -9,7 +9,7 @@ name: Wenqian Huang
 
 # From Cloud to Cloud
 
-## The Flâneur, Reflective Architecture, and the Circulation of Urban Images
+## The Flâneur, Reflective Architecture, and the Circulation of Urban
 
 <div class="body-text">
 
@@ -19,7 +19,7 @@ A walk that begins with a practical purpose may be interrupted by a building sur
 
 The glass facade is therefore not only an exterior material of architecture. It also participates in organising how the city is seen. A cloud in the sky becomes an optical image on the surface of a building. It may then be seen by the eye, captured by a smartphone, displayed on a screen, encoded as a file and stored in the cloud. The reflection does not end on the glass surface. It creates a space that is physical, optical, digital, networked and cloud-based.
 
-Walter Benjamin’s The Arcades Project offers a way to understand this kind of urban attention. Benjamin writes about the arcades of nineteenth-century Paris, where glass, iron, shop windows, commodities, crowds and artificial lighting together formed a modern space between the street and the interior. The arcade was not only a passage for bodies. It was also a space in which looking became part of modern urban experience.
+Walter Benjamin and others’ _The Arcades Project_ (2005)offers a way to understand this kind of urban attention. Benjamin and others(2005) writes about the arcades of nineteenth-century Paris, where glass, iron, shop windows, commodities, crowds and artificial lighting together formed a modern space between the street and the interior. The arcade was not only a passage for bodies. It was also a space in which looking became part of modern urban experience.
 
 The flâneur, or urban wanderer, belongs to this environment. The flâneur is often understood as someone who wanders through the city, but wandering is not simply walking without direction. It is a way of allowing things encountered on the way to redirect attention. A window, a surface, a reflection, or a small visual detail may interrupt the original route and open another way of reading the city.
 
@@ -70,9 +70,8 @@ In this version, a contemporary way of seeing the city becomes clearer. People s
   
 #### END NOTES
 
-- Benjamin, W. et al. (2005) The arcades project. International journal of urban and regional research 29 (1) p.187–200.
-- Bolter, J. D. & Grusin, R. A. (1999) Remediation : understanding new media. Cambridge, Mass: MIT Press.
-- Bratton, B. H. (2016) The Stack: On Software and Sovereignty. 1st edition. [Online]. Cambridge, Mass: The MIT Press.
-- Hu, T.-H. (2015) A Prehistory of the Cloud. 1st edition. [Online]. Cambridge: MIT Press.
-- te (2024) No. 3, Mirroring. https://te-editions.com/issue-3
+- Benjamin, W. and others. (2005),'The arcades project', _International journal of urban and regional research_ 29.1, 187–200
+- Bolter, J. D. & Grusin, R. A. (1999) _Remediation : understanding new media_. (Cambridge, Mass: MIT Press)
+- Bratton, B. H. (2016) _The Stack: On Software and Sovereignty_，Cambridge, Mass: The MIT Press（https://direct-mit-edu.libproxy.ucl.ac.uk/books/monograph/3504/The-StackOn-Software-and-Sovereignty）[accessed 17 Julyr 2026] 
+- Hu, T.-H. (2015) _A Prehistory of the Cloud_，Cambridge: MIT Press （https://direct-mit-edu.libproxy.ucl.ac.uk/books/monograph/2291/A-Prehistory-of-the-Cloud）[accessed 17 Julyr 2026]
 </div>
