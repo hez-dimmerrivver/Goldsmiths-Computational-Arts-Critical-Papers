@@ -14,7 +14,7 @@ name: Jiang He Zhang (Hez)
 <img src="/static/images/Hez/image-01.webp">
 
 <div class="body-text">
-Why are humans so obsessed with precise time? Everything we rely on such as communication, financial markets, and even war depends on precise time working flawlessly. From sundials to atomic clocks with GPS systems (Johnsen Oct 2024), we have spent centuries trying to reduce natural variation and human error for the timekeeping system.
+Why are humans so obsessed with precise time? Everything we rely on such as communication, financial markets, and even war depends on precise time working flawlessly. From sundials to atomic clocks with GPS systems (Johnsen 2024), we have spent centuries trying to reduce natural variation and human error for the timekeeping system.
 
 **//- \- Past to Now \- \-**  
 **//From Human Perception of Time to Machine Readable Time**
@@ -23,7 +23,7 @@ Before time was defined by atomic oscillations and digital signals, it was a sha
 
 _“Timing is rapidly becoming a critical element for many industries. As the need for precise timing grows, more and more users are turning to GPS technology.” \-Dennis L. Workman._
 
-Right now, we obtain precise time on our smartphones, synchronized through atomic clocks and GPS satellites. This time is transmitted as signals from satellites to receivers, where it is processed and corrected(Khalpada Apr 2026). It then passes through different time standards before becoming the time we see on our screens. (The images below illustrate the relationship between GPS time and positioning) (UNAVCO Spotlight n.d.)
+Right now, we obtain precise time on our smartphones, synchronized through atomic clocks and GPS satellites. This time is transmitted as signals from satellites to receivers, where it is processed and corrected (Khalpada 2026). It then passes through different time standards before becoming the time we see on our screens. (The images below illustrate the relationship between GPS time and positioning) (UNAVCO Spotlight n.d.)
 <img src="/static/images/Hez/image1.png" class="single-column-img">
 <img src="/static/images/Hez/image2.png" class="single-column-img">
 
@@ -32,7 +32,7 @@ Right now, we obtain precise time on our smartphones, synchronized through atomi
 
 Have you ever doubted the time displayed on your smartphone or laptops? If it were altered by a cyberattack, would you even notice it?
 
-Once we moved away from nature-based timekeeping, human beings achieved unprecedented precision in measuring time. Modern time is distributed through satellites, cloud infrastructure, and interconnected software systems, all of which have been accumulating new layers of vulnerability. Modern time systems are accurate to microseconds, yet even a small disruption such as GPS jamming (Windward n.d.) or spoofing (Brown Apr 2024) can lead to errors of an hour or more.
+Once we moved away from nature-based timekeeping, human beings achieved unprecedented precision in measuring time. Modern time is distributed through satellites, cloud infrastructure, and interconnected software systems, all of which have been accumulating new layers of vulnerability. Modern time systems are accurate to microseconds, yet even a small disruption such as GPS jamming (Windward n.d.) or spoofing (Brown 2024) can lead to errors of an hour or more.
 
 <img src="/static/images/Hez/image3.png" class="single-column-img">
 
@@ -43,7 +43,7 @@ Although GPS depends on satellites orbiting above us, both attacks originate fro
 GPS is not only a positioning system but also a time synchronization infrastructure. As signal interference becomes more frequent, the reliability of modern timekeeping systems is increasingly at risk. In recent years, GPS signals have experienced growing levels of jamming and spoofing, particularly in regions affected by geopolitical tensions. These disruptions not only affect navigation but also the global timing systems that modern infrastructure depends on.
 
 <img src="/static/images/Hez/image4.png" class="single-column-img">
-The image shows a live GPS interference map (GPS Wise n.d.).
+The image shows a live GPS interference map (GPSwise n.d.).
 
 **// Visualisation of Misalignment**
 
@@ -75,14 +75,14 @@ What time is it now? It’s time to wrap up. We embrace technology, but maintain
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### END NOTES
+#### **End Notes**
 
-- Lasse Johnsen, ‘Understanding Atomic Clocks and GPS Timing: The Heart of Modern Timekeeping’, _TimeBeat_, 8 Oct 2024, \<https://www.timebeat.app/post/atomic-clocks-gps-timing\> [accessed 17 June 2026]
-- Dennis L.Workman , ‘GPS and Telling Time’, _GPS.gov_, Trimble Component Technologies Division, n.d.\<https://www.gps.gov/gps-and-telling-time\> [accessed 17 June 2026]
-- Shri Khalpada, ‘How The Heck Does GPS Work?’, _PerThirtySix_, 11 April 2026, \<https://perthirtysix.com/how-the-heck-does-gps-work/\> [accessed 15 June 2026]
-- UNAVCO Spotlight, ‘Decoding the GPS Signal’, _UNAVCO Spotlight n.d._ \<https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html\> [accessed 18 June 2026]
-- Windward, ‘What Is GPS Jamming?’, _Windward_, n.d.\<https://windward.ai/glossary/what-is-gps-jamming/\> [accessed 12 June 2026]
-- Justin Brown, ‘What is GPS Spoofing? ...And How to Avoid It’, _APG_, 29 April 2024,\<https://flyapg.com/blog/what-is-gps-spoofing\> [accessed 12 June 2026]
-  _GPSwise_, ‘GPSwise: Real-Time GPS Spoofing & Jamming Map’, n.d. \<https://gpswise.aero/\> [accessed 14 June 2026]
+- Brown, Justin (2024), 'What is GPS Spoofing? ...And How to Avoid It', _APG_, 29 April, [](https://flyapg.com/blog/what-is-gps-spoofing) [accessed 12 June 2026]
+- GPSwise (n.d.), 'GPSwise: Real-Time GPS Spoofing & Jamming Map', _GPSwise_, [](https://gpswise.aero/) [accessed 14 June 2026]
+- Johnsen, Lasse (2024), 'Understanding Atomic Clocks and GPS Timing: The Heart of Modern Timekeeping', _TimeBeat_, 8 October, [](https://www.timebeat.app/post/atomic-clocks-gps-timing) [accessed 17 June 2026]
+- Khalpada, Shri (2026), 'How The Heck Does GPS Work?', _PerThirtySix_, 11 April, [](https://perthirtysix.com/how-the-heck-does-gps-work/) [accessed 15 June 2026]
+- UNAVCO Spotlight (n.d.), 'Decoding the GPS Signal', _UNAVCO Spotlight_, [](https://spotlight.unavco.org/how-gps-works/gps-basics/decoding-the-gps-signal.html) [accessed 18 June 2026]
+- Windward (n.d.), 'What Is GPS Jamming?', _Windward_, [](https://windward.ai/glossary/what-is-gps-jamming/) [accessed 12 June 2026]
+- Workman, Dennis L. (n.d.), 'GPS and Telling Time', _GPS.gov_, Trimble Component Technologies Division, [](https://www.gps.gov/gps-and-telling-time) [accessed 17 June 2026]
 
 </div>
