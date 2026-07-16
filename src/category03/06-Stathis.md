@@ -17,7 +17,7 @@ name: Stathis Doganis
 
 When digital platforms first captured the public imagination in the early 2010s, they presented themselves as the ultimate architecture of direct democracy, a borderless, horizontal tool empowering individuals to share their voices globally. Today, that utopian landscape has been entirely enclosed. The digital sphere is ruled by a consolidated cartel of tech behemoths: Google, Amazon, Meta, Apple, and Microsoft (GAMAM). These entities no longer operate as standard market competitors; rather, as Mark Zuckerberg once candidly observed of Facebook, they function "more like a government than a traditional company" (Foer 2017; Törnberg 2023).
 
-What we have witnessed over the last decade is not the maturation of neoliberal capitalism, but its profound, systemic mutation into technofeudalism. Dominant tech giants have constructed digital ecosystems that resemble feudal societies, reigning over vast data "fiefdoms" while everyday users are effectively reduced to "digital serfs" trading personal data for access to basic social logistics (García 2024). This structural shift has led scholars to define our contemporary reality through new political topologies, ranging from *Datafeudalism* (García 2024\) to Yanis Varoufakis’s (2023) definition of *Technofeudalism*.
+What we have witnessed over the last decade is not the maturation of neoliberal capitalism, but its profound, systemic mutation into technofeudalism. Dominant tech giants have constructed digital ecosystems that resemble feudal societies, reigning over vast data "fiefdoms" while everyday users are effectively reduced to "digital serfs" trading personal data for access to basic social logistics (García 2024). This structural shift has led scholars to define our contemporary reality through new political topologies, ranging from _Datafeudalism_ (García 2024) to Yanis Varoufakis’s (2023) definition of _Technofeudalism_.
 
 **Part II: Cloud Rent and the Data Labourer**
 
@@ -27,7 +27,7 @@ The core strategy driving this rentier extraction is attention capture. Rather t
 
 If we examine this through a classic Marxist economic lens, wherein the economic value of a commodity is determined by the total socially necessary labour time required to produce it, we unlock the fundamental secret of the platform economy. In the digital age, data is the supreme raw material. Therefore, the everyday hours users spend scrolling, posting, clicking, and navigating constitute a new, uncompensated form of socially necessary labour time. Under the engineered illusion of free entertainment, the user becomes both the product and the unpaid workforce.
 
-Because this dynamic constitutes an unequal and exploitative exchange, theorists E. Glen Weyl and Eric Posner (2018), alongside Imanol Arrieta Ibarra et al. (2018), argue that platform capitalism has generated massive missing markets. Because there is no established market mechanism to price or financially compensate individuals for the data they generate, tech monopolies reap 100% of the financial surplus. To correct this, Weyl, Posner, and Ibarra suggest that society must expand beyond traditional trade unionism and organise into a massive, global data labour movement. If data is the primary, uncompensated resource used to train today's hyper-profitable AI algorithms, then the everyday internet user is a frontline labourer, and the data worker must be paid.
+Because this dynamic constitutes an unequal and exploitative exchange, theorists E. Glen Weyl and Eric Posner (2018), alongside Imanol Arrieta Ibarra and others (2018), argue that platform capitalism has generated massive missing markets. Because there is no established market mechanism to price or financially compensate individuals for the data they generate, tech monopolies reap 100% of the financial surplus. To correct this, Weyl, Posner, and Ibarra suggest that society must expand beyond traditional trade unionism and organise into a massive, global data labour movement. If data is the primary, uncompensated resource used to train today's hyper-profitable AI algorithms, then the everyday internet user is a frontline labourer, and the data worker must be paid.
 
 **Part III: The Material Enclosure of Nature and Computation**
 
@@ -37,17 +37,17 @@ We see this physical enclosure clearly in the hardware obsolescence inherent in 
 
 Furthermore, the logic of digital extraction has actively spilled over into the financialisation of the natural world. Consider the Ant Forest app, a digital platform introduced by Alibaba that gamifies users' carbon footprints, awarding green credits and scores that translate into real-world tree planting initiatives as users consume goods within Alibaba's e-commerce ecosystem. On the surface, this appears to be a progressive socio-ecological tool. However, as researcher Giulia Dal Maso (2022) warns, applications like Ant Forest serve primarily to expand the reach of financial capitalism into our private environmental behaviours. By quantifying ecological consciousness into a gamified consumption metric, the platform recalibrates accountability. It actively shifts the systemic responsibility for climate breakdown away from massive industrial conglomerates and the state, placing the moral burden entirely onto individual consumer discipline (Dal Maso 2022). The industrial systems driving ecological collapse are left to operate without restriction, while the platform extracts further behavioral data and moral capital from the user.
 
-This non-consensual extraction of human energy reaches its absolute peak in planetary-scale computation. To see how this operates in the live AI debate, we need look no further than Niantic Inc. and its mobile gaming sensation, *Pokémon Go* (Schneider 2026). For the past decade, tens of millions of players walking through city streets voluntarily submitted photos and videos through their smartphone cameras, unknowingly acting as an unpaid global cartography workforce. This massive crowdsourcing effort generated a proprietary visual archive of 30 billion highly accurate, geotagged images (Schneider 2026). Niantic Spatial subsequently captured this uncompensated leisure labour to train a Large Geospatial Model (LGM), a photorealistic, 3D digital model of the physical world sold exclusively to enterprise robotics and autonomous corporate machines (Hayden 2026). The human being is gamified to map the physical globe for free, generating the exact AI capital required to power the autonomous systems that will displace human labour.
+This non-consensual extraction of human energy reaches its absolute peak in planetary-scale computation. To see how this operates in the live AI debate, we need look no further than Niantic Inc. and its mobile gaming sensation, _Pokémon Go_ (Schneider 2026). For the past decade, tens of millions of players walking through city streets voluntarily submitted photos and videos through their smartphone cameras, unknowingly acting as an unpaid global cartography workforce. This massive crowdsourcing effort generated a proprietary visual archive of 30 billion highly accurate, geotagged images (Schneider 2026). Niantic Spatial subsequently captured this uncompensated leisure labour to train a Large Geospatial Model (LGM), a photorealistic, 3D digital model of the physical world sold exclusively to enterprise robotics and autonomous corporate machines (Hayden 2026). The human being is gamified to map the physical globe for free, generating the exact AI capital required to power the autonomous systems that will displace human labour.
 
 **Part IV: Algorithmic Governmentality and the Cloud Polis**
 
-This relentless drive for volume hegemony exacts an equally devastating toll on our political ecology. As García (2024) argues, digital platforms increasingly function as privatised public spheres where a handful of tech monopolies govern the flow of global information. Drawing directly upon Jürgen Habermas’s classic 1962 critique, Saura García (2024, 10\) diagnoses a dangerous re-feudalisation of the public sphere, wherein powerful corporate entities monopolise discourse and restrict genuine public participation. Concurrently, Shoshana Zuboff (2015, 86\) warns that by transforming the open public square into a profit-driven ecosystem, tech giants dictate the discursive limits of democracy, commodifying public debate into a controlled corporate asset.
+This relentless drive for volume hegemony exacts an equally devastating toll on our political ecology. As García (2024) argues, digital platforms increasingly function as privatised public spheres where a handful of tech monopolies govern the flow of global information. Drawing directly upon Jürgen Habermas’s classic 1962 critique, Saura García (2024, 10) diagnoses a dangerous re-feudalisation of the public sphere, wherein powerful corporate entities monopolise discourse and restrict genuine public participation. Concurrently, Shoshana Zuboff (2015, 86) warns that by transforming the open public square into a profit-driven ecosystem, tech giants dictate the discursive limits of democracy, commodifying public debate into a controlled corporate asset.
 
-We have seen the catastrophic fallout of this corporate knowledge advantage in recent electoral history. From the weaponisation of scraped user data by Cambridge Analytica in the 2016 US presidential election (Lewis and Hilder 2018\) to the overt, algorithmic amplification of political agendas by tech moguls like Elon Musk on platform X during the 2024 elections, Big Tech has politicised its infrastructure.
+We have seen the catastrophic fallout of this corporate knowledge advantage in recent electoral history. From the weaponisation of scraped user data by Cambridge Analytica in the 2016 US presidential election (Lewis and Hilder 2018) to the overt, algorithmic amplification of political agendas by tech moguls like Elon Musk on platform X during the 2024 elections, Big Tech has politicised its infrastructure.
 
-This influence is not exercised through explicit persuasion or transparent editorial bias; rather, it operates through what Antoinette Rouvroy defines as *algorithmic governmentality* (Rouvroy and Stiegler 2016; Rouvroy 2020). By processing massive datasets, the platform manages the social world by pre-emptively shaping our informational environment, nudging human behaviour below the threshold of conscious thought. It achieves this through volume hegemony, overwhelming the digital archive with a specific narrative until feed algorithms privilege it as objective truth. Because the interface moves at hyper-velocity, it forces users to react on raw impulse before they can achieve conscious reflexivity (Rouvroy 2020). This constant commercial diet of outrage keeps users on the apps longer to generate advertising rent, locking society into a paralysing state of national despair (Taplin 2026).
+This influence is not exercised through explicit persuasion or transparent editorial bias; rather, it operates through what Antoinette Rouvroy defines as _algorithmic governmentality_ (Rouvroy and Stiegler 2016; Rouvroy 2020). By processing massive datasets, the platform manages the social world by pre-emptively shaping our informational environment, nudging human behaviour below the threshold of conscious thought. It achieves this through volume hegemony, overwhelming the digital archive with a specific narrative until feed algorithms privilege it as objective truth. Because the interface moves at hyper-velocity, it forces users to react on raw impulse before they can achieve conscious reflexivity (Rouvroy 2020). This constant commercial diet of outrage keeps users on the apps longer to generate advertising rent, locking society into a paralysing state of national despair (Taplin 2026).
 
-We are left standing on a profound political threshold. The tech giants have vastly outgrown the definitions of private enterprise. As Benjamin Bratton (2015) outlines in his structural model of the *Cloud Polis*, mega-platforms already function as sovereign proto-states. They have absorbed traditional state assignments such as global cartography, legal identity verification, and private market governance, binding users to Terms of Service that supersede national constitutions (Bratton 2015).
+We are left standing on a profound political threshold. The tech giants have vastly outgrown the definitions of private enterprise. As Benjamin Bratton (2015) outlines in his structural model of the _Cloud Polis_, mega-platforms already function as sovereign proto-states. They have absorbed traditional state assignments such as global cartography, legal identity verification, and private market governance, binding users to Terms of Service that supersede national constitutions (Bratton 2015).
 
 This brings us to the conceptual horizon of my essay. A democratic society cannot survive if its primary spaces of discourse, commerce, and logistics are owned by unaccountable tech overlords. If Big Tech already functions as an essential infrastructure and a privatised proto-state, we must stop trying to politely persuade or regulate it within a neoliberal framework. We must begin transitioning these platforms into genuine public goods.
 
@@ -71,11 +71,11 @@ This is precisely why we cannot rely on ethical consumerism alone. While everyda
 
 During the COVID-19 pandemic, the threat of a global virus united the international scientific community in unprecedented ways. In our current era of technofeudalism, our common enemy is the profound, unchecked asymmetry of power held by the billionaire-monarchs of Big Tech. They are the direct antagonists of global democracy.
 
-What, then, does the concrete revolution look like for a normal person who finishes reading this essay and asks: *"Okay, what do I literally do on tomorrow morning?"*
+What, then, does the concrete revolution look like for a normal person who finishes reading this essay and asks: _"Okay, what do I literally do on tomorrow morning?"_
 
 The first step is a personal refusal of digital serfdom. When you wake up tomorrow morning, you must begin to audit your own digital dependency. You must ask yourself why we continue to tolerate an unelected corporate government-company to decide our future and stand above planetary-scale laws. Instead of yielding to convenience, the first step is to start switching to open platforms, exploring decentralised networks, and moving away from costly, proprietary corporate ecosystems. It is a commitment to a new day where education and equal rights are the foundational keys to social harmony.
 
-The second, more radical step is a collective transition from individual opting-out to a massive, coordinated data strike. Because platforms are functionally worthless without the continuous attention, free labour, and data streams of their users, we hold the ultimate economic leverage. If tomorrow, half of the global user base coordinated to suspend their apps, refuse tracking cookies, and delete their stored archives, the impact on cloud capital would be instantaneous and catastrophic. For a platform like Meta, which commands over 3.6 billion daily active users, a mass data strike would trigger an unpredictable collapse in share value, echoing the devastating global economic shocks of the Wall Street Crash of 1929 or the Great Recession of 2008\. By starving these platforms of their vital raw materials, we can force the collapse of algorithmic governmentality from below.
+The second, more radical step is a collective transition from individual opting-out to a massive, coordinated data strike. Because platforms are functionally worthless without the continuous attention, free labour, and data streams of their users, we hold the ultimate economic leverage. If tomorrow, half of the global user base coordinated to suspend their apps, refuse tracking cookies, and delete their stored archives, the impact on cloud capital would be instantaneous and catastrophic. For a platform like Meta, which commands over 3.6 billion daily active users, a mass data strike would trigger an unpredictable collapse in share value, echoing the devastating global economic shocks of the Wall Street Crash of 1929 or the Great Recession of 2008. By starving these platforms of their vital raw materials, we can force the collapse of algorithmic governmentality from below.
 
 With this essay, I aim to show that the architecture of our digital future is not predetermined. While the current trajectory points toward a deeply unequal society managed by extractive monopolies, the transition toward techno-socialism is an active, ongoing struggle. Different types of resistance through digital workerism and the push for a massive data labour movement show that platform workers and internet users are organising to demand algorithmic transparency, fair labour conditions, and property rights over the value their digital interactions create.
 
@@ -88,62 +88,33 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
   
 #### **End Notes**
 
-- Bratton, Benjamin H., The Stack: On Software and Sovereignty (Cambridge, MA: MIT Press, 2015\) http://www.vlebooks.com/vleweb/product/openreader?id=Goldsmiths\&isbn=9780262330183 \[accessed 7 May 2026\]
-
-- Dal Maso, Giulia, 'The Promethean Ant Forest: Alibaba’s App as a Financialising Environmental Tool' (2022) https://www.researchgate.net/publication/368479256 \[accessed 8 May 2026\]
-
-- Foer, Franklin, 'Facebook’s war on free will', The Guardian, 19 September 2017 https://www.theguardian.com/technology/2017/sep/19/facebooks-war-on-free-will \[accessed 8 November 2024\]
-
-- Guerra, J., 'Towards a feminist framework for AI development: from principles to practice', Derechos Digitales (2023) https://www.derechosdigitales.org/wp-content/uploads/Fair\_Doc\_Eng.pdf \[accessed 8 May 2026\]
-
-- Hayden, H., 'Niantic Spatial & The Large Geospatial Model', Niantic Spatial, Inc. (2026) https://www.nianticspatial.com/blog/world-models-2026 \[accessed 8 May 2026\]
-
-- Ibarra, Imanol Arrieta, L. Goff, E. G. Weyl, D. Jiménez Hernández, and J. Lanier, 'Should we treat data as labor? Let’s open up the discussion', Brookings (2018) https://www.brookings.edu/articles/should-we-treat-data-as-labor-lets-open-up-the-discussion/ \[accessed 8 May 2026\]
-
-- Kasparian, D., 'Argentina, Meet CoopCycle\!', Platform Cooperativism Consortium (2022) https://platform.coop/blog/argentina-meet-coopcycle/ \[accessed 8 May 2026\]
-
-- Lewis, Paul, and Paul Hilder, 'Leaked: Cambridge Analytica’s blueprint for Trump victory', The Guardian, 23 March 2018 https://www.theguardian.com/uk-news/2018/mar/23/leaked-cambridge-analyticas-blueprint-for-trump-victory \[accessed 8 November 2024\]
-
-- Marias, G., and A. Minotakis, 'Afterword: Platform Capitalism', in Platform Capitalism (Greek edition), ed. by N. Srnicek (Athens: Topos, 2024), pp. 167–174
-
-- More, Thomas, Utopia (Leeds: Scolar Press, 1966\)
-
-- Novianto, A., 'Digital Lords or Capitalist Titans? Critiquing the Techno-Feudalism Narrative', Developing Economics, 5 May 2026 https://developingeconomics.org/2025/05/05/digital-lords-or-capitalist-titans-critiquing-the-techno-feudalism-narrative/ \[accessed 4 April 2026\]
-
-- Pal, M., and N. Harris, 'Capital is Dead. Long Live Capital\! A Political Marxist Analysis of Digital Capitalism and Infrastructure', TripleC, 22.1 (2024), 232–247
-
-- Paola, S., C. Figueroa, J. Guerra, R. Consales, V. Cereceda, and V. Garay, Latin America in Glimpse: Gender, Feminism and the Internet in Latin America (APC / Internet Governance Forum, 2017\) https://www.apc.org/sites/default/files/GlImpse2017\_eng.pdf \[accessed 8 May 2026\]
-
-- Plotkin, H., 'The Platform Cooperatives Movement Helps Light up the Commons', Creative Commons, 24 January 2017 https://creativecommons.org/2017/01/24/platform-cooperatives-movement-helps-light-commons/ \[accessed 8 May 2026\]
-
-- Rouvroy, Antoinette, 'Algorithmic Governmentality and the Death of Politics', Green European Journal (2020) https://www.greeneuropeanjournal.eu/algorithmic-governmentality-and-the-death-of-politics/ \[accessed 8 May 2026\]
-
-- Saura García, Carlos, 'Datafeudalism: The Domination of Modern Societies by Big Tech Companies', Philosophy & Technology, 37.3 (2024), 90
-
-- Schneider, J., 'Pokémon GO Players Helped Build a 30 Billion AR Image Map of the World', PetaPixel, 16 March 2026 https://petapixel.com/2026/03/16/pokemon-go-players-unknowingly-helped-build-a-30-billion-ar-image-map-of-the-world/ \[accessed 8 May 2026\]
-
-- Scholz, Trebor, Platform Cooperativism: Challenging the Corporate Sharing Economy (New York: Rosa Luxemburg Stiftung, 2016\) https://rosalux.nyc/wp-content/uploads/2020/11/RLS-NYC\_platformcoop.pdf \[accessed 4 April 2026\]
-
-- Scholz, Trebor, Uberworked and Underpaid: How Workers Are Disrupting the Digital Economy (Cambridge: Polity Press, 2017\)
-
-- Sollfrank, C., Interview with Femke Snelting and spideralex (Basel: House for Electronic Arts (HeK), 2018\) https://creatingcommons.zhdk.ch/wp-content/uploads/2020/06/Transcript-Femkespider.pdf \[accessed 8 May 2026\]
-
-- Spideralex, 'History of Anarchaserver and Feminist Servers', Anarchaserver (2025) https://alexandria.anarchaserver.org/ \[accessed 8 May 2026\]
-
-- Srnicek, Nick, Platform Capitalism (Cambridge: Polity Press, 2017\) https://ebookcentral.proquest.com/lib/goldsmiths/detail.action?docID=4773843 \[accessed 7 May 2026\]
-
-- Stiegler, Bernard, Antoinette Rouvroy, and A. Nony, 'The Digital Regime of Truth: From the Algorithmic Governmentality to a New Rule of Law', La Deleuziana – Online Journal of Philosophy (2016)
-
-- Taplin, J., 'The Rise of the Digital Oligarchy', Rolling Stone Canada (2026) https://ca.rollingstone.com/rise-digital-oligarchy-ai-era/ \[accessed 8 May 2026\]
-
-- Törnberg, Petter, 'How platforms govern: Social regulation in digital capitalism', Big Data & Society, 10.1 (2023)
-
-- Toupin, S., and A. Haché, 'Feminist autonomous infrastructures', Global Information Society Watch (2015) https://giswatch.org/en/internet-rights/feminist-autonomous-infrastructures \[accessed 8 May 2026\]
-
-- Varoufakis, Yanis, Technofeudalism: What Killed Capitalism (London: Random House, 2023\)
-
-- Weyl, E. Glen, and Eric A. Posner, Radical Markets: Uprooting Capitalism and Democracy for a Just Society (Princeton: Princeton University Press, 2018\)
-
-- Woodcock, J., 'The Limits of Algorithmic Management', South Atlantic Quarterly, 120.4 (2021), 703–713
-
-- Zuboff, Shoshana, 'Big Other: Surveillance Capitalism and the Prospects of an Information Civilization', Journal of Information Technology, 30.1 (2015), 75–89
+- Bratton, Benjamin H. (2015), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press), [](http://www.vlebooks.com/vleweb/product/openreader?id=Goldsmiths&isbn=9780262330183) [accessed 7 May 2026]
+- Dal Maso, Giulia (2022), ‘The Promethean Ant Forest: Alibaba’s App as a Financialising Environmental Tool’, _Made in China Journal_ 7.2, 144–49, [](https://www.researchgate.net/publication/368479256) [accessed 8 May 2026]
+- Foer, Franklin (2017), ‘Facebook’s war on free will’, _The Guardian_, 19 September, [](https://www.theguardian.com/technology/2017/sep/19/facebooks-war-on-free-will) [accessed 8 November 2024]
+- Guerra, J. (2023), ‘Towards a feminist framework for AI development: from principles to practice’, _Derechos Digitales_, [](https://www.derechosdigitales.org/wp-content/uploads/Fair_Doc_Eng.pdf) [accessed 8 May 2026]
+- Hayden, Hugh (2026), ‘Niantic Spatial & The Large Geospatial Model’, _Niantic Spatial, Inc._, 13 January, [](https://www.nianticspatial.com/blog/world-models-2026) [accessed 8 May 2026]
+- Ibarra, Imanol Arrieta, and others (2018), ‘Should we treat data as labor? Let’s open up the discussion’, _Brookings_, [](https://www.brookings.edu/articles/should-we-treat-data-as-labor-lets-open-up-the-discussion/) [accessed 8 May 2026]
+- Kasparian, D. (2022), ‘Argentina, Meet CoopCycle!’, _Platform Cooperativism Consortium_, [](https://platform.coop/blog/argentina-meet-coopcycle/) [accessed 8 May 2026]
+- Lewis, Paul, and Paul Hilder (2018), ‘Leaked: Cambridge Analytica’s blueprint for Trump victory’, _The Guardian_, 23 March, [](https://www.theguardian.com/uk-news/2018/mar/23/leaked-cambridge-analyticas-blueprint-for-trump-victory) [accessed 8 November 2024]
+- Marias, G., and A. Minotakis (2024), ‘Afterword: Platform Capitalism’, in _Platform Capitalism_ (Greek edition), ed. by N. Srnicek (Athens: Topos), 167–74
+- More, Thomas (1966), _Utopia_ (Leeds: Scolar Press)
+- Novianto, A. (2025), ‘Digital Lords or Capitalist Titans? Critiquing the Techno-Feudalism Narrative’, _Developing Economics_, 5 May, [](https://developingeconomics.org/2025/05/05/digital-lords-or-capitalist-titans-critiquing-the-techno-feudalism-narrative/) [accessed 4 April 2026]
+- Pal, M., and N. Harris (2024), ‘Capital is Dead. Long Live Capital! A Political Marxist Analysis of Digital Capitalism and Infrastructure’, _TripleC_ 22.1, 232–47
+- Paola, S., and others (2017), _Latin America in Glimpse: Gender, Feminism and the Internet in Latin America_ (APC / Internet Governance Forum), [](https://www.apc.org/sites/default/files/GlImpse2017_eng.pdf) [accessed 8 May 2026]
+- Plotkin, H. (2017), ‘The Platform Cooperatives Movement Helps Light up the Commons’, _Creative Commons_, 24 January, [](https://creativecommons.org/2017/01/24/platform-cooperatives-movement-helps-light-commons/) [accessed 8 May 2026]
+- Rouvroy, Antoinette (2020), ‘Algorithmic Governmentality and the Death of Politics’, _Green European Journal_, [](https://www.greeneuropeanjournal.eu/algorithmic-governmentality-and-the-death-of-politics/) [accessed 8 May 2026]
+- Rouvroy, Antoinette, and Bernard Stiegler (2016), ‘The Digital Regime of Truth: From the Algorithmic Governmentality to a New Rule of Law’, _La Deleuziana_ 3, 6–29, [](https://ladeleuziana.org/wp-content/uploads/2016/11/Rouvroy-Stiegler_eng.pdf)
+- Saura García, Carlos (2024), ‘Datafeudalism: The Domination of Modern Societies by Big Tech Companies’, _Philosophy & Technology_ 37.3, 90
+- Schneider, Jaron (2026), ‘Pokémon GO Players Helped Build a 30 Billion AR Image Map of the World’, _PetaPixel_, 16 March, [](https://petapixel.com/2026/03/16/pokemon-go-players-unknowingly-helped-build-a-30-billion-ar-image-map-of-the-world/) [accessed 8 May 2026]
+- Scholz, Trebor (2016), _Platform Cooperativism: Challenging the Corporate Sharing Economy_ (New York: Rosa Luxemburg Stiftung), [](https://rosalux.nyc/wp-content/uploads/2020/11/RLS-NYC_platformcoop.pdf) [accessed 4 April 2026]
+- Scholz, Trebor (2017), _Uberworked and Underpaid: How Workers Are Disrupting the Digital Economy_ (Cambridge: Polity Press)
+- Sollfrank, C. (2018), _Interview with Femke Snelting and spideralex_ (Basel: House for Electronic Arts (HeK)), [](https://creatingcommons.zhdk.ch/wp-content/uploads/2020/06/Transcript-Femkespider.pdf) [accessed 8 May 2026]
+- Spideralex (2025), ‘History of Anarchaserver and Feminist Servers’, _Anarchaserver_, [](https://alexandria.anarchaserver.org/) [accessed 8 May 2026]
+- Srnicek, Nick (2017), _Platform Capitalism_ (Cambridge: Polity Press), [](https://ebookcentral.proquest.com/lib/goldsmiths/detail.action?docID=4773843) [accessed 7 May 2026]
+- Taplin, Jonathan (2026), ‘The Rise of the Digital Oligarchy’, _Rolling Stone Canada_, 30 March, [](https://ca.rollingstone.com/rise-digital-oligarchy-ai-era/) [accessed 8 May 2026]
+- Törnberg, Petter (2023), ‘How platforms govern: Social regulation in digital capitalism’, _Big Data & Society_ 10.1, 1–13, [](https://doi.org/10.1177/20539517231153808)
+- Toupin, Sophie, and Alexandra Haché (2015), ‘Feminist autonomous infrastructures’, _Global Information Society Watch_, [](https://giswatch.org/en/internet-rights/feminist-autonomous-infrastructures) [accessed 8 May 2026]
+- Varoufakis, Yanis (2023), _Technofeudalism: What Killed Capitalism_ (London: Random House)
+- Weyl, E. Glen, and Eric A. Posner (2018), _Radical Markets: Uprooting Capitalism and Democracy for a Just Society_ (Princeton: Princeton University Press)
+- Woodcock, J. (2021), ‘The Limits of Algorithmic Management’, _South Atlantic Quarterly_ 120.4, 703–13
+- Zuboff, Shoshana (2015), ‘Big Other: Surveillance Capitalism and the Prospects of an Information Civilization’, _Journal of Information Technology_ 30.1, 75–89
