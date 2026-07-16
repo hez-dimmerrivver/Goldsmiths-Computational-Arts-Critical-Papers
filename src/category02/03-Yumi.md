@@ -77,21 +77,14 @@ the computer is not the time in which the pigeon lives. The machine proceeds by 
 
 <div class="endnote-container">
 
-#### END NOTES
+#### **End Notes**
 
-- Bergson, H. (1911) _Matter and Memory_. Translated by N.M. Paul and W.S. Palmer. London: George Allen & Unwin.
-
-- Bergson, H. (2001) _Time and Free Will: An Essay on the Immediate Data of Consciousness_. Translated by F.L. Pogson. Mineola, NY: Dover Publications.
-
-- Blas, Z. (2018) ‘Informatic opacity’, in R. Braidotti and M. Hlavajova (eds.) _Posthuman Glossary_. London: Bloomsbury Academic, pp. 197–199.
-
-- Glissant, É. (1997) _Poetics of Relation_. Translated by B. Wing. Ann Arbor: University of Michigan Press.
-
-- Paglen, T. (2016) ‘Invisible images (your pictures are looking at you)’, _The New Inquiry_, 8 December. Available at: https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/ (Accessed: 5 July 2026).
-
-- Redmon, J., Divvala, S., Girshick, R. and Farhadi, A. (2016) ‘You only look once: unified, real-time object detection’, _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. IEEE, pp. 779–788. Available at: https://doi.org/10.1109/CVPR.2016.91 (Accessed: 5 July 2026).
-
-####
+- Bergson, Henri (1911), _Matter and Memory_, trans. by N. M. Paul and W. S. Palmer (London: George Allen & Unwin)
+- Bergson, Henri (2001), _Time and Free Will: An Essay on the Immediate Data of Consciousness_, trans. by F. L. Pogson (Mineola, NY: Dover Publications)
+- Blas, Zach (2018), 'Informatic Opacity', in _Posthuman Glossary_, ed. by Rosi Braidotti and Maria Hlavajova (London: Bloomsbury Academic), 197–99
+- Glissant, Édouard (1997), _Poetics of Relation_, trans. by Betsy Wing (Ann Arbor: University of Michigan Press)
+- Paglen, Trevor (2016), 'Invisible Images (Your Pictures Are Looking at You)', _The New Inquiry_, 8 December, [](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/) [accessed 5 July 2026]
+- Redmon, Joseph, and others (2016), 'You Only Look Once: Unified, Real-Time Object Detection', _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_ (IEEE), 779–88, [](https://doi.org/10.1109/CVPR.2016.91)
 
 </div>
 

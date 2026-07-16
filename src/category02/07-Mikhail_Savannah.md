@@ -101,17 +101,17 @@ E-mail for correspondence: savannah.r.perry@gmail.com
 #### **End Notes**
 
 - Agre, Philip E. (1997), ‘Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI’, in _Bridging the Great Divide: Social Science, Technical Systems, and Cooperative Work_, ed. by Geof Bowker and others (Mahwah, NJ: Erlbaum)
-- Binkley, Timothy (1988), ‘The Computer Is Not a Medium’, _Philosophic Exchange_ 19.1, 155-73
-- Bogost, Ian (2012), ‘Carpentry: Constructing Artifacts That Do Philosophy’, in _Alien Phenomenology, or What It’s Like to Be a Thing_ (Minneapolis: University of Minnesota Press), 85-111
+- Binkley, Timothy (1988), ‘The Computer Is Not a Medium’, _Philosophic Exchange_ 19.1, 155–73
+- Bogost, Ian (2012), ‘Carpentry: Constructing Artifacts That Do Philosophy’, in _Alien Phenomenology, or What It’s Like to Be a Thing_ (Minneapolis: University of Minnesota Press), 85–111
 - Boole, George (1854), _An Investigation of the Laws of Thought: On Which Are Founded the Mathematical Theories of Logic and Probabilities_ (London: Walton and Maberly)
 - Borgdorff, Henk, Peter Peters, and Trevor Pinch, eds (2020), _Dialogues between Artistic Research and Science and Technology Studies_ (New York: Routledge)
 - Candy, Linda (2006), _Practice Based Research: A Guide_, CCS Report 2006-V1.0 (Sydney: Creativity & Cognition Studios, University of Technology Sydney)
 - Egan, Greg (2009), ‘Anatomy of a Hatchet Job’, _Greg Egan_, 7 March, [](https://www.gregegan.net/INCANDESCENCE/Z/Hatchet.html) [accessed 22 June 2026]
-- Lehman, Joel, and others (2020), ‘The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities’, _Artificial Life_ 26.2, 274-306, [](https://doi.org/10.1162/artl_a_00319)
+- Lehman, Joel, and others (2020), ‘The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities’, _Artificial Life_ 26.2, 274–306, [](https://doi.org/10.1162/artl_a_00319)
 - Machine Learning Street Talk (2025), ‘He Co-Invented the Transformer. Now: Continuous Thought Machines [Llion Jones / Luke Darlow]’, _YouTube_, 24 November, [](https://www.youtube.com/watch?v=DtePicx_kFY) [accessed 29 January 2026]
 - Mahadevan Natural Philosophy (n.d.), ‘Morphogenesis - Mahadevan Natural Philosophy’, [](https://softmath.seas.harvard.edu/research/morphogenesis-and-development/) [accessed 21 March 2025]
 - Mordvintsev, Alexander, Christopher Olah, and Mike Tyka (2015), ‘Inceptionism: Going Deeper into Neural Networks’, _Google Research Blog_, 18 June, [](https://research.google/blog/inceptionism-going-deeper-into-neural-networks/) [accessed 23 April 2026]
 - Mordvintsev, Alexander, and others (2020), ‘Growing Neural Cellular Automata’, _Distill_ 5.2, e23, [](https://doi.org/10.23915/distill.00023)
 - Pickering, Andrew (2010), _The Mangle of Practice: Time, Agency, and Science_ (Chicago: University of Chicago Press)
 - Rheinberger, Hans-Jörg (1997), _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_ (Stanford, CA: Stanford University Press)
-- Shannon, Claude E. (1938), ‘A Symbolic Analysis of Relay and Switching Circuits’, _Transactions of the American Institute of Electrical Engineers_ 57, 713-23
+- Shannon, Claude E. (1938), ‘A Symbolic Analysis of Relay and Switching Circuits’, _Transactions of the American Institute of Electrical Engineers_ 57, 713–23
