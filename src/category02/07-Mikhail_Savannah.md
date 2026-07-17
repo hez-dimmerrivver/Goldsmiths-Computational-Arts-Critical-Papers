@@ -19,7 +19,7 @@ Crucially, there is no mathematical or technical prerequisite for this practice.
 
 **Curiosity & Mystery**
 
-_“Much of what I write is coming from the position that mathematics and the natural sciences are intrinsically interesting” – Greg Egan (2009)_
+_“Much of what I write is coming from the position that mathematics and the natural sciences are intrinsically interesting” <span style="white-space: nowrap;">– Greg Egan (2009)</span>_
 
 We begin with curiosity about a mystery of how something works (or could work), usually related to maths, computing, biology. For example, we might ask “why do ferns curl?”, “how does a perceptron work?”, “how do limbs form?”
 
@@ -33,7 +33,7 @@ We then try to computationally or mathematically stoke the curiosity or mystery.
 
 As part of the inquiry, we end up encountering something new. This could mean a changed understanding of how things work, a new view into ourselves, a new metaphor. It does not have to be technically advanced and can be humbler in practice, for example understanding binary search, or a for loop.
 
-This process repeats. The loop is: curiosity \-\> struggle to learn or inquiry \-\> encounter (understanding) \-\> repeat
+This process repeats. The loop is: curiosity <span style="font-family: 'monaspace', monospace; font-size: 0.75em; line-height: 1;">⟶</span> struggle to learn or inquiry <span style="font-family: 'monaspace', monospace; font-size: 0.75em; line-height: 1;">⟶</span> encounter (understanding) <span style="font-family: 'monaspace', monospace; font-size: 0.75em; line-height: 1;">⟶</span> repeat.
 
 Here, an encounter is new in that it is subjective. A polar bear encounters a rain forest for the first time, while the rainforest is quotidian for a jaguar. This subjectivity comes from being individuals with interests and multi-headed, multiple simultaneous lines of inquiry and influence. We read theory, fiction, and do visual research. As if a novel unfolding through braided plots, we do not try to connect all of the threads, but rather allow them to diffuse or entangle.
 
@@ -77,7 +77,7 @@ How do we know when our work is good? We are mixing many lineages and none of th
 
 This notion of change is somewhat related to ideas around artistic research. Artistic research suggests that artists produce different types of knowledge (related to our idea that the encounter is personal and need not be _new to science_) and practice-based research suggests that change (although not individual) might be a goal of practice. Pickering, Rheinberger, and others in Science and Technology studies overlap with us often regarding experimental methodology. There are also echoes of Bogost’s idea of Carpentry, where philosophical objects are built to test ideas (Candy 2006; Borgdorff, Peters, and Pinch 2020; Pickering 2010; Rheinberger 1997; Bogost 2012).
 
-_“The computer artist works with a hyperreal creation which stands behind the scenes as a kind of meta-physical object” – Tim Binkley (1988)_
+_“The computer artist works with a hyperreal creation which stands behind the scenes as a kind of meta-physical object” <span style="white-space: nowrap;">– Tim Binkley (1988)</span>_
 
 **Computation history as support for this methodology**
 
