@@ -21,7 +21,7 @@ Crucially, there is no mathematical or technical prerequisite for this practice.
 
 _“Much of what I write is coming from the position that mathematics and the natural sciences are intrinsically interesting” – Greg Egan (2009)_
 
-We begin with curiosity about a mystery of how something works (or could work), usually related to maths, computing, biology. For example, we might ask "why do ferns curl?", "how does a perceptron work?", "how do limbs form?"
+We begin with curiosity about a mystery of how something works (or could work), usually related to maths, computing, biology. For example, we might ask “why do ferns curl?”, “how does a perceptron work?”, “how do limbs form?”
 
 We try to set off from a place where we understand almost everything, but then step by step enter and inspect subsequent mysteries.
 
