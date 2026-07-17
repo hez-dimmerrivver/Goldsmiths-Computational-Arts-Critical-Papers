@@ -16,7 +16,7 @@ name: Fran Hayes & Zihe Zheng
 According to technologist Blaise Agüera y Arcas, life is computational from its very inception; it emerges from systems that can self-replicate and transmit the information required to sustain existence. Under this lens, we are made of computers. We are computers. We are computers made of computers (Agüera y Arcas 2025a, 2.39).
 However, while positioning collective life as a form of intelligence, by also inciting game theory - in particular The Prisoner’s Dilemma, which argues that even within a networking framework two individuals might choose not to cooperate even if it is in their best interest - Agüera y Arcas frames the collective as an optimisation strategy where individual, self-interested parts work together simply for efficiency (Agüera y Arcas 2025b, 22.10). He clings to atomistic origins, suggesting individuals are interchangeable parts within a network.
 
-We want to question and propose alternatives to this strict, rigid, masculine view of life and computation, views that, as stated in the publication DATA LOAM, are causing “the rise of autonomous systems whose algorithms of machine learning / artificial intelligence are deeply entangled with dubious and disintegrating forces—forces that by no means wish to make possible the prosperity and happiness of all.”(Golding, Reinhart, and Paganelli 2020, 1)  
+We want to question and propose alternatives to this strict, rigid, masculine view of life and computation, views that, as stated in the publication _ Data Loam _, are causing “the rise of autonomous systems whose algorithms of machine learning / artificial intelligence are deeply entangled with dubious and disintegrating forces—forces that by no means wish to make possible the prosperity and happiness of all.”(Golding, Reinhart, and Paganelli 2020, 1)  
 Following evolutionary biologist Lynn Margulis, we see the coming-together of life not as a corporate division of labor, but as a deeply messy, intimate entanglement of all kinds of living and non-living kin where boundaries dissolve entirely, “Life did not take over the globe by combat, but by networking” (Margulis and Sagan 1986, 26). We are not isolated processing units; we are all assemblages.
 In response we welcomed symbiogenesis, the coming-together of distinct parts to form a more complex whole (Agüera y Arcas 2025b, 21.42). Through opening our research into a space of radical feminist assemblage we conceived a speculative, symbiogenetic entity; an assemblage composed of the human mitochondrial genome - colloquially known as Mitochondrial Eve (NCBI n.d.). This genome is passed exclusively through the matriarchal lineage suggesting that the entire human race can be traced back to a singular woman - the traditionally feminine craft of crochet, JavaScript code, and slime mold. Within this assemblage relationships come first, the actors do not exist as individual parts, but actively become-together through acts of entanglement that transform them.
 
@@ -173,7 +173,7 @@ import time:
 import memory:  
  W€_r @ Compl€x c0mppo$1tion of 1nsT@llatiiiion$ @nD 1TeR@Ti0n 1o0ps beTweEn c0mpvT@tional GR@ph1cs & croch€T.  
  present inspiration:  
- \<Tara Donovan\>[^8]\--- :-\*++\*\#\*\#\*\*++:  
+ \<Tara Donovan\>\--- :-\*++\*\#\*\#\*\*++:  
  ^cCumul@ted ::-\*++\*\#\*\#\*\*++:..  
  €vErVd@Y 0BjeCts \--\*=++=\*\*\*++==---.  
  D1Ffu$ed                        :-==++\*=\*+++=+.-:                                              
