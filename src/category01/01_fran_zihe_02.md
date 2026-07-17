@@ -5,7 +5,7 @@ name: Fran Hayes & Zihe Zheng
 
 <div class="chapter-one">
 
-##### FRAN HAYES & ZIHE ZHENG
+##### Fran Hayes and Zihe Zheng
 
 # EVELUTION
 
