@@ -11,7 +11,7 @@ name: Savannah and Mikhail
 
 <div class="body-text">
 
-_“The fantasy worlds stored inside a computer… bear the ontology of numbers: although not tangible objects, they are nevertheless manipulable entities and can be expe­rienced as real things with resolute efficacy” \- Timothy Binkley, The Computer is Not a Medium (Binkley 1988)_
+_“The fantasy worlds stored inside a computer… bear the ontology of numbers: although not tangible objects, they are nevertheless manipulable entities and can be expe­rienced as real things with resolute efficacy” \- Timothy Binkley, The Computer is Not a Medium (1988)_
 
 We present a work-in-progress artistic practice. We explore a mystery and through this inquiry, enter and encounter a computational space. Mathematics and computation both generate this space, and also serve as the tools for exploration. At each step, the practice is subjective – taking into account our own perspective and subjective encounters or changes.
 
@@ -19,7 +19,7 @@ Crucially, there is no mathematical or technical prerequisite for this practice.
 
 **Curiosity & Mystery**
 
-_“Much of what I write is coming from the position that mathematics and the natural sciences are intrinsically interesting” – Greg Egan (Egan 2009)_
+_“Much of what I write is coming from the position that mathematics and the natural sciences are intrinsically interesting” – Greg Egan (2009)_
 
 We begin with curiosity about a mystery of how something works (or could work), usually related to math, computing, biology. For example, we might ask "why do ferns curl?", "how does a perceptron work?", "how do limbs form?"
 
@@ -69,15 +69,15 @@ Our logs are personal. Including screenshots of experiments, statistical finding
 
 **“Fitting In” as a Design Problem**
 
-Institutional science and art contexts both challenge this practice, since they are oriented around contributions or artistic outputs. However, it is often possible to treat institutional requirements as a design problem (where one must come up with a formal solution), to figure out how they can serve the inquiry. The alternative is to treat them as a \*practice problem\* which means reorienting all of the above to produce Contributions, or specific artistic outputs. For example, in the past we did specific art outputs like installation or games as part of an arts program. We later found handing in unfinished python notebooks and things to discuss in small groups was more demonstrative of our practice rather than making work to specifically show in galleries.
+Institutional science and art contexts both challenge this practice, since they are oriented around contributions or artistic outputs. However, it is often possible to treat institutional requirements as a design problem (where one must come up with a formal solution), to figure out how they can serve the inquiry. The alternative is to treat them as a _practice problem_ which means reorienting all of the above to produce Contributions, or specific artistic outputs. For example, in the past we did specific art outputs like installation or games as part of an arts program. We later found handing in unfinished python notebooks and things to discuss in small groups was more demonstrative of our practice than making work to specifically show in galleries.
 
 **In Practice**
 
 How do we know when our work is good? We are mixing many lineages and none of their criteria apply well. For example, science wants contributions, publishing; critical tech art wants a package of theory, technical decisions, related artists, concepts. For our practice, perhaps the best criteria is whether experiments are happening and if new encounters and changes emerge for the artist. Larger more psychedelic changes are as valid as smaller changes. For example, going from not-understanding to understanding how a sin-wave works would also count as change in this practice. We have no criteria for change, other than that we see the mystery differently than when we started. Making no progress towards understanding is in itself interesting, and leads to questions around why.
 
-This notion of change is somewhat related to ideas around artistic research. Artistic research suggests that artists produce different types of knowledge (related to our idea that the encounter is personal and need not be \*new to science\*) and practice based research suggests that change (although not individual) might be a goal of practice. Pickering, Rheinberger, and others in Science and Technology studies overlap with us often regarding experimental methodology. There are also echoes of Bogost’s idea of Carpentry, where philosophical objects are built to test ideas. (Candy 2006; Borgdorff, Peters, and Pinch 2020; Pickering 2010; Rheinberger 1997; Bogost 2012)
+This notion of change is somewhat related to ideas around artistic research. Artistic research suggests that artists produce different types of knowledge (related to our idea that the encounter is personal and need not be _new to science_) and practice based research suggests that change (although not individual) might be a goal of practice. Pickering, Rheinberger, and others in Science and Technology studies overlap with us often regarding experimental methodology. There are also echoes of Bogost’s idea of Carpentry, where philosophical objects are built to test ideas. (Candy 2006; Borgdorff, Peters, and Pinch 2020; Pickering 2010; Rheinberger 1997; Bogost 2012)
 
-_“The com­puter artist works with a hyperreal creation which stands behind the scenes as a kind of meta-physical object” –Tim Binkley (Binkley 1988)_
+_“The com­puter artist works with a hyperreal creation which stands behind the scenes as a kind of meta-physical object” –Tim Binkley (1988)_
 
 **Computation history as support for this methodology**
 
