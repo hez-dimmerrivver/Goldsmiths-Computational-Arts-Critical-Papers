@@ -5,7 +5,7 @@ name: Savannah and Mikhail
 
 <div class="chapter-two">
 
-##### Savannah and Mikhail
+#### Savannah and Mikhail
 
 # Artistic Computational Inquiry
 

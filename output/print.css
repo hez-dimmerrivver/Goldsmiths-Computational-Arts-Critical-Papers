@@ -98,18 +98,18 @@
     margin: 14mm 20mm 20mm 20mm; /*top, right, bottom, left*/  
 
     @top-left-corner {
-    content: "Critical Computational Arts Research";
+    content: "Computational Arts Critical Papers";
     font-family: "typewcond_regular", sans-serif;
     font-size: 10pt;
     font-weight: 400;
     transform: rotate(-90deg);
     text-align: left;
     white-space: nowrap;
-    margin-top: 63mm;
+    margin-top: 58mm;
     color: #787878
   }
     @left-middle {
-    content: "Volume 01: f0rm1ess";
+    content: "Volume 1: f0rm1ess";
     font-family: "typewcond_regular", sans-serif;
     font-size: 10pt;
     font-weight: 400;
@@ -223,6 +223,15 @@ body {
     height: 0;                     
 }
 
+.divider2 {
+    column-span: all;         
+    border-top: 1px solid #888888; 
+    width: 100%;                   
+    margin-top: -24px;             
+    margin-bottom: 10px;           
+    height: 0;                     
+}
+
 /*book category is also treated as a chapter page to make the paged.js pages work*/
 .book-category {
     break-before: always;
@@ -277,6 +286,8 @@ a:not(.toc a):after {
 code {    
     font-family: 'notcourier';
 }
+
+
 
 
 
@@ -467,6 +478,37 @@ li::before {
     @top-right-corner { content: none !important; }
     @bottom-right-corner { content: none !important; }
 }
+
+/* hinge */
+.pagedjs_right_page:has(#category01_hinge) .pagedjs_margin-top-right-corner {
+  margin-top: 10mm !important;
+}
+
+#category01_hinge h1 {
+  font-size: 30pt;
+    font-family: 'alfphabet-iv';
+    font-weight: normal;
+    text-align: left;
+    line-height: 1.1em;  
+    margin-top: -0.1em;
+    margin-bottom: 0.5em;    
+      
+}
+.pagedjs_right_page:has(#category02_hinge) .pagedjs_margin-top-right-corner {
+  margin-top: 10mm !important;
+}
+
+#category02_hinge h1 {
+  font-size: 30pt;
+    font-family: 'alfphabet-iv';
+    font-weight: normal;
+    text-align: left;
+    line-height: 1.1em;  
+    margin-top: -0.1em;
+    margin-bottom: 0.5em;    
+      
+}
+
 
 /* Haiyi article layout test - body only */
 /* .chapter-two .body-text {
