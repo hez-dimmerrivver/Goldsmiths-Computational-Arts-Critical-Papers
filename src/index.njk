@@ -1,6 +1,6 @@
 ---
 layout: book.njk
-title: Critical Computational Research
+title: Computational Arts Critical Papers 
 ---
 
 <section style="
@@ -27,6 +27,9 @@ title: Critical Computational Research
 {# Innercover #}
 <div class="page-break-blank"></div>
 
+{# All back matter pages #}
+{% include "sections/conclusion.njk" %}
+
 {# Table of Contents #}
 {% include "sections/toc.njk" %}
 
@@ -35,12 +38,11 @@ title: Critical Computational Research
 
 {# Categories #}
 {% include "sections/category01.njk" %}
+{% include "sections/category01_hinge.njk" %}
 {% include "sections/category02.njk" %}
+{% include "sections/category02_hinge.njk" %}
 {% include "sections/category03.njk" %}
 
-
-{# All back matter pages #}
-{% include "sections/conclusion.njk" %}
 
 {# backcover #}
 {% include "sections/back-cover.njk" %}

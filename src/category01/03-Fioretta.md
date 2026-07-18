@@ -74,4 +74,3 @@ These questions inevitably return to my own role as the designer. If I decide wh
 - Merleau-Ponty, Maurice (1968), _The Visible and the Invisible: Followed by Working Notes_, ed. by Claude Lefort, trans. by Alphonso Lingis (Evanston, IL: Northwestern University Press)
 - Puig de la Bellacasa, María (2017), _Matters of Care: Speculative Ethics in More Than Human Worlds_ (Minneapolis: University of Minnesota Press)
 </div></div>
-
