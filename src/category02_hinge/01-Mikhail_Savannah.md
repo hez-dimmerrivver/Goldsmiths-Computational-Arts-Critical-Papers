@@ -4,10 +4,23 @@ name: Savannah and Mikhail
 ---
 
 <div class="chapter-two">
+<div class="divider2"></div>
 
-#### Savannah and Mikhail
+<div style="display: flex; width: 100%;">
 
-# Artistic Computational Inquiry
+  <!-- left -->
+  <div style="width: 80%;  box-sizing: border-box;">
+    <h1 style="margin-top: 3mm; text-align: left;">Artistic Computational Inquiry</h1>
+  </div>
+  
+  <!-- right -->
+  <div style="width: 20%; padding-left: 20px; box-sizing: border-box;">
+    <h2 style="text-align: right;">Savannah <br>and <br>Mikhail</h2>
+  </div>
+
+</div>
+
+<div class="divider3"></div>
 
 <div class="body-text">
 

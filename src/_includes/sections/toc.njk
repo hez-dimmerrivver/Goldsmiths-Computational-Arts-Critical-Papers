@@ -2,11 +2,10 @@
   <br>
   <h1 class="toc-title">Contents</h1>
   <br>
-  <br>
   {% for section in collections.book | groupBySectionOrder %}
     {% if section.tocNested %}
-      <br>
-      <h4>{{ section.title }}</h4>
+      <div class="divider"></div>
+      <h3>{{ section.title }}</h3>
       
       {% for chapter in section.chapters %}
         {# Skip rendering if the chapter title is "Preface" or "Colophon" #}
@@ -16,7 +15,6 @@
           </div>
         {% endif %}
       {% endfor %}
-      <br>
     {% else %}
 
       {% for chapter in section.chapters %}

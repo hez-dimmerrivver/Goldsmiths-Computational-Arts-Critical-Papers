@@ -6,13 +6,22 @@ name: Zhuzhu Xie
 <div class="chapter-one">
 <div class="divider2"></div>
 
-#### Zhuzhu Xie
+<div style="display: flex; width: 100%;">
 
-# In-Between States
+  <!-- left -->
+  <div style="width: 20%; border-right: 1px solid #888888;  box-sizing: border-box;">
+    <h2 style="text-align: left;">Zhuzhu Xie</h2>
+  </div>
+  
+  <!-- right -->
+  <div style="width: 80%; padding-left: 20px; box-sizing: border-box;">
+    <h1 style="margin-top: 3mm; text-align: left;">In-Between States</h1>
+    <h3 style="text-align: left;">Assemblage, Repetition, and the Labour of <br>Technical Objects in Artistic Practice</h3>
+  </div>
 
-## Assemblage, Repetition, and the Labour of Technical Objects in Artistic Practice
+</div>
 
-<div class="divider"></div>
+<div class="divider3"></div>
 
 Instructions:
 
