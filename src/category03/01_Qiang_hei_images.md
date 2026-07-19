@@ -14,6 +14,7 @@ name: Qiang Hei
 ####
 
 <img src="/static/images/qiang_hei/image1.png">
+<br></br>
 <div class="body-text">
 
 **Introduction**
@@ -21,6 +22,8 @@ name: Qiang Hei
 When a village is no longer primarily understood through everyday life and local memory, but is gradually incorporated into larger networks of energy production and technological infrastructure, can locality still be re-sensed? This article takes my practice-based computational art project DRIFTING as its point of departure, responding to the ongoing transformation of Quan'ergou Village in Shanxi Province, China, under conditions of population outflow and the expansion of wind-power infrastructure.
 
 I argue that locality should not be understood as a fixed geographical entity, but as a dynamic perceptual network formed between environment, memory, infrastructure, data, and technological media. In DRIFTING, real-time wind data from Quan'ergou guides a digital avatar across a Digital Earth system. Through this process, place enters the present not as a complete image of the hometown, but as a remote signal.
+<br></br>
+<br></br>
 
 **1\. Locality Under Infrastructure**
 

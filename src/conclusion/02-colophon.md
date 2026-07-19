@@ -1,5 +1,5 @@
 ---
-# title: Colophon
+title: Colophon
 ---
 
 <div class="page-break-blank" style="visibility: visible; height: auto;">

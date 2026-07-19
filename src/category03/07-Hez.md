@@ -12,6 +12,7 @@ name: Jiang He Zhang (Hez)
 ## When GPS is disrupted, time and space no longer align
 
 <img src="/static/images/Hez/image-01.webp">
+<br></br>
 
 <div class="body-text">
 Why are humans so obsessed with precise time? Everything we rely on such as communication, financial markets, and even war depends on precise time working flawlessly. From sundials to atomic clocks with GPS systems (Johnsen 2024), we have spent centuries trying to reduce natural variation and human error for the timekeeping system.

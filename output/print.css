@@ -19,6 +19,11 @@
 }
 
 @font-face {
+    font-family: "typewcond_bold";
+    src: url("static/fonts/typewcond_bold.otf");
+}
+
+@font-face {
     font-family: "magicial_game";
     src: url("/static/fonts/magicial_game.ttf");
 }
@@ -38,34 +43,7 @@
     src: url("/static/fonts/Computer_Malfunction_Error.ttf");
 }
     
-@font-face {
-    font-family: "alfphabet-iii";
-    /* src: url("http://osp.kitchen/api/osp.foundry.alfphabet/78cab074aa56a4e3f7c7d0b10aaf6cd14dca9fad/blob-data/Alfphabet-III.otf"); */
-}
-        
-        
-@font-face {
-    font-family: "sans-guilt-wafer";
-    /* src: url("http://osp.kitchen/api/osp.foundry.sans-guilt-wafer/69d4a29c6a546c9c91baf7ed7acce118e42d116c/blob-data/SansGuiltWafer.woff"); */
-}
 
-
-@font-face {
-    font-family: "CertegeskaBase";
-    /* src: url("http://osp.kitchen/api/osp.foundry.certegeska/4b32acf97e4b3e5d69b17d8b030b57fcfb6cbd6b/blob-data/CertegeskaBase.woff"); */
-}
-
-
-@font-face {
-    font-family: "CertegeskaDemi";
-    /* src: url("http://osp.kitchen/api/osp.foundry.certegeska/abc88b5d8ae345d245f6d3e3bef738b8b66dad22/blob-data/CertegeskaDemi.woff"); */
-}
-   
-
-@font-face {
-    font-family: "CertegeskaStraight";
-    /* src: url("http://osp.kitchen/api/osp.foundry.certegeska/cdc6d4201d11e18341eccb838f872e3935d2f6b0/blob-data/CertegeskaStraight.woff"); */
-}
 
 @font-face {
     font-family: "Doto_Rounded-Black";
@@ -83,8 +61,28 @@
 }
 
 @font-face {
-    font-family: "monaspace";
-    src: url("static/fonts/MonaspaceXenonNF-Regular.otf");
+    font-family: "Saira";
+    src: url("static/fonts/SairaSemiCondensed-Medium.ttf");
+}
+
+@font-face {
+    font-family: "HeptaSlab";
+    src: url("static/fonts/HeptaSlab-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Offside";
+    src: url("static/fonts/Offside-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Flor";
+    src: url("static/fonts/FlorDeRuina-Semilla.ttf");
+}
+
+@font-face {
+    font-family: "Sligoil";
+    src: url("static/fonts/Sligoil-MicroMedium.ttf");
 }
    
    
@@ -200,35 +198,61 @@ body {
     font-family: 'typewcond_regular', sans-serif; /* Arial and Verdana are websafe fonts https://www.w3schools.com/cssref/css_websafe_fonts.php*/
 }
 
+.body-text p {
+    margin-top: 0 !important;       
+    margin-bottom: 0.6em !important; 
+}
+
 .endnote-container {
     column-span: all; 
     font-size: 9pt !important;
+    letter-spacing: -0.03em;
     line-height: 1.1em;
     font-family: 'typewcond_regular', sans-serif;
     text-align: left;
-    column-count: 1 !important; 
+    column-count: 1 !important;  
+
 }
 
 .endnote-container p {
-    margin-top: 0;
+    margin-top: -0em;
     margin-bottom: 0em;   
 }
 
+.endnote-container h4 {
+    margin-top: 0 !important;
+    margin-bottom: -2px !important;    
+    padding-bottom: 0 !important;
+    line-height: 0em !important;     
+}
+.endnote-container h4 + p {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
 .divider {
     column-span: all;         
     border-top: 1px solid #888888; 
     width: 100%;                   
     margin-top: 18px;             
-    margin-bottom: 10px;           
+    margin-bottom: 20px;           
     height: 0;                     
 }
 
 .divider2 {
     column-span: all;         
-    border-top: 1px solid #888888; 
+    border-top: 1.2px solid #888888; 
     width: 100%;                   
-    margin-top: -24px;             
-    margin-bottom: 10px;           
+    margin-top: -14px;             
+    margin-bottom: 8px;           
+    height: 0;                     
+}
+
+.divider3 {
+    column-span: all;         
+    border-top: 1.2px solid #888888; 
+    width: 100%;                   
+    margin-top: 10px;             
+    margin-bottom: 20px;           
     height: 0;                     
 }
 
@@ -347,15 +371,16 @@ h2 {
 h3 {    
     font-size: 14pt;  
     line-height: 1em;  
-    font-family: 'typewcond_regular';       
+    font-family: 'Offside';       
     font-weight: normal;
     margin: 0;
+    margin-bottom: 0.5em;
 }
 
 
 h4 {    
     font-size: 12pt;    
-    font-family: 'dichtmy';       
+    font-family: 'typewcond_bold';       
     font-weight: normal;
     margin-top: 0em;
     margin-bottom: 0em;
@@ -375,7 +400,7 @@ h5 {
 h6 {    
     font-size: 24pt;  
     line-height: 1em;  
-    font-family: 'dichtmy';   /*local font*/
+    font-family: 'Offside';  
     font-weight: normal;
     text-align: Left;
     margin-top: 0em;
@@ -445,7 +470,7 @@ ul {
 
 li {
     position: relative;
-    padding-left: 12px;          
+    padding-left: 10px;          
 }
 
 li::before {
@@ -485,29 +510,50 @@ li::before {
 }
 
 #category01_hinge h1 {
-  font-size: 30pt;
-    font-family: 'alfphabet-iv';
-    font-weight: normal;
+  font-size: 40pt;
+    font-family: 'Flor';
     text-align: left;
-    line-height: 1.1em;  
-    margin-top: -0.1em;
-    margin-bottom: 0.5em;    
-      
+    margin-bottom: 0mm;
+    margin-top: 0mm;
 }
+#category01_hinge h2 {
+  font-size: 12pt;
+    font-family: 'HeptaSlab';
+    text-align: left;
+    line-height: 1.1em;
+    margin-top: 4mm;
+}
+
+#category01_hinge h3 {
+  font-size: 16pt;
+    font-family: 'HeptaSlab';
+    text-align: left;
+    line-height: 1.4em;
+    margin-top: 2mm  ; 
+    margin-bottom: 0mm;
+}
+
 .pagedjs_right_page:has(#category02_hinge) .pagedjs_margin-top-right-corner {
   margin-top: 10mm !important;
 }
 
 #category02_hinge h1 {
-  font-size: 30pt;
-    font-family: 'alfphabet-iv';
-    font-weight: normal;
+  font-size: 40pt;
+    font-family: 'Flor';
     text-align: left;
-    line-height: 1.1em;  
-    margin-top: -0.1em;
-    margin-bottom: 0.5em;    
-      
+    margin-bottom: 0mm;
+    margin-top: 0mm;
 }
+#category02_hinge h2 {
+  font-size: 12pt;
+    font-family: 'HeptaSlab';
+    text-align: left;
+    line-height: 1.5em;
+    margin-top: 4mm;
+}
+
+
+
 
 
 /* Haiyi article layout test - body only */

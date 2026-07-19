@@ -46,6 +46,7 @@ The channels are limited, but the world they reach is not. The color sensor read
 A slowly drifting baseline gives the system memory: salience is computed relative to an accumulated history of both light and distance rather than an absolute value, so identical input can prompt different responses over time. The installation thus instantiates the paper’s claims directly: an Umwelt selectively constructed, relationally produced, and dependent on embodiment not for a body as such, but for the coupling through which the system continually alters itself.
 
 <img src="/static/images/Huayang/image_02.png" class="single-column-img">
+<br></br>
 
 **Rethinking of the Biological Boundary**
 

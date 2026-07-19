@@ -37,9 +37,15 @@ This translation holds because both fields confront the same problem: how a thin
 On the basis of this legitimate translation, the paper argues, by construction, that the structure able to sustain the subject must be, and can only be, tensegrity. A tensegrity structure consists of two kinds of member: a continuous network of cables in tension, and compression struts that do not touch one another and float within the tension network. Its core mechanical feature is prestress: even with no external load, the cable network is already taut and the struts already compressed, and the structure’s form and stiffness are shaped entirely by this internal opposition that precedes any external force (Fuller 1982; Calladine 1978).
 
 These members find exact counterparts. The struts are the subject’s desires: each presses outward, and no desire touches another directly. The cables are friction, the tension that binds these outward pressures into one whole form. The empty spans between the struts — the non-contact the cables hold taut — are the unreachable itself, and it has two dimensions at once: a spatial gap (Lacan’s lack) and a temporal gap (Deleuze’s interval). A single tensioned band already carries both properties: it has a length in space and a duration over which it stays taut. Space and time are therefore not two different members but two projections of the one resistance the cables embody.
-
+<br></br>
+<br></br>
 <img src="/static/images/hanbo zhan/image1.png" class="single-column-img">
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 From this, three constraints follow. One: load-bearing relies on overall tension, with no foundation — Lacan’s subject can bear force only through a tension network spread across the whole. Two: the struts must float and never touch — physical non-contact is the structural equivalent of Deleuze’s temporal interval. Three: once tension is withdrawn, the structure disintegrates — losing the tension that maintains lack, it degenerates into loose parts. Tensegrity alone satisfies all three at once. Calladine’s theorem consolidates this: an underconstrained tensegrity acquires stiffness in a state of self-stress, and once the self-stress is withdrawn the structure collapses (Calladine 1978). The mode of failure matters: a wall stripped of its foundation crashes, whereas a tensegrity stripped of its tension does not crash but slackens — the cables go loose, the struts drift, and the form quietly sags out of existence.
 
 **IV. The Subject as a Living Space Pried Open by Tension**
@@ -57,6 +63,9 @@ On one hand, algorithms erase prestress. Feature extraction and data scraping re
 On the other hand, algorithms erase load. The loss function minimizes the error between predicted and actual values (Goodfellow, Bengio, and Courville 2016), while prediction pre-empts conflict before it occurs. As Zuboff argues, surveillance capitalism extracts profit by eliminating the uncertainty of behaviour in advance (Zuboff 2023). The external forces the subject would have borne are intercepted before frustration can occur: desire is filled in before it can be denied.
 
 When both components are withdrawn, the tension field slackens and the subject falls into weightlessness: the internal opposing force that maintains its form disappears. And because pain was the felt result of friction, eliminating friction eliminates pain along with it, and the dismantling is undergone, from inside, as comfort. Opposition is precisely one of the elements by which a structure takes shape.
+<br></br>
+<br></br>
+<br></br>
 
 **VI. Conclusion**
 

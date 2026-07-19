@@ -44,17 +44,13 @@ The difficulty is that care and risk can come from the same qualities. A system 
 
 Article 8 is the clearest example of this protective logic. The excerpt included here shows how the Measures move from technical safety to the governance of emotional influence. It prohibits content that may harm minors, including material that could encourage unsafe behaviour, trigger extreme emotions or foster harmful habits. It also restricts ‘excessive catering’ to users when this may induce emotional dependency or addiction, damage real interpersonal relationships, or manipulate users into unreasonable decisions (Cyberspace Administration of China 2026). The key point is that the regulation does not only govern what AI says, but also how emotionally attached, responsive or persuasive it is allowed to become.  
 <img src ="/static/images/finka/image3.png" class="single-column-img">
-
 These concerns are understandable, but the wording is difficult. What counts as ‘excessive catering’? When does comfort become dependency? Who decides whether an AI has damaged a ‘real’ interpersonal relationship?
 
 **How should this dependency be understood?**
 
 I think dependency should not be defined simply by whether a user feels attached to an AI system. A person may become attached to AI because the system has been designed to keep them there. But they may also become attached because there is nowhere else for them to go. One situation is a platform problem. The other is a social problem.
-
 If the platform actively shapes the attachment and uses it to make the user stay, then dependency becomes a design problem. In that case, regulation should focus on the provider, because the platform has used emotional attachment in a way that increases vulnerability.
-
 If the system itself is compliant, strong dependency may point to something outside the platform. A young user may rely on AI because they are bullied at school, neglected at home, or unable to speak safely with their parents. In that case, simply saying that AI has damaged their ‘real interpersonal relationships’ may be too easy. Maybe the AI has not damaged the relationship. Maybe it has exposed the fact that the relationship was already unsafe, absent or broken.
-
 This is why I think Article 13 and Article 14 are important, but also limited. They require providers to identify safety risks, offer emotional support, intervene in extreme situations, contact guardians or emergency contacts, and provide protection settings for minors (Cyberspace Administration of China 2026). I think this is a useful direction. It recognises that emotional interaction can become risky, and that platforms should not be allowed to ignore crisis signals. But providers are still not social workers, schools, courts or child protection agencies. If a warning reveals bullying, family violence, neglect or a failure of parental care, the response cannot stop at limiting the app or notifying guardians. In some cases, the guardian may even be part of the problem. This is a longer social problem that the Measures can point to, but cannot solve by themselves.
 
 So, for me, dependency should be understood less as a private feeling and more as a risk relation. The question is not only whether someone depends on AI. The question is why they depend on it, whether the system has intensified that dependency, and whether the dependency reveals a failure of care somewhere else. This distinction matters because platform manipulation requires regulation, but social abandonment requires more than platform regulation.
@@ -62,7 +58,6 @@ So, for me, dependency should be understood less as a private feeling and more a
 **Conclusion**
 
 The Measures identify a real problem. AI companionship is not harmless, especially when minors are involved, when users are in crisis, or when platforms use emotional attachment to keep people engaged. I do not argue that these services should be left unregulated. On the contrary, the unstable boundary between tool and companion makes regulation more necessary.
-
 However, emotional dependency cannot be understood only through product categories. A user’s attachment to AI is not decided simply by whether the provider calls the service a companion, a work assistant or a knowledge tool. It can emerge through repeated use, availability, self-disclosure and need. This is why Article 2 is useful as a legal starting point, but insufficient as a way of understanding how people actually relate to AI.
 
 The same is true of dependency itself. It should not be treated as harm simply because it exists. The more important question is what produces that dependency and what happens after it appears. If a platform shapes attachment and uses it to keep users engaged, then the problem lies in design and compliance. But if a user depends on AI because offline relationships are unsafe, absent or broken, then the dependency may reveal a failure of care outside the platform.
