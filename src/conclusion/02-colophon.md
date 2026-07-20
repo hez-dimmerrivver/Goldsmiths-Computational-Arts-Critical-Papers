@@ -12,25 +12,32 @@ title: Colophon
 <br></br>
 <br></br>
 <br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
-Title
+**Title**
+<br>The Computational Art Critical Papers: f0rm1ess, 2026
 
-The Computational Art Critical Papers: f0rm1ess, 2026
+**Editors**
+<br>Goldsmiths MA & MFA Computational Arts Students, 2025-2026
 
-Editors
-
-Goldsmiths MA & MFA Computational Arts Students, 2025-2026
-
-Series Editors
-
-Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston ?????
+**Series Editors**
+<br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston ?????
 
 Published by Goldsmiths, University of London
+<br></br>
+<img src="/static/images/backcover/goldsmiths_logo.png" style="width: 120px; height: auto;">
 
-Copyright (include logo) - 2026
-
+Copyright - 2026
 Creative Commons version…
 
 ISBN ….
-
+<br>
 DOI …

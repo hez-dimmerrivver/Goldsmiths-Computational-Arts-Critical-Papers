@@ -63,6 +63,8 @@ On one hand, algorithms erase prestress. Feature extraction and data scraping re
 On the other hand, algorithms erase load. The loss function minimizes the error between predicted and actual values (Goodfellow, Bengio, and Courville 2016), while prediction pre-empts conflict before it occurs. As Zuboff argues, surveillance capitalism extracts profit by eliminating the uncertainty of behaviour in advance (Zuboff 2023). The external forces the subject would have borne are intercepted before frustration can occur: desire is filled in before it can be denied.
 
 When both components are withdrawn, the tension field slackens and the subject falls into weightlessness: the internal opposing force that maintains its form disappears. And because pain was the felt result of friction, eliminating friction eliminates pain along with it, and the dismantling is undergone, from inside, as comfort. Opposition is precisely one of the elements by which a structure takes shape.
+
+<br></br>
 <br></br>
 <br></br>
 <br></br>

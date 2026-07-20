@@ -10,10 +10,36 @@ The peculiarity of computation -at once an infrastructure, a methodology, a tool
 
 As those who learn but are not machines; as those whose experience cannot be reduced to input and whose artistic experimentation cannot be encoded as output, Goldsmiths’ Computational Arts students at take these questions in their own hands. They probe at computation to identify its dimensions, tensions, and possibilities, and in doing so contribute to shape the field of investigation from the ground up.
 
-- CACP is designed and edited by the students of the Computational Arts MA and MFA programme. All contributions have undergone an internal peer-review process.
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
-Dr Mattia Paganelli, MA/MFA Research & Theory Associate
+\* CACP is designed and edited by the students of the Computational Arts MA and MFA programme. All contributions have undergone an internal peer-review process.
 
-Dr. Rachel Falconer, Head of Subject, Creative Technology
+<div class="divider"></div>
 
-Rebecca Aston, Co-Head of the MA/MFA Computational Arts
+<div style="display: flex; width: 100%;">
+ <!-- left -->
+  <div style="width: 33%;   box-sizing: border-box;">
+    <h4 >Dr Mattia Paganelli,</h4>
+    MA/MFA Research & <br>Theory Associate
+
+  </div>
+  
+  <!-- center -->
+  <div style="width: 33%; padding-left: 20px; box-sizing: border-box;">
+    <h4 >Dr. Rachel Falconer,</h4> 
+    Head of Subject, Creative Technology
+  </div>
+
+  <!-- right -->
+  <div style="width: 33%; padding-left: 50px; box-sizing: border-box;">
+    <h4 >Rebecca Aston,</h4>
+    Co-Head of the MA/MFA Computational Arts
+  </div>
+</div>

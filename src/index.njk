@@ -3,20 +3,9 @@ layout: book.njk
 title: Computational Arts Critical Papers 
 ---
 
-<section style="
-  margin: -14mm -20mm -20mm -20mm;
-  width: 210mm;
-  height: 297mm;
-  
-  background-image: url('/static/images/cover/cover.png'); 
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-">
+<section style="page: cover; break-after: page;">
+  <span>&nbsp;</span>
+</section>
 
 
   <header>
@@ -25,7 +14,21 @@ title: Computational Arts Critical Papers
 </section>
 
 {# Innercover #}
-<div class="page-break-blank"></div>
+<div class="page-break-blank" style="
+  visibility: visible; 
+  height: 297mm; 
+  width: 210mm; 
+  position: relative;
+  break-after: avoid !important;
+  page-break-after: avoid !important;
+">
+   
+<section style="page: cover; break-after: page;">
+  <span>&nbsp;</span>
+</section>
+  
+</div>
+
 
 {# All back matter pages #}
 {% include "sections/conclusion.njk" %}
@@ -44,7 +47,20 @@ title: Computational Arts Critical Papers
 {% include "sections/category03.njk" %}
 
 {# Innercover #}
-<div class="page-break-blank"></div>
+<div class="page-break-blank" style="
+  visibility: visible; 
+  height: 297mm; 
+  width: 210mm; 
+  position: relative;
+  break-after: avoid !important;
+  page-break-after: avoid !important;
+">
+   
+<section style="page: cover; break-after: page;">
+  <span>&nbsp;</span>
+</section>
+  
+</div>
 {# backcover #}
 {% include "sections/back-cover.njk" %}
 

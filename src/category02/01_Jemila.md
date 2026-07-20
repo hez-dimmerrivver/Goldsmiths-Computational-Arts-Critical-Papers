@@ -75,7 +75,7 @@ Despite this, we need to keep reminding ourselves about the purpose that art is 
 Indeed, the impact of AI is a serious societal and needless to mention - environmental issue (MIT 2025). Despite this, we must all tackle it with a shared vision to protect the rights of artists and the general developmental and intellectual well-being of our society.  
  All things considered, the first major steps we need to take as a society are to create regulations to protect artists and put safety measures in place that actually have the best interest of the wider community at the center. Leaving these decisions at the hands of the CEOs of big tech companies who seem to have less and less interest in being humane and socially conscious is a guaranteed way for things to spin even more out of control.
 
-Before we accept using AI in the artistic creation process, AI models as they are need a massive overhaul. No more should they be ‘Vampire Machines’ (Corral 2023) – these massive, extractive black holes of data, flattening identities and consuming any form of input to the extent of even cannibalising themselves (Vice 2025). 
+Before we accept using AI in the artistic creation process, AI models as they are need a massive overhaul. No more should they be ‘Vampire Machines’ (Corral 2023) – these massive, extractive black holes of data, flattening identities and consuming any form of input to the extent of even cannibalising themselves (Vice 2025).
 Perhaps it might be better to create smaller, more intentional models whose data sets have been more ethically produced and gathered. Models created for a specific purpose, either by the artists themselves or in collaboration with others in their network. This helps to challenge the assumption about whether all things can truly be categorised into text labels in the first place.  
 The purpose of technology should not be trying to ‘solve’ art and make it repeatable or scalable; it should be to provide artists with a way of generating questions that they didn't have before.
 
@@ -98,6 +98,7 @@ Although AI currently seems to be advancing at a speed that feels overwhelming t
 - Iqoqo, 'Reimagining Immersive Storytelling Through African Perspectives: A Conversation with Chipo Mapondera', May 2025 [](https://iqoqo.org/reimagining-immersive-storytelling-through-african-perspectives-a-conversation-with-chipo-mapondera/) [accessed 13 July 2026]
 - MIT News, 'Generative AI's Environmental Impact', 2025 [](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117) [accessed 2 July 2026]
 - Nice Aunties, 2026 [](https://www.niceaunties.com/) [accessed 2 July 2026]
+  <br></br>
 - Sutela, Jenna, 'nimiia cetii', _Somerset House_, 2018 [](https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii) [accessed 2 July 2026]
 - Tangermann, Victor, 'AI "Friend" Startup Overwhelmed With Hatred', _Futurism_, October 2025 [](https://futurism.com/future-society/ai-friend-startup-overwhelmed-hatred) [accessed 2 July 2026]
 - Tenner, Edward, 'Why Being Efficient Is Bad for Your Creativity', _World Economic Forum_, 2019 [](https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/) [accessed 9 July 2026]
