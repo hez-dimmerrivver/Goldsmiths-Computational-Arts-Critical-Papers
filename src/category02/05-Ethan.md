@@ -58,10 +58,12 @@ One risk must be named. Xu Bing's _Book from the Sky_ invented some four thousan
 These characters do not need to be fixed. Aphasia is not an error to correct; it is the trace a training-data power structure leaves on the image. I show the collapse not to improve the model, but because the collapse is testimony. Cultural marginality settles into the loss of readability across viewing distance. From afar it looks like characters; up close, it is ruins. The algorithm does not write. It samples. It forgets. We do not fix aphasia; we let it speak.
 
 </div>
+<br>
 <div class="divider"></div>
 <div class="endnote-container" class="single-column-img">
 
 #### **End Notes**
+
 - Black Forest Labs (2024), _FLUX.1 schnell_ [text-to-image model], Black Forest Labs
 - Chiang, Ted (2023), 'ChatGPT Is a Blurry JPEG of the Web', _The New Yorker_, 9 February
 - Crawford, Kate (2021), _Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence_ (New Haven: Yale University Press)

@@ -64,6 +64,8 @@ What can be established ends here: the hollowing-out has already taken place, em
 - Gallese, Chiara (2026), 'Predictive Policing and Predictive Justice: Ethics, Data Protection, and the AI Act', _Computer Law & Security Review_ 61, 106282, [](https://doi.org/10.1016/j.clsr.2026.106282)
 - Hildebrandt, Mireille (2015), _Smart Technologies and the End(s) of Law: Novel Entanglements of Law and Technology_ (Cheltenham: Edward Elgar)
 - Hildebrandt, Mireille (2016), 'Law as Information in the Era of Data-Driven Agency', _The Modern Law Review_ 79.1, 1–30, [](https://doi.org/10.1111/1468-2230.12165)
+  <br></br>
+  <br></br>
 - Rouvroy, Antoinette, and Thomas Berns (2013), 'Algorithmic Governmentality and Prospects of Emancipation: Disparateness as a Precondition for Individuation Through Relationships?', trans. by Elizabeth Libbrecht, _Réseaux_ 177.1, 163–96, [](https://doi.org/10.3917/res.177.0163)
 - Saunders, Jessica, Priscillia Hunt, and John S. Hollywood (2016), 'Predictions Put into Practice: A Quasi-Experimental Evaluation of Chicago's Predictive Policing Pilot', _Journal of Experimental Criminology_ 12.3, 347–71, [](https://doi.org/10.1007/s11292-016-9272-0)
 - Yurrita, Mireia, and others (2025), 'Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability', _Proceedings of the ACM on Human-Computer Interaction_ 9.7, CSCW234, [](https://doi.org/10.1145/3757415)

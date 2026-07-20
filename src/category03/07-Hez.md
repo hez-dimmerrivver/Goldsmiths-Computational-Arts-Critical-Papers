@@ -16,6 +16,7 @@ name: Jiang He Zhang (Hez)
 
 <div class="body-text">
 Why are humans so obsessed with precise time? Everything we rely on such as communication, financial markets, and even war depends on precise time working flawlessly. From sundials to atomic clocks with GPS systems (Johnsen 2024), we have spent centuries trying to reduce natural variation and human error for the timekeeping system.
+<br></br>
 
 **//- \- Past to Now \- \-**  
 **//From Human Perception of Time to Machine Readable Time**
@@ -45,6 +46,7 @@ GPS is not only a positioning system but also a time synchronization infrastruct
 
 <img src="/static/images/Hez/image4.png" class="single-column-img">
 The image shows a live GPS interference map (GPSwise n.d.).
+<br></br>
 
 **// Visualisation of Misalignment**
 

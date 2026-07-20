@@ -88,4 +88,11 @@ the computer is not the time in which the pigeon lives. The machine proceeds by 
 
 </div>
 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <img src="/static/images/Yumi/image6.png">

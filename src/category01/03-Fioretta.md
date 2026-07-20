@@ -10,6 +10,7 @@ name: Keyi Zhang (Fioretta)
 # Onycho Lab Artificial Nails as Bodily Technology
 
 <div class="body-text">
+
 How do we determine the boundaries of the human body? When are these boundaries violated?
 
 This question began for me with a daily life experience: wearing long artificial nails. Every time I get nail extensions, my hands feel strange for at least two or three weeks. My fingers seem longer than before. The distance I can reach changes. My gestures become slower, more cautious, sometimes less functional. I type differently, pick up objects differently, and touch surfaces with a slightly altered awareness. When the nails are removed, my body must recalibrate again. My fingers feel shorter. The world seems to return to a previous distance. This small cosmetic modification produces a temporary illusion: my brain begins to treat an artificial extension as part of the body.
