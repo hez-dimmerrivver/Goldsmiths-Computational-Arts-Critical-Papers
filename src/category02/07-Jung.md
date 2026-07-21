@@ -33,10 +33,10 @@ The mirror paradigm naturalises this difference away. By presenting both as kind
 
 #### **End Notes**
 
-- Bergson, Henri (1911), _Matter and Memory_, trans. by N. M. Paul and W. S. Palmer (London: George Allen and Unwin), 44–68
+- Bergson, Henri (1911), _Matter and Memory_, trans. by N. M. Paul and W. S. Palmer (London: George Allen and Unwin)
 - Clark, Andy (2013), ‘Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science’, _Behavioral and Brain Sciences_ 36.3, 181–204
 - Crawford, Kate, and Trevor Paglen (2019), ‘Excavating AI: The Politics of Training Sets for Machine Learning’, _Excavating AI_, 19 September, [](https://excavating.ai/) [accessed January 2025]
 - Haraway, Donna (1991), ‘Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective’, in _Simians, Cyborgs, and Women: The Reinvention of Nature_ (New York: Routledge), 183–201
-- Merleau-Ponty, Maurice (1962), _Phenomenology of Perception_, trans. by Colin Smith (London: Routledge), 98–173
-- Rorty, Richard (1979), _Philosophy and the Mirror of Nature_ (Princeton: Princeton University Press), 3–69, 315–94
-- Sluis, Katrina (2019), ‘What Does the Database Want?’, lecture and publication, The Photographers' Gallery, London
+- Merleau-Ponty, Maurice (1962), _Phenomenology of Perception_, trans. by Colin Smith (London: Routledge)
+- Rorty, Richard (1979), _Philosophy and the Mirror of Nature_ (Princeton: Princeton University Press)
+- Sluis, Katrina (2019), ‘What Does the Dataset Want?’, lecture and publication, The Photographers' Gallery, London
