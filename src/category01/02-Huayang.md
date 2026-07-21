@@ -47,6 +47,8 @@ A slowly drifting baseline gives the system memory: salience is computed relativ
 
 <img src="/static/images/Huayang/image_02.png" class="single-column-img">
 
+<br />
+
 **Rethinking of the Biological Boundary**
 
 If an _Umwelt_ emerges through relation rather than biological substance, the line between living and artificial systems grows unstable. What seems unique to organisms may depend less on organic material than on the capacity to enter dynamic relations with a world, an inversion that echoes Turing's imitation game, now known as the Turing test, which displaced the question of what a machine is with what it can do in relation to others (Turing 1950). Reconsidering the boundary, then, does not mean declaring the installation alive. It means treating agency, adaptation, and environmental engagement not as properties a thing either has or lacks, but as capacities that admit of degree, distributed along a continuum rather than sorted into a binary. This reframing raises questions it does not settle: how much self-modification, or how open a world would a system need before we granted it something stronger than an operational _Umwelt_? Where, along that continuum, do our existing categories begin to fail? Embodied computational systems do not answer such questions. Their value is that they make the questions unavoidable.
