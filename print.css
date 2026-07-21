@@ -84,6 +84,12 @@
     font-family: "Sligoil";
     src: url("static/fonts/Sligoil-MicroMedium.ttf");
 }
+
+/*monaspace font, used in Zihan and Mikhail & Savannah's text*/  
+@font-face {
+    font-family: "monaspace";
+    src: url("static/fonts/MonaspaceXenonNF-Regular.otf");
+}
    
    
 /*///////////// PAGED JS RULES ///////////////*/
