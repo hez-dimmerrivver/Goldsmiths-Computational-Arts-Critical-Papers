@@ -5,7 +5,7 @@ name: Yihang Zhang
 
 <div class="chapter-two">
 
-##### 張一航 Yihang Zhang
+##### 張翊航 Yihang Zhang
 
 # The Aphasic Manifesto
 
@@ -49,6 +49,7 @@ I set this out as a diptych. On one side, the six traditional characters, correc
 This descent is neither random nor a mere technical flaw; it is a visible register of power. Crawford argues that machine classification is never neutral: it records who holds weight in the world of data (Crawford 2021). The claim that such classification is objective is what Haraway calls the god trick, a view from nowhere that hides the position it speaks from (Haraway 1988). To stage this at small scale, I trained a CNN on a deliberately skewed set, 95% Latin characters to 5% Chinese. The training curve records the result plainly: the Latin class reaches near-perfect accuracy in the first epoch and holds there; the Chinese class oscillates and recovers more slowly, never closing the gap. It is a conceptual reenactment, not forensic proof, but the shape of the gap is the argument.
 
 <img src="/static/images/Ethan/image4.png" style="display: block; margin: 0 auto; width: 75%;">
+
 Tsang Tsou-choi, the self-styled Kowloon Emperor, brushed his name and lineage across Hong Kong: utility boxes, road signs, walls (Tsang 1990s). The authorities cleared it as graffiti, refusing to read it as writing. My collapsed characters and his wall-names share a fate, unread by the system, one processed as graffiti, the other as noise. The algorithm does not fail to see 處; it meets an unfamiliar symbol and substitutes the nearest known one. In every classificatory system, marginal writing is not processed: it is overwritten.
 
 What appears here is Glissant's right to opacity, but reversed. His right to opacity is claimed by a subject: the refusal to be made fully legible to colonial power. My characters are the inverse. Their opacity is not claimed but imposed; the statistics of the dataset, not the characters, made them unreadable. The model grants them visibility without readability: a shape appears, the stroke logic is gone. That is why their opacity is evidence of marginalisation, not resistance. The reversal happens in the act of naming. The characters do not resist; I resist on their behalf, by refusing to correct them and by calling their collapse a manifesto. The right to opacity is claimed by me, for them, after the fact.
