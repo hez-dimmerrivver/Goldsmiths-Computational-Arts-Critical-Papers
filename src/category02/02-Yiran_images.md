@@ -71,3 +71,5 @@ What can be established ends here: the hollowing-out has already taken place, em
 - Yurrita, Mireia, and others (2025), 'Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability', _Proceedings of the ACM on Human-Computer Interaction_ 9.7, CSCW234, [](https://doi.org/10.1145/3757415)
 
 </div>
+
+</div> <!-- closes .chapter-two -->

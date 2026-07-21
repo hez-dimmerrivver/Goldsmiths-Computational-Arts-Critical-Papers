@@ -128,3 +128,6 @@ E-mail for correspondence: savannah.r.perry@gmail.com
 - Pickering, Andrew (2010), _The Mangle of Practice: Time, Agency, and Science_ (Chicago: University of Chicago Press)
 - Rheinberger, Hans-Jörg (1997), _Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube_ (Stanford, CA: Stanford University Press)
 - Shannon, Claude E. (1938), ‘A Symbolic Analysis of Relay and Switching Circuits’, _Transactions of the American Institute of Electrical Engineers_ 57, 713–23
+
+</div> <!-- closes .endnote-container -->
+</div> <!-- closes .chapter-two -->

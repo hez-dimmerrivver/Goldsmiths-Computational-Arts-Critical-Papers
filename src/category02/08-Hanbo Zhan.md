@@ -93,3 +93,5 @@ The persistence of the subject relies on alterity as prestress and on the frustr
 - Žižek, Slavoj (2009), _The Sublime Object of Ideology_ (London: Verso Books)
 
 </div>
+
+</div> <!-- closes .chapter-two -->

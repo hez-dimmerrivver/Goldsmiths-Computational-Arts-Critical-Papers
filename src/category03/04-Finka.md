@@ -76,3 +76,5 @@ This is where the Measures are both important and limited. They can require plat
 - QuestMobile (2026), ‘QuestMobile2026年一季度AI应用洞察 [QuestMobile 2026 Q1 AI Application Insights]’, _QuestMobile_, 21 April, [](https://www.questmobile.com.cn/research/report/2046482337382842370/) [accessed 5 July 2026]
 - Skjuve, Marita, and others (2022), ‘A Longitudinal Study of Human–Chatbot Relationships’, _International Journal of Human-Computer Studies_ 168, 102903, [](https://doi.org/10.1016/j.ijhcs.2022.102903)
 </div>
+
+</div> <!-- closes .chapter-three -->

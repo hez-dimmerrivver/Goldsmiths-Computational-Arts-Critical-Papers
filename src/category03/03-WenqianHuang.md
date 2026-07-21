@@ -73,3 +73,5 @@ Through this chain of transformations, a contemporary way of seeing the city bec
 - Bolter, Jay David, and Richard Grusin (1998), _Remediation: Understanding New Media_ (Cambridge, MA: MIT Press)
 - Bratton, Benjamin H. (2016), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press)
 </div>
+
+</div> <!-- closes .chapter-three -->

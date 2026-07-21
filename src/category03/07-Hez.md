@@ -90,3 +90,5 @@ What time is it now? It’s time to wrap up. We embrace technology, but maintain
 - Workman, Dennis L. (n.d.), 'GPS and Telling Time', _GPS.gov_, Trimble Component Technologies Division, [](https://www.gps.gov/gps-and-telling-time) [accessed 17 June 2026]
 
 </div>
+
+</div> <!-- closes .chapter-three -->

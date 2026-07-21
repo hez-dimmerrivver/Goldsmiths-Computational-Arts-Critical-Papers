@@ -96,3 +96,5 @@ the computer is not the time in which the pigeon lives. The machine proceeds by 
 <br></br>
 <br></br>
 <img src="/static/images/Yumi/image6.png">
+
+</div> <!-- closes .chapter-two -->

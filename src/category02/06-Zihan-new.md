@@ -70,3 +70,5 @@ The train arrived at the platform. My colleague was still refining his prompt as
 - Wagner, Laura, and Eva Cetinic, ‘Perpetuating Misogyny with Generative AI: How Model Personalization Normalizes Gendered Harm’, arXiv:2505.04600, preprint, arXiv, 20 May 2025, doi:10.48550/arXiv.2505.04600
 
 </div>
+
+</div> <!-- closes .chapter-two -->
