@@ -13,20 +13,14 @@ title: Colophon
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 **Title**
 <br>Computational Art Critical Papers: f0rm1ess, 2026
 
-**Design**
+**Designed by**
 <br>Fran Hayes, Haiyi Xiao, Hanbo Zhan, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Yiho Li, Yiming, Yuxin Zhang, Zhenzhen Xie, Zihe Zheng
 
-**Editorial**
+**Edited by**
 <br>Fran Hayes, Michaella Miller, Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Yiming, Yiran Jiao, Zhenzhen Xie, Zhuzhu Xie
 
 **Contributors**
