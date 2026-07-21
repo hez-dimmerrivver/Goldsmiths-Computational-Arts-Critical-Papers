@@ -60,7 +60,7 @@ It is precisely this doubled position that makes me more aware than anyone else 
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### End Notes
+#### **Bibliography**
 - Behar, Katherine (2018), ‘Personalities Without People’, _The Occulture_, 21 March, [](https://www.theocculture.net/personalities-without-people-guest-post-by-katherine-behar/) [accessed 6 July 2026]
 - Latour, Bruno (2005), _Reassembling the Social: An Introduction to Actor-Network-Theory_ (Oxford: Oxford University Press), [](https://doi.org/10.1093/oso/9780199256044.001.0001)
 - Valve Corporation (n.d.), ‘Steam Web API Documentation’, _Steam Community_, [](https://steamcommunity.com/dev) [accessed 6 July 2026]

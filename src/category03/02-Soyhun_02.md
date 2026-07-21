@@ -53,7 +53,7 @@ Lost rivers still redirect water, shape the ground, and give homes to countless 
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Daniel, Mariely H. B., and others (2002), 'Effects of Urban Sewage on Dissolved Oxygen, Dissolved Inorganic and Organic Carbon, and Electrical Conductivity of Small Streams along a Gradient of Urbanization in the Piracicaba River Basin', _Water, Air, and Soil Pollution_ 136.1–4, 189–206
 - Davis, Heather, and Etienne Turpin, eds (2015), _Art in the Anthropocene: Encounters among Aesthetics, Politics, Environments and Epistemologies_, Critical Climate Change (London: Open Humanities Press)

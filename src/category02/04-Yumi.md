@@ -77,7 +77,7 @@ the computer is not the time in which the pigeon lives. The machine proceeds by 
 
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Bergson, Henri (1911), _Matter and Memory_, trans. by N. M. Paul and W. S. Palmer (London: George Allen & Unwin)
 - Bergson, Henri (2001), _Time and Free Will: An Essay on the Immediate Data of Consciousness_, trans. by F. L. Pogson (Mineola, NY: Dover Publications)

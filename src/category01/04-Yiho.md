@@ -81,7 +81,7 @@ Tracing the genealogy of the portal reveals that humanity has always had that fa
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Berger, John (1972), _Ways of Seeing_ (London: Penguin Books)
 - Christus, Petrus (1449), _A Goldsmith in His Shop_, oil on oak panel, Metropolitan Museum of Art, New York

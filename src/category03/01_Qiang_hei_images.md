@@ -61,7 +61,7 @@ From this perspective, the artistic logic of DRIFTING is not to preserve Quan'er
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Bratton, Benjamin H. (2015), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press)
 - Debord, Guy (2006), ‘Theory of the Dérive’, in _Situationist International Anthology_, ed. and trans. by Ken Knabb, rev. and expanded edn (Berkeley, CA: Bureau of Public Secrets), 62–66

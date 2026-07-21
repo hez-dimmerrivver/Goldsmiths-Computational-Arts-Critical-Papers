@@ -68,7 +68,7 @@ This is where the Measures are both important and limited. They can require plat
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Chen, Yexin, Jiong Bai, and Tingting Sun (2026), ‘People’s Report: When Children “Open Their Hearts” to AI’, _People.com.cn_, 1 March, [](http://society.people.com.cn/n1/2026/0301/c428181-40672396.html) [accessed 24 April 2026]
 - Cyberspace Administration of China (2026), ‘人工智能拟人化互动服务管理暂行办法 [Interim Measures for the Administration of AI Anthropomorphic Interactive Services]’, _Cyberspace Administration of China_, 10 April, [](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm) [accessed 24 April 2026]

@@ -66,7 +66,7 @@ These questions inevitably return to my own role as the designer. If I decide wh
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Clark, Andy (2003), _Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence_ (Oxford: Oxford University Press)
 - Clark, Andy, and David Chalmers (1998), 'The Extended Mind', _Analysis_ 58.1, 7–19

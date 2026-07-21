@@ -62,7 +62,7 @@ These characters do not need to be fixed. Aphasia is not an error to correct; it
 <div class="divider"></div>
 <div class="endnote-container" class="single-column-img">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Black Forest Labs (2024), _FLUX.1 schnell_ [text-to-image model], Black Forest Labs
 - Chiang, Ted (2023), 'ChatGPT Is a Blurry JPEG of the Web', _The New Yorker_, 9 February

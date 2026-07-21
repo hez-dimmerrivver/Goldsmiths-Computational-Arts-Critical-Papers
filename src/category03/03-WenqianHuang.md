@@ -68,7 +68,7 @@ Through this chain of transformations, a contemporary way of seeing the city bec
 <div class="divider"></div>
 <div class="endnote-container">
   
-#### End Notes
+#### **Bibliography**
 - Benjamin, Walter (1999), _The Arcades Project_, trans. by Howard Eiland and Kevin McLaughlin (Cambridge, MA: Belknap Press of Harvard University Press)
 - Bolter, Jay David, and Richard Grusin (1998), _Remediation: Understanding New Media_ (Cambridge, MA: MIT Press)
 - Bratton, Benjamin H. (2016), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press)
