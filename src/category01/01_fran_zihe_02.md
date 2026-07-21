@@ -222,7 +222,6 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 - Agüera y Arcas, Blaise (2025c), _What Is Intelligence?_, _Antikythera_, [](https://doi.org/10.1162/ANTI.5CZB) [accessed 9 July 2026]
 - Conway's Game of Life (n.d.), 'Play John Conway's Game of Life', _Conway's Game of Life_, [](https://playgameoflife.com/) [accessed 10 July 2026]
 - Donovan, Tara (n.d.), 'Tara Donovan', _Pace Gallery_, [](https://www.pacegallery.com/artists/tara-donovan/) [accessed 16 June 2026]
-  <br></br>
 - Golding, Johnny, Martin Reinhart, and Mattia Paganelli (2020), 'Introduction', in _Data Loam: Sometimes Hard, Usually Soft. The Future of Knowledge Systems_, ed. by Johnny Golding, Martin Reinhart, and Mattia Paganelli (Berlin: De Gruyter)
 - Haraway, Donna J. (2016), _Staying with the Trouble: Making Kin in the Chthulucene_ (Durham, NC: Duke University Press)
 - Jenson, Sage (n.d.), 'Physarum', _Cargo Collective_, [](https://cargocollective.com/sagejenson/physarum) [accessed 10 July 2026]

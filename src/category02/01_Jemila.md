@@ -98,7 +98,6 @@ Although AI currently seems to be advancing at a speed that feels overwhelming t
 - Iqoqo, 'Reimagining Immersive Storytelling Through African Perspectives: A Conversation with Chipo Mapondera', May 2025 [](https://iqoqo.org/reimagining-immersive-storytelling-through-african-perspectives-a-conversation-with-chipo-mapondera/) [accessed 13 July 2026]
 - MIT News, 'Generative AI's Environmental Impact', 2025 [](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117) [accessed 2 July 2026]
 - Nice Aunties, 2026 [](https://www.niceaunties.com/) [accessed 2 July 2026]
-  <br></br>
 - Sutela, Jenna, 'nimiia cetii', _Somerset House_, 2018 [](https://www.somersethouse.org.uk/whats-on/jenna-sutela-nimiia-cetii) [accessed 2 July 2026]
 - Tangermann, Victor, 'AI "Friend" Startup Overwhelmed With Hatred', _Futurism_, October 2025 [](https://futurism.com/future-society/ai-friend-startup-overwhelmed-hatred) [accessed 2 July 2026]
 - Tenner, Edward, 'Why Being Efficient Is Bad for Your Creativity', _World Economic Forum_, 2019 [](https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/) [accessed 9 July 2026]
