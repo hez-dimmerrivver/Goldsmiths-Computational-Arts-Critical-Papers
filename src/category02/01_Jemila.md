@@ -104,3 +104,6 @@ Although AI currently seems to be advancing at a speed that feels overwhelming t
 - Tenner, Edward, 'Why Being Efficient Is Bad for Your Creativity', _World Economic Forum_, 2019 [](https://www.weforum.org/stories/2019/04/unlocking-the-creative-value-of-inefficiency/) [accessed 9 July 2026]
 - Vice, 'AI Models Are Cannibalising Each Other', June 2025 [](https://www.vice.com/en/article/ai-models-are-cannibalizing-each-other-and-it-might-destroy-them/) [accessed 9 July 2026]
 - Wikipedia, 'Artificial Intelligence', 2026 [](https://en.wikipedia.org/wiki/Artificial_intelligence) [accessed 9 July 2026]
+
+</div> <!-- closes .endnote-container -->
+</div> <!-- closes .chapter-two -->

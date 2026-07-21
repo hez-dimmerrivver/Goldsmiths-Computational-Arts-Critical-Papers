@@ -117,3 +117,6 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
 - Weyl, E. Glen, and Eric A. Posner (2018), _Radical Markets: Uprooting Capitalism and Democracy for a Just Society_ (Princeton: Princeton University Press)
 - Woodcock, J. (2021), ‘The Limits of Algorithmic Management’, _South Atlantic Quarterly_ 120.4, 703–13
 - Zuboff, Shoshana (2015), ‘Big Other: Surveillance Capitalism and the Prospects of an Information Civilization’, _Journal of Information Technology_ 30.1, 75–89
+
+</div> <!-- closes .endnote-container -->
+</div> <!-- closes .chapter-three -->

@@ -99,3 +99,5 @@ Tracing the genealogy of the portal reveals that humanity has always had that fa
 - VRChat Inc. (2017), _VRChat_ (San Francisco: VRChat Inc.)
 
 </div>
+
+</div> <!-- closes .chapter-one -->

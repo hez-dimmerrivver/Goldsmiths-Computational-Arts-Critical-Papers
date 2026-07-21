@@ -50,6 +50,8 @@ Lost rivers still redirect water, shape the ground, and give homes to countless 
 
 ####
 
+</div> <!-- closes .body-text -->
+
 <div class="divider"></div>
 <div class="endnote-container">
 
@@ -66,3 +68,5 @@ Lost rivers still redirect water, shape the ground, and give homes to countless 
 - United Nations Department of Economic and Social Affairs (2025), _World Urbanization Prospects 2025: Summary of Results_ (New York: United Nations)
 
 </div>
+
+</div> <!-- closes .chapter-three -->

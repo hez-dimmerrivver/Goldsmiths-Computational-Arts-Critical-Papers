@@ -69,3 +69,6 @@ From this perspective, the artistic logic of DRIFTING is not to preserve Quan'er
 - Gabrys, Jennifer (2016), _Program Earth: Environmental Sensing Technology and the Making of a Computational Planet_ (Minneapolis: University of Minnesota Press)
 - Haraway, Donna J. (1988), ‘Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective’, _Feminist Studies_ 14.3, 575–99
 - Kurgan, Laura (2013), _Close Up at a Distance: Mapping, Technology, and Politics_ (New York: Zone Books)
+
+</div> <!-- closes .endnote-container -->
+</div> <!-- closes .chapter-three -->

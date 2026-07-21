@@ -40,3 +40,6 @@ The mirror paradigm naturalises this difference away. By presenting both as kind
 - Merleau-Ponty, Maurice (1962), _Phenomenology of Perception_, trans. by Colin Smith (London: Routledge)
 - Rorty, Richard (1979), _Philosophy and the Mirror of Nature_ (Princeton: Princeton University Press)
 - Sluis, Katrina (2019), ‘What Does the Dataset Want?’, lecture and publication, The Photographers' Gallery, London
+
+</div> <!-- closes .endnote-container -->
+</div> <!-- closes .chapter-two -->

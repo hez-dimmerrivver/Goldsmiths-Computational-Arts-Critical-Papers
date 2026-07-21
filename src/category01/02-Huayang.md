@@ -73,3 +73,5 @@ An Umwelt, this paper has argued, is not a pre-given environment but a relationa
 - Wiener, N. (1948) Cybernetics: or Control and Communication in the Animal and the Machine. Cambridge, MA: MIT Press.
 
 </div>
+
+</div> <!-- closes .chapter-one -->

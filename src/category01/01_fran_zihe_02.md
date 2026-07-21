@@ -231,3 +231,5 @@ The yarn is data/information. the hands behave as a slow compiler. mutations.bod
 - NCBI (n.d.), 'Homo sapiens mitochondrion, complete genome - Nucleotide', _NCBI_, [](https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta) [accessed 9 July 2026]
 - WomenTech Network (2026), 'Women in Tech Stats', _WomenTech Network_, [](https://www.womentech.net/women-in-tech-stats) [accessed 9 July 2026]
 </div>
+
+</div> <!-- closes .chapter-one -->

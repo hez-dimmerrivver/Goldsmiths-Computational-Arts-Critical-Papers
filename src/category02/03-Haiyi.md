@@ -67,3 +67,5 @@ It is precisely this doubled position that makes me more aware than anyone else 
 - van Dijck, José (2013), _The Culture of Connectivity: A Critical History of Social Media_ (Oxford: Oxford University Press), [](https://doi.org/10.1093/acprof:oso/9780199970773.001.0001)
 
 </div>
+
+</div> <!-- closes .chapter-two -->

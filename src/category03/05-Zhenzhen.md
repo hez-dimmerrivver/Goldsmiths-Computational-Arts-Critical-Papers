@@ -70,3 +70,6 @@ Online mass divination is not simply a digital version of an old spiritual pract
 - Pasquinelli, Matteo (2019), 'Three Thousand Years of Algorithmic Rituals: The Emergence of AI from the Computation of Space', _e-flux Journal_ 101, [](https://www.e-flux.com/journal/101/273221/three-thousand-years-of-algorithmic-rituals-the-emergence-of-ai-from-the-computation-of-space) [accessed 7 May 2026]
 - Rouvroy, Antoinette, and Thomas Berns (2013), 'Algorithmic Governmentality and Prospects of Emancipation: Disparateness as a Precondition for Individuation through Relationships?', trans. by Liz Carey-Libbrecht, _Réseaux_ 177.1, 163–96, [](https://doi.org/10.3917/res.177.0163)
 - Zuboff, Shoshana (2020), _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_ (New York: PublicAffairs)
+
+</div> <!-- closes .endnote-container -->
+</div> <!-- closes .chapter-three -->
