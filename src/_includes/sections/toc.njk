@@ -5,7 +5,11 @@
   {% for section in collections.book | groupBySectionOrder %}
     {% if section.tocNested %}
       <div class="divider"></div>
-      <h3>{{ section.title }}</h3>
+      {% if section.folder == "category01" or section.folder == "category02" or section.folder == "category03" %}
+        <h3><a href="#{{ section.folder }}">{{ section.title }}</a></h3>
+      {% else %}
+        <h3>{{ section.title }}</h3>
+      {% endif %}
       
       {% for chapter in section.chapters %}
         {# Skip rendering if the chapter title is "Preface" or "Colophon" #}

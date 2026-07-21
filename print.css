@@ -273,6 +273,13 @@ body {
     page: chapter;
 }
 
+/* Keep main-category TOC anchors on the articles' actual opening pages. */
+#category01 > .chapter,
+#category02 > .chapter,
+#category03 > .chapter {
+    break-before: page;
+}
+
 .chapter .body-text{
     column-count: 2;
     column-gap: 10mm;
@@ -342,6 +349,18 @@ a:not(.toc a):after {
 .toc a::after {
     content: " " target-counter(attr(href url), page);
     margin-left: auto;             /* page number right */
+}
+
+/* Match section page numbers to regular TOC entries and align them to the heading baseline. */
+.toc h3 a {
+    align-items: baseline;
+}
+
+.toc h3 a::after {
+    font-family: 'typewcond_regular', sans-serif;
+    font-size: 12pt;
+    font-weight: normal;
+    line-height: 1.2em;
 }
 
 code {    
@@ -429,7 +448,6 @@ h5 {
     font-family: 'typewcond_regular';       
     font-weight: normal;
     text-align: center;
-    page-break-before: always;/*new page for every submission title*/
     margin-top: 0.6em;
     margin-bottom: 1.1em;
 }
