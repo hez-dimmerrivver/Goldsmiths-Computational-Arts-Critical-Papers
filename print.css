@@ -209,8 +209,8 @@ body {
     margin-bottom: 0.6em !important; 
 }
 
+/* Bibliographies sit outside the two-column body; column-span breaks Paged.js list fragmentation. */
 .endnote-container {
-    column-span: all; 
     font-size: 9pt !important;
     letter-spacing: -0.03em;
     line-height: 1.1em;
@@ -223,6 +223,12 @@ body {
 .endnote-container p {
     margin-top: -0em;
     margin-bottom: 0em;   
+}
+
+/* Keep each bibliography entry intact when content flows onto a new page. */
+.endnote-container li {
+    break-inside: avoid;
+    page-break-inside: avoid;
 }
 
 .endnote-container h4 {
