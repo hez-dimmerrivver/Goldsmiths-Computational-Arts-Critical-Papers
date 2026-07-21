@@ -36,11 +36,10 @@ Published by Goldsmiths, University of London
 <br></br>
 <img src="/static/images/backcover/goldsmiths_logo.png" style="width: 120px; height: auto;">
 
-Copyright - 2026
-Creative Commons version…
+Licensed under CC BY-NC-SA 4.0 © 2026
 
 ISBN ….
 <br>
-DOI …
+DOI 10.25602/GOLD.00040726
 
 </div> <!-- closes .page-break-blank -->

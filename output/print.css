@@ -84,6 +84,12 @@
     font-family: "Sligoil";
     src: url("static/fonts/Sligoil-MicroMedium.ttf");
 }
+
+/*monaspace font, used in Zihan and Mikhail & Savannah's text*/  
+@font-face {
+    font-family: "monaspace";
+    src: url("static/fonts/MonaspaceXenonNF-Regular.otf");
+}
    
    
 /*///////////// PAGED JS RULES ///////////////*/
@@ -107,7 +113,7 @@
     color: #787878
   }
     @left-middle {
-    content: "Volume 1: f0rm1ess";
+    content: "f0rm1ess";
     font-family: "typewcond_regular", sans-serif;
     font-size: 10pt;
     font-weight: 400;
@@ -203,8 +209,8 @@ body {
     margin-bottom: 0.6em !important; 
 }
 
+/* Bibliographies sit outside the two-column body; column-span breaks Paged.js list fragmentation. */
 .endnote-container {
-    column-span: all; 
     font-size: 9pt !important;
     letter-spacing: -0.03em;
     line-height: 1.1em;
@@ -217,6 +223,12 @@ body {
 .endnote-container p {
     margin-top: -0em;
     margin-bottom: 0em;   
+}
+
+/* Keep each bibliography entry intact when content flows onto a new page. */
+.endnote-container li {
+    break-inside: avoid;
+    page-break-inside: avoid;
 }
 
 .endnote-container h4 {
@@ -265,6 +277,13 @@ body {
 
 .chapter {
     page: chapter;
+}
+
+/* Keep main-category TOC anchors on the articles' actual opening pages. */
+#category01 > .chapter,
+#category02 > .chapter,
+#category03 > .chapter {
+    break-before: page;
 }
 
 .chapter .body-text{
@@ -320,6 +339,12 @@ body {
 /* ///////// TABLE OF CONTENTS ///////// */
 .toc{
     break-before: page;
+}
+
+/* Make divider less tall, to keep toc on one page */
+.toc .divider {
+    margin-top: 13px;
+    margin-bottom: 15px;
 }
 
 a:not(.toc a):after {
@@ -423,7 +448,6 @@ h5 {
     font-family: 'typewcond_regular';       
     font-weight: normal;
     text-align: center;
-    page-break-before: always;/*new page for every submission title*/
     margin-top: 0.6em;
     margin-bottom: 1.1em;
 }
@@ -537,7 +561,7 @@ li::before {
 
 /* hinge */
 .pagedjs_right_page:has(#category01_hinge) .pagedjs_margin-top-right-corner {
-  margin-top: 10mm !important;
+  margin-top: 12mm !important;
 }
 
 #category01_hinge h1 {
