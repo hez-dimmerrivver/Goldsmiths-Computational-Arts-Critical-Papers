@@ -21,11 +21,17 @@ title: Colophon
 <br></br>
 
 **Title**
-<br>The Computational Art Critical Papers: f0rm1ess, 2026
+<br>Computational Art Critical Papers: f0rm1ess, 2026
 
-**Editors**
+**Design**
+<br>Fran Hayes, Haiyi Xiao, Hanbo Zhan, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Yiho Li, Yiming, Yuxin Zhang, Zhenzhen Xie, Zihe Zheng
+
+**Editorial**
+<br>Fran Hayes, Michaella Miller, Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Yiming, Yiran Jiao, Zhenzhen Xie, Zhuzhu Xie
+
+**Contributors**
 <br>Goldsmiths MA & MFA Computational Arts Students, 2025-2026
-<br>Ethan Zhang, Fran Hayes, Haiyi Xiao, Hanbo Zhan, Huayang Lei, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Keyi Zhang (Fioretta), Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Stathis Doganis, Wenqian Huang, Yiho li, Yiran Jiao, Yunlong Jue, Yuxin Zhang, Zhenzhen Xie, Zhuzhu Xie, Zihan Mei, Zihe Zheng
+<br>Fran Hayes, Haiyi Xiao, Hanbo Zhan, Huayang Lei, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Keyi Zhang (Fioretta), Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Stathis Doganis, Wenqian Huang, Yihang Zhang, Yiho Li, Yiran Jiao, Yunlong Jue, Yuxin Zhang, Zhenzhen Xie, Zhuzhu Xie, Zihan Mei, Zihe Zheng
 
 **Series Editors**
 <br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston ?????
