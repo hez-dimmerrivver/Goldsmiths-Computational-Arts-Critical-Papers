@@ -113,7 +113,7 @@
     color: #787878
   }
     @left-middle {
-    content: "Volume 1: f0rm1ess";
+    content: "f0rm1ess";
     font-family: "typewcond_regular", sans-serif;
     font-size: 10pt;
     font-weight: 400;
@@ -561,7 +561,7 @@ li::before {
 
 /* hinge */
 .pagedjs_right_page:has(#category01_hinge) .pagedjs_margin-top-right-corner {
-  margin-top: 10mm !important;
+  margin-top: 12mm !important;
 }
 
 #category01_hinge h1 {
