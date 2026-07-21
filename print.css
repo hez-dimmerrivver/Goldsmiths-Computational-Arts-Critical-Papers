@@ -335,6 +335,12 @@ body {
     break-before: page;
 }
 
+/* Make divider less tall, to keep toc on one page */
+.toc .divider {
+    margin-top: 13px;
+    margin-bottom: 15px;
+}
+
 a:not(.toc a):after {
     content:" <" attr(href) ">";
 }
@@ -349,18 +355,6 @@ a:not(.toc a):after {
 .toc a::after {
     content: " " target-counter(attr(href url), page);
     margin-left: auto;             /* page number right */
-}
-
-/* Match section page numbers to regular TOC entries and align them to the heading baseline. */
-.toc h3 a {
-    align-items: baseline;
-}
-
-.toc h3 a::after {
-    font-family: 'typewcond_regular', sans-serif;
-    font-size: 12pt;
-    font-weight: normal;
-    line-height: 1.2em;
 }
 
 code {    
