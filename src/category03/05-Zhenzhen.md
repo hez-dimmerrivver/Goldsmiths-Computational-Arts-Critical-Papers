@@ -58,7 +58,7 @@ Online mass divination is not simply a digital version of an old spiritual pract
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Boyer, Pascal (2020), 'Why Divination?: Evolved Psychology and Strategic Interaction in the Production of Truth', _Current Anthropology_ 61.1, 100–23, [](https://doi.org/10.1086/706879)
 - Cheney-Lippold, John (2011), 'A New Algorithmic Identity: Soft Biopolitics and the Modulation of Control', _Theory, Culture & Society_ 28.6, 164–81, [](https://doi.org/10.1177/0263276411424420)

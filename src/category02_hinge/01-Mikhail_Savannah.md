@@ -111,7 +111,7 @@ E-mail for correspondence: savannah.r.perry@gmail.com
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Agre, Philip E. (1997), ‘Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI’, in _Bridging the Great Divide: Social Science, Technical Systems, and Cooperative Work_, ed. by Geof Bowker and others (Mahwah, NJ: Erlbaum)
 - Binkley, Timothy (1988), ‘The Computer is Not a Medium’, _Philosophic Exchange_ 19.1, 155–73

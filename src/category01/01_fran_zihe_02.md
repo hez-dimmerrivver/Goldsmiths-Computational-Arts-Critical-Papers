@@ -210,12 +210,13 @@ we were wondering how the human errors in the crochet code would cause mutations
 [future swarm]  
 The yarn is data/information. the hands behave as a slow compiler. mutations.bod(y)(ies). Is it a chain stitch or a radical shift? If then nothing, bbbbb bb bbbbbbbbbb missed stitch, extra yarn over, unhandled exception in wool. skipping rows to allocate memory for the body. A#HHHHKKKKKHHKKHa aa aaaaaaaaaaaaaaaaaaH.... A#HHHHHHKKHHKQ....... holes appeared; gaps were filled. Buuuuuuut!!!OVERFLOW:YARN the merging changed us more thaaaaaAAAAAAAaaaan the mutations. Write C://BODY//GENOME.SYS SUCCESS as the feedback loop iterated more and more, the different origins of ourselves became more deeply entangled. you can no longer tell what parts of us were rooted where; we had become enmeshed in ourself.
 
+^‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
+
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
-- ^‘Bodies’ refers to all entities of Earthly origin - human, nonhuman organism, inanimate agent, computational organism, machine etc…
 - Agüera y Arcas, Blaise (2025a), 'Google Researcher Shows Life "Emerges From Code"', interview by Machine Learning Street Talk, _YouTube_, [](https://www.youtube.com/watch?v=rMSEqJ_4EBk) [accessed 8 July 2026]
 - Agüera y Arcas, Blaise (2025b), '"Computational Symbiogenesis" by Blaise Agüera y Arcas', _YouTube_, 20 November, [](https://www.youtube.com/watch?v=g1j5aDSqkjk) [accessed 7 July 2026]
 - Agüera y Arcas, Blaise (2025c), _What Is Intelligence?_, _Antikythera_, [](https://doi.org/10.1162/ANTI.5CZB) [accessed 9 July 2026]

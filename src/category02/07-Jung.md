@@ -31,7 +31,7 @@ The mirror paradigm naturalises this difference away. By presenting both as kind
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Bergson, Henri (1911), _Matter and Memory_, trans. by N. M. Paul and W. S. Palmer (London: George Allen and Unwin)
 - Clark, Andy (2013), ‘Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science’, _Behavioral and Brain Sciences_ 36.3, 181–204

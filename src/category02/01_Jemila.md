@@ -86,7 +86,7 @@ Although AI currently seems to be advancing at a speed that feels overwhelming t
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **END NOTES**
+#### **Bibliography**
 
 - Ahmad, Sayed Fayaz, and others, 'Impact of Artificial Intelligence on Human Loss in Decision Making, Laziness and Safety in Education', _Humanities & Social Sciences Communications_, 10.1 (2023), p. 311, doi:10.1057/s41599-023-01787-8 [](https://pubmed.ncbi.nlm.nih.gov/37325188/) [accessed 7 July 2026]
 - Brunell, Raymond, 'Introducing the AI Friend Necklace: Surveillance Has Never Looked So Cute', _Medium_, June 2025 [](https://raymond-brunell.medium.com/introducing-the-ai-friend-necklace-surveillance-has-never-looked-so-cute-2b576a7ccd77) [accessed 7 July 2026]

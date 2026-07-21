@@ -78,7 +78,7 @@ What time is it now? It’s time to wrap up. We embrace technology, but maintain
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Brown, Justin (2024), 'What is GPS Spoofing? ...And How to Avoid It', _APG_, 29 April, [](https://flyapg.com/blog/what-is-gps-spoofing) [accessed 12 June 2026]
 - GPSwise (n.d.), 'GPSwise: Real-Time GPS Spoofing & Jamming Map', _GPSwise_, [](https://gpswise.aero/) [accessed 14 June 2026]

@@ -48,7 +48,7 @@ The train arrived at the platform. My colleague was still refining his prompt as
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### END NOTES
+#### **Bibliography**
 
 - Albert, Yi, _Danbooru/Danbooru_, Ruby (4 February 2010; Danbooru, 4 July 2026) [](https://github.com/danbooru/danbooru) [accessed 6 July 2026]
 - Azuma, Hiroki, _Otaku: Japan’s Database Animals_ (University of Minnesota Press, 2009)

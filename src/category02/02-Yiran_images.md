@@ -59,7 +59,7 @@ What can be established ends here: the hollowing-out has already taken place, em
 <div class="divider"></div>
 <div class="endnote-container">
 
-#### **End Notes**
+#### **Bibliography**
 
 - Gallese, Chiara (2026), 'Predictive Policing and Predictive Justice: Ethics, Data Protection, and the AI Act', _Computer Law & Security Review_ 61, 106282, [](https://doi.org/10.1016/j.clsr.2026.106282)
 - Hildebrandt, Mireille (2015), _Smart Technologies and the End(s) of Law: Novel Entanglements of Law and Technology_ (Cheltenham: Edward Elgar)

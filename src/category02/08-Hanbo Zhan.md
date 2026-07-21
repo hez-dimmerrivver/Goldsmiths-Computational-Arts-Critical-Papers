@@ -78,7 +78,7 @@ The persistence of the subject relies on alterity as prestress and on the frustr
 <div class="divider"></div>
 <div class="endnote-container">
  
-#### **End Notes**
+#### **Bibliography**
 - Bradski, Gary (2000), ‘The OpenCV Library’, _Dr. Dobb’s Journal: Software Tools for the Professional Programmer_ 25.11, 120–23
 - Calladine, C. R. (1978), ‘Buckminster Fuller’s “Tensegrity” Structures and Clerk Maxwell’s Rules for the Construction of Stiff Frames’, _International Journal of Solids and Structures_ 14.2, 161–72, [](https://doi.org/10.1016/0020-7683(78)90052-5)
 - Deleuze, Gilles (1986), _Cinema 1: The Movement-Image_ (Minneapolis: University of Minnesota Press)

@@ -81,7 +81,7 @@ What sustains all of this is care. To maintain is to repeat. To repeat is to dif
 <div class="divider"></div>
 <div class="endnote-container">
  
-#### **End Notes**
+#### **Bibliography**
 
 - Bolt, Barbara (2004), _Art Beyond Representation: The Performative Power of the Image_ (London: I.B. Tauris)
 - Heidegger, Martin (1962), _Being and Time_, trans. by John Macquarrie and Edward Robinson (Oxford: Blackwell)
