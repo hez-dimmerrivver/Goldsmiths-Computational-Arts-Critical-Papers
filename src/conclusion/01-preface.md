@@ -26,7 +26,7 @@ As those who learn but are not machines; as those whose experience cannot be red
 <div style="display: flex; width: 100%;">
  <!-- left -->
   <div style="width: 33%;   box-sizing: border-box;">
-    <h4 >Dr Mattia Paganelli</h4>
+    <h4 >Dr. Mattia Paganelli</h4>
     MA/MFA Research & <br>Theory Associate
 
   </div>
