@@ -64,18 +64,18 @@ An _Umwelt_, this paper has argued, is not a pre-given environment but a relatio
 
 #### **Bibliography**
 
-- Agüera y Arcas, B. (2025a) _Google Researcher Shows Life "Emerges From Code"_. Interviewed by Machine Learning Street Talk \[video\]. Available at: [https://www.youtube.com/watch?v=rMSEqJ_4EBk](https://www.youtube.com/watch?v=rMSEqJ_4EBk) (Accessed: 20 June 2026).
-- Agüera y Arcas, B. (2025b) _What is Intelligence?_ Antikythera. doi: 10.1162/ANTI.5CZB.
-- Barad, K. (2007) _Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning_. Durham, NC: Duke University Press.
-- Hayles, N.K. (1999) _How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics_. Chicago: University of Chicago Press.
-- Huyghe, P. (2018) _UUmwelt_ \[installation\]. Serpentine Gallery, London, 3 October 2018 – 10 February 2019.
-- Pask, G. (1968) _The Colloquy of Mobiles_ \[installation\]. Exhibited at Cybernetic Serendipity, Institute of Contemporary Arts, London.
-- Rinaldo, K. (2000) _Autopoiesis_ \[robotic installation\]. Commissioned by Kiasma Museum of Contemporary Art, Helsinki, for Alien Intelligence, curated by E. Huhtamo.
-- Turing, A.M. (1950) 'Computing Machinery and Intelligence', _Mind_, 59(236), 433-460.
-- von Neumann, J. (1966) _Theory of Self-Reproducing Automata_. Edited by A.W. Burks. Urbana: University of Illinois Press.
-- von Uexküll, J. (2010) _A Foray into the Worlds of Animals and Humans: with A Theory of Meaning_. Translated by J.D. O'Neil. Minneapolis: University of Minnesota Press.
-- Wiener, N. (1948) _Cybernetics: or Control and Communication in the Animal and the Machine_. Cambridge, MA: MIT Press.
-
+- Agüera y Arcas, Blaise (2025a), 'Google Researcher Shows Life "Emerges From Code"', interview by Machine Learning Street Talk, _YouTube_, [](https://www.youtube.com/watch?v=rMSEqJ_4EBk) [accessed 20 June 2026]
+- Agüera y Arcas, Blaise (2025b), 'What is Intelligence?', _Antikythera_, [](https://doi.org/10.1162/ANTI.5CZB) [accessed 21 June 2026]
+- Barad, Karen (2007), _Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning_ (Durham, NC: Duke University Press)
+- Hayles, N. Katherine (1999), _How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics_ (Chicago: University of Chicago Press)
+- Huyghe, Pierre (2018), _UUmwelt_ [installation], Serpentine Gallery, London, 3 October 2018 – 10 February 2019
+- Pask, Gordon (1968), _The Colloquy of Mobiles_ [installation], exhibited at Cybernetic Serendipity, Institute of Contemporary Arts, London
+- Rinaldo, Ken (2000), _Autopoiesis_ [robotic installation], commissioned by Kiasma Museum of Contemporary Art, Helsinki, for Alien Intelligence, curated by Erkki Huhtamo
+- Turing, Alan M. (1950), 'Computing Machinery and Intelligence', _Mind_ 59.236, 433–60
+- von Neumann, John (1966), _Theory of Self-Reproducing Automata_, ed. by Arthur W. Burks (Urbana: University of Illinois Press)
+- von Uexküll, Jakob (2010), _A Foray into the Worlds of Animals and Humans: with A Theory of Meaning_, trans. by Joseph D. O'Neil (Minneapolis: University of Minnesota Press)
+- Wiener, Norbert (1948), _Cybernetics: or Control and Communication in the Animal and the Machine_ (Cambridge, MA: MIT Press)
+  
 </div>
 
 </div> <!-- closes .chapter-one -->
