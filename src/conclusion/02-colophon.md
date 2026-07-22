@@ -30,7 +30,7 @@ title: Colophon
 <br>Fran Hayes, Haiyi Xiao, Hanbo Zhan, Huayang Lei, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Keyi Zhang (Fioretta), Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Stathis Doganis, Wenqian Huang, Yihang Zhang, Yiho Li, Yiran Jiao, Yunlong Jue, Yuxin Zhang, Zhenzhen Xie, Zhuzhu Xie, Zihan Mei, Zihe Zheng
 
 **Series Editors**
-<br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston ?????
+<br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston
 
 Published by Goldsmiths, University of London
 <br></br>
