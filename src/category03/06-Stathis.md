@@ -87,7 +87,7 @@ The crisis of platform capitalism is fundamentally a crisis of ownership. It is 
 <div class="endnote-container">
   
 #### **Bibliography**
-- Bratton, Benjamin H. (2015), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press), [](http://www.vlebooks.com/vleweb/product/openreader?id=Goldsmiths&isbn=9780262330183) [accessed 7 May 2026]
+- Bratton, Benjamin H. (2015), _The Stack: On Software and Sovereignty_ (Cambridge, MA: MIT Press)
 - Dal Maso, Giulia (2022), ‘The Promethean Ant Forest: Alibaba’s App as a Financialising Environmental Tool’, _Made in China Journal_ 7.2, 144–49, [](https://www.researchgate.net/publication/368479256) [accessed 8 May 2026]
 - Foer, Franklin (2017), ‘Facebook’s war on free will’, _The Guardian_, 19 September, [](https://www.theguardian.com/technology/2017/sep/19/facebooks-war-on-free-will) [accessed 8 November 2024]
 - Guerra, J. (2023), ‘Towards a feminist framework for AI development: from principles to practice’, _Derechos Digitales_, [](https://www.derechosdigitales.org/wp-content/uploads/Fair_Doc_Eng.pdf) [accessed 8 May 2026]
