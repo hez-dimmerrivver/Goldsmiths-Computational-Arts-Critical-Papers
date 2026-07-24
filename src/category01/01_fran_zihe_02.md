@@ -120,7 +120,7 @@ We developed our own code to translate the png files into the embodied crocheted
 import time:  
  let swarm \= hiveMind  
  let swarmPopulation \= ∞  
- let swarmQuestion_1 \= “ howDidYouFeelAboutYourPhysicalBodyWhenYouFirstBecamePhysical&\&HowDoesYourBodyFeelInItsCurr#
+ let swarmQuestion_1 \= “ howDidYouFeelAboutYourPhysicalBodyWhenYouFirstBecamePhysical&\&HowDoesYourBodyFeelInItsCurr
  <br> entStateOfEvolution “  
  let mitoAnswer;
 
