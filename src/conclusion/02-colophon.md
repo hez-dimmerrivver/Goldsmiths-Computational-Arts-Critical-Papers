@@ -11,10 +11,6 @@ title: Colophon
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 © 2026 the authors
 <br /> Licensed under CC BY-NC-SA 4.0
@@ -35,6 +31,8 @@ title: Colophon
 **Series Editors**
 <br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston
 
+<p class="colophon-web-to-print">The publication design is inspired by a lineage of experimental web-to-print publishing workflows using FLOSS computational tools, including p5.js and paged.js. This lineage can be traced through the <a href="https://wiki4print.servpub.net/">ServPub project</a>—and affiliated collectives and institutions—which was in turn assisted by the collective <a href="https://cc.practices.tools/">Creative Crowds</a>, who themselves acknowledge a longer history which includes the practices of <a href="https://constantvzw.org/">Constant</a>, <a href="https://osp.kitchen/">Open Source Publishing (OSP)</a>, <a href="http://www.titipi.org/">TITiPI</a> and <a href="https://hackersanddesigners.nl/">Hackers and Designers</a>. The FLOSS principles of p5.js and the <a href="https://processingfoundation.org/">Processing Foundation</a> inspire the pedagogy on our programme and thus the publication itself.</p>
+
 ISBN ….
 <br>
 DOI 10.25602/GOLD.00040726
@@ -42,7 +40,7 @@ DOI 10.25602/GOLD.00040726
 
 
 <br />
-<img src="/static/images/backcover/goldsmiths_logo.png" style="width: 120px; height: auto;">
+<img src="/static/images/backcover/goldsmiths_logo.png" style="width: 42mm; height: auto;">
 
 
 </div> <!-- closes .page-break-blank -->
