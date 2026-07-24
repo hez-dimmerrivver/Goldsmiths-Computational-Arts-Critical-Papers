@@ -11,15 +11,8 @@ The peculiarity of computation -at once an infrastructure, a methodology, a tool
 As those who learn but are not machines; as those whose experience cannot be reduced to input and whose artistic experimentation cannot be encoded as output, Goldsmiths’ Computational Arts students at take these questions in their own hands. They probe at computation to identify its dimensions, tensions, and possibilities, and in doing so contribute to shape the field of investigation from the ground up.
 
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
-\* CACP is designed and edited by the students of the Computational Arts MA and MFA programme. All contributions have undergone an internal peer-review process.
+
 
 <div class="divider"></div>
 
@@ -43,3 +36,16 @@ As those who learn but are not machines; as those whose experience cannot be red
     Co-Head of the MA/MFA Computational Arts
   </div>
 </div>
+
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+
+\* CACP is designed and edited by the students of the Computational Arts MA and MFA programme. All contributions have undergone an internal peer-review process.
