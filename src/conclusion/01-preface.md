@@ -19,7 +19,9 @@ As those who learn but are not machines, as those whose experience cannot be red
 <br></br>
 
 <p style="color:#777; line-height:1.6;">
-Dr Mattia Paganelli, MA/MFA Research & Theory Associate<br>
-Dr. Rachel Falconer, Head of Subject, Creative Technology<br>
-Rebecca Aston, Co-Head of the MA/MFA Computational Arts
+ Dr. Mattia Paganelli, MA/MFA Research and Theory Associate<br>
+ Dr. Rachel Falconer, Head of Subject, Creative Technologies<br>
+ Rebecca Aston, Co-Head MA/MFA Computational Arts<br>
+</p>
+
 </p>
