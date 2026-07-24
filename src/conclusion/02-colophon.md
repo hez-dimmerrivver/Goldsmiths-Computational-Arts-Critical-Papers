@@ -16,14 +16,17 @@ title: Colophon
 <br></br>
 <br></br>
 
-**Title**
-<br>Computational Art Critical Papers: f0rm1ess, 2026
+© 2026 the authors
+<br /> Licensed under CC BY-NC-SA 4.0
+<br />First published in 2026 by Goldsmiths Press
+<br />Goldsmiths, University of London, New Cross
+<br />London SE14 6NW
 
 **Designed by**
 <br>Fran Hayes, Haiyi Xiao, Hanbo Zhan, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Yiho Li, Yiming, Yuxin Zhang, Zhenzhen Xie, Zihe Zheng
 
 **Edited by**
-<br>Mikhail, Michaella Miller, Qiang Hei, Savannah Perry, Sohyun Jun, Yiming, Yiran Jiao, Zhenzhen Xie, Zhuzhu Xie
+<br>Michaella Miller, Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Yiming, Yiran Jiao, Zhenzhen Xie, Zhuzhu Xie
 
 **Contributors**
 <br>Goldsmiths MA & MFA Computational Arts Students, 2025-2026
@@ -32,14 +35,14 @@ title: Colophon
 **Series Editors**
 <br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston
 
-Published by Goldsmiths, University of London
-<br></br>
-<img src="/static/images/backcover/goldsmiths_logo.png" style="width: 120px; height: auto;">
-
-Licensed under CC BY-NC-SA 4.0 © 2026
-
 ISBN ….
 <br>
 DOI 10.25602/GOLD.00040726
+
+
+
+<br />
+<img src="/static/images/backcover/goldsmiths_logo.png" style="width: 120px; height: auto;">
+
 
 </div> <!-- closes .page-break-blank -->
