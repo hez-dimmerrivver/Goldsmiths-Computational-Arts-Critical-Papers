@@ -23,6 +23,10 @@ When a village is no longer primarily understood through everyday life and local
 
 I argue that locality should not be understood as a fixed geographical entity, but as a dynamic perceptual network formed between environment, memory, infrastructure, data, and technological media. In DRIFTING, real-time wind data from Quan'ergou guides a digital avatar across a Digital Earth system. Through this process, place enters the present not as a complete image of the hometown, but as a remote signal.
 
+<br>
+<br>
+<br>
+
 **1\. Locality Under Infrastructure**
 
 Human geography has traditionally understood locality as a distinctive experience formed through natural environments, historical memory, and social practices. However, as the infrastructural transformation of Quan’ergou demonstrates, this model is no longer sufficient. The local wind is no longer only a bodily and climatic experience; it is also woven into energy-transition infrastructure.
