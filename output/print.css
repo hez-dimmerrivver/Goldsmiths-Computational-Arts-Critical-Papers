@@ -351,6 +351,10 @@ a:not(.toc a):after {
     content:" <" attr(href) ">";
 }
 
+.colophon-web-to-print a:not(.toc a)::after {
+    content: none;
+}
+
 .toc a {
     display: flex;
     justify-content: space-between; /* title left, page number right */
