@@ -21,6 +21,8 @@ title: Colophon
 **Designed by**
 <br>Fran Hayes, Haiyi Xiao, Hanbo Zhan, Jemila Abdulai, Jiang He Zhang (Hez), Jung Namkoong, Yiho Li, Yiming, Yuxin Zhang, Zhenzhen Xie, Zihe Zheng
 
+<p class="colophon-web-to-print">The publication design is inspired by a lineage of experimental web-to-print publishing workflows using FLOSS computational tools, including p5.js and paged.js. This lineage can be traced through the <a href="https://wiki4print.servpub.net/">ServPub project</a>—and affiliated collectives and institutions—which was in turn assisted by the collective <a href="https://cc.practices.tools/">Creative Crowds</a>, who themselves acknowledge a longer history which includes the practices of <a href="https://constantvzw.org/">Constant</a>, <a href="https://osp.kitchen/">Open Source Publishing (OSP)</a>, <a href="http://www.titipi.org/">TITiPI</a> and <a href="https://hackersanddesigners.nl/">Hackers and Designers</a>. The FLOSS principles of p5.js and the <a href="https://processingfoundation.org/">Processing Foundation</a> inspire the pedagogy on our programme and thus the publication itself.</p>
+
 **Edited by**
 <br>Michaella Miller, Mikhail, Qiang Hei, Savannah Perry, Sohyun Jun, Yiming, Yiran Jiao, Zhenzhen Xie, Zhuzhu Xie
 
@@ -30,8 +32,6 @@ title: Colophon
 
 **Series Editors**
 <br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston
-
-<p class="colophon-web-to-print">The publication design is inspired by a lineage of experimental web-to-print publishing workflows using FLOSS computational tools, including p5.js and paged.js. This lineage can be traced through the <a href="https://wiki4print.servpub.net/">ServPub project</a>—and affiliated collectives and institutions—which was in turn assisted by the collective <a href="https://cc.practices.tools/">Creative Crowds</a>, who themselves acknowledge a longer history which includes the practices of <a href="https://constantvzw.org/">Constant</a>, <a href="https://osp.kitchen/">Open Source Publishing (OSP)</a>, <a href="http://www.titipi.org/">TITiPI</a> and <a href="https://hackersanddesigners.nl/">Hackers and Designers</a>. The FLOSS principles of p5.js and the <a href="https://processingfoundation.org/">Processing Foundation</a> inspire the pedagogy on our programme and thus the publication itself.</p>
 
 ISBN ….
 <br>
