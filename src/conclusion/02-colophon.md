@@ -14,7 +14,7 @@ title: Colophon
 
 © 2026 the authors
 <br /> Licensed under CC BY-NC-SA 4.0
-<br />First published in 2026 by Goldsmiths Press
+<br />First published in 2026 by Goldsmiths
 <br />Goldsmiths, University of London, New Cross
 <br />London SE14 6NW
 
@@ -33,14 +33,11 @@ title: Colophon
 **Series Editors**
 <br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston
 
-ISBN ….
+ISBN 978-1-913380-95-3
 <br>
 DOI 10.25602/GOLD.00040726
 
-
-
 <br />
 <img src="/static/images/backcover/goldsmiths_logo.png" style="width: 42mm; height: auto;">
-
 
 </div> <!-- closes .page-break-blank -->
