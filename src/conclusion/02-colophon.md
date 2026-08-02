@@ -33,7 +33,7 @@ title: Colophon
 **Series Editors**
 <br>Dr. Rachel Falconer, Dr. Mattia Paganelli, Rebecca Aston
 
-ISBN 978-1-913380-95-3
+ISBN 978-1-913380-96-0
 <br>
 DOI 10.25602/GOLD.00040726
 
