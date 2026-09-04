@@ -3,7 +3,7 @@ name: Deploy Eleventy to GitHub Pages
 on:
   push:
     branches:
-      - main  # 👈 如果你的預設分支是 main
+      - test-hez2
 
 permissions:
   contents: read
