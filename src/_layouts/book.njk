@@ -33,6 +33,23 @@
     }
   </style>
   <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+
+  <script>
+    function adjustMobileView() {
+      // mb
+      if (window.innerWidth < 768) {
+        const pageBox = document.querySelector('.pagedjs_pages');
+        if (pageBox) {
+          const scale = (window.innerWidth - 20) / 794; // 794px 約為標準 A4 寬度
+          pageBox.style.transform = `scale(${Math.min(scale, 1)})`;
+          pageBox.style.transformOrigin = 'top center';
+        }
+      }
+    }
+  
+    window.addEventListener('DOMContentLoaded', adjustMobileView);
+    window.addEventListener('resize', adjustMobileView);
+  </script>
 </head>
 <body>
 
