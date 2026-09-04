@@ -17,10 +17,10 @@ To most passers-by, pigeons appear almost identical. They belong to the familiar
 
 The project asked whether technologies normally associated with classification, surveillance and identification could be redirected towards overlooked non-human life. Instead of detecting only the general category “pigeon,” could a machine-vision system learn to recognise Huihui and Diandian as separate individuals? Could this process create a space in which non-human life became visible, recordable and open to broader discussion?
 
-<img src ="/static/images/Yumi/image1.png">
+<img src ="static/images/Yumi/image1.png">
 Photographs and videos of the two pigeons were selected, cropped, organised and labelled to form a bespoke dataset. A YOLO object-detection model was then trained to distinguish Huihui, Diandian and other pigeons. YOLO frames object detection as a regression problem in which a neural network predicts bounding boxes and associated class probabilities from an image (Redmon and others 2016, 779–80). It does not encounter a bird as a living subject. Instead, the image is processed as numerical input and translated into coordinates, class labels and confidence values. Crucially, YOLO is designed to register the presence of a class rather than the identity of an individual: it can report that a pigeon, or a human, is present, but not that this particular bird is Huihui or that this particular person is a named subject. This distinction matters because it exposes an asymmetry in how such technologies have been developed. Considerable engineering effort has produced systems that identify human individuals with high precision — face recognition, skeletal pose estimation, biometric tracking — yet no comparable apparatus exists for recognising non-human animals as individuals; machine vision typically distinguishes species categories, not the single creature.
 
-<img src="/static/images/Yumi/image2.png" class="single-column-img">
+<img src="static/images/Yumi/image2.png" class="single-column-img">
 
 <br></br>
 <br></br>
@@ -36,7 +36,7 @@ The trained model operated as a speculative form of digital identification. A te
 
 Yet this attention remained conditional. Huihui and Diandian could be recognised only through the photographs selected for the dataset, the labels assigned to them and the visual patterns learned from those examples. The model did not discover their identities independently. It produced them computationally through the conditions constructed by the dataset. When their bodies no longer corresponded closely enough to these learned patterns—because of rapid movement, overlap, occlusion or changes in silhouette—the stability of recognition began to break down.
 
-<img src="/static/images/Yumi/image3.jpg" class="single-column-img">
+<img src="static/images/Yumi/image3.jpg" class="single-column-img">
 
 _Learning to Fold_ developed from this contradiction rather than from a rejection of the earlier project. The two works form reciprocal moments within the same investigation. _The Unarchivable_ asks what machine recognition can make visible; _Learning to Fold_ examines the conditions under which that visibility becomes unstable. The technology that grants an individual position to the bird also reveals its limits when the body can nolonger be maintained as a coherent and readable object.
 During the first project, detection was repeatedly disrupted when the pigeons moved rapidly, overlapped with one another or entered visually complex environments. Bounding boxes flickered, shifted, multiplied or disappeared. _Learning to Fold_ isolates one recurring source of this instability: the folding and unfolding of a pigeon’s wing. The same YOLO object-detection framework was used to examine how rapid transformation, self-occlusion and changing silhouettes affected computational recognition.
@@ -45,7 +45,7 @@ The project distinguishes embodied seeing from computational abstraction and cla
 
 The project develops the term _algorithmic disorientation_ to describe moments when this calculation cannot be maintained consistently across successive frames. “Disorientation” does not imply that the algorithm is conscious, confused or capable of subjective experience. Rather, it names an operational condition in which the system loses the spatial and temporal consistency necessary to produce the appearance of one coherent object moving through time. The calculations continue, but bounding boxes compete for position, confidence values fall, and the detected object may fragment into several uncertain presences.
 
-<img src="/static/images/Yumi/image4.png" class="single-column-img">
+<img src="static/images/Yumi/image4.png" class="single-column-img">
 
 Since it was above all the wing’s folding, a flexible, hinge-like skeletal movement that repeatedly triggered this disorientation, isolating that movement from the rest of the living bird offered a way to examine it directly. To investigate this condition, _Learning to Fold_ moves away from the complete and alive pigeon and focuses on a custom-built skeletal wing structure. The structure abstracts the wing into hinges, extensions and folding relations, allowing selected movements to be repeated under more controlled conditions. It does not claim to reproduce pigeon anatomy. Instead, it functions as an experimental device for testing folding, vibration, acceleration, concealment and changes in outline.
 These episodes of _algorithmic disorientation_ cannot be attributed to one cause. Within the experiments, folding produced overlap and concealed previously visible features. Speed introduced motion blur and greater visual differences between consecutive frames. Lighting, camera frame rate, object scale, processing latency and the limits of the training data also affected the model’s outputs. The project therefore does not claim that pigeon wings are intrinsically or permanently beyond computation. Improved cameras, larger datasets, faster hardware or different model architectures might reduce many of these errors. What matters is not the appearance of the wing, but its duration: the temporary interval in which the system used in the project cannot stabilise the moving body as a continuous computational identity.
@@ -53,7 +53,7 @@ These episodes of _algorithmic disorientation_ cannot be attributed to one cause
 Henri Bergson’s concept of duration helps to frame this interval. Bergson distinguishes lived duration from spatialised models of time that divide movement into separate and measurable units. In duration, successive moments do not exist as isolated points but flow into and transform one another (Bergson 2001, 100–06). Object detection, by contrast, samples movement through separate frames and reconstructs continuity from a sequence of individual predictions. Flickering and multiplying boxes expose moments when this reconstruction no longer appears seamless. The wing continues moving, but the model’s account of it becomes discontinuous. Bergson gives this partiality an optical figure. The mind, he suggests, refracts the continuous flow of duration into separate, spatialised units, pausing it, dividing it and giving each division a name (Bergson 1911, 242). Refraction is the bending of light as it passes between media of different densities, and what the bent ray delivers is not the object as it is, but a version of it, angled by the medium it has crossed, so that no single lens ever returns reality whole. The machine is one more such medium. It refracts the moving body into discrete, classifiable frames, and what it captures is therefore always a version of the pigeon, coherent within its own paradigm yet never continuous with the living duration from which it is cut.
 
 </div>
-<img src ="/static/images/Yumi/image5.png">
+<img src ="static/images/Yumi/image5.png">
 <br></br>
 <div class= "body-text">
 Building on these ideas, the project develops the term _temporal opacity_. Édouard Glissant’s right to opacity challenges the assumption that difference must become fully transparent or comprehensible in order to enter into relation. Opacity does not simply mean invisibility, isolation or withdrawal. It protects that which cannot be entirely reduced to the terms through which another person or system seeks to understand it (Glissant 1997, 189–94).
@@ -95,6 +95,6 @@ the computer is not the time in which the pigeon lives. The machine proceeds by 
 <br></br>
 <br></br>
 <br></br>
-<img src="/static/images/Yumi/image6.png">
+<img src="static/images/Yumi/image6.png">
 
 </div> <!-- closes .chapter-two -->

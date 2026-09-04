@@ -28,11 +28,11 @@ The characters I asked for were six: 失語者宣言／我在此處—The Aphasi
 
 SD 1.5 produced no single character at all: a scroll of dense, illegible marks with no boundary between one character and the next. FLUX gave the shape of one character, but wrote all six as the same form, varying only in small ways. GLM, trained for Chinese, came closest. It separated the six and its strokes were more plausible, yet it still failed. 失 gained extra strokes, the radical of 語 loosened, the interior of 宣 broke down. Then 處 (place): four images, all resembling 慶 (celebration), without exception.
 
-<img src="/static/images/Ethan/image1.png" class="single-column-img" style="display: block; margin: 0 auto;">
+<img src="static/images/Ethan/image1.png" class="single-column-img" style="display: block; margin: 0 auto;">
 
 The six characters were not arbitrary. They are the manifesto's own declaration: 失語者宣言／我在此處. I asked the model to render the manifesto's own title as written characters, and it returned a presence that cannot be read. When the same model was given the six matched English words (loss, language, declare, speech, self, place), it rendered each one legibly. At the same unit of meaning, one word set against one character set, the alphabet survived and the hanzi did not.
 
-<img src="/static/images/Ethan/image2.png" class="single-column-img" style="display: block; margin: 0 auto;">
+<img src="static/images/Ethan/image2.png" class="single-column-img" style="display: block; margin: 0 auto;">
 
 It was only after the experiment that I understood why. A diffusion model does not write a character; it learns how pixels tend to distribute when a text description appears, then samples the cluster of pixels that best matches. Ted Chiang describes such models as a lossy compression of their training data, a blurry JPEG of the web (Chiang 2023). For Chinese characters, the compression is lossier still. They are rare in training data, and often an image contains a character while its label is only English, so the model is never told what the symbol means. It fills in strokes until the texture looks convincing. The rarer the character, the vaguer the impression: 處 is more broken than 我 because it is far rarer, and errors run toward too many strokes, the fingerprint of texture-matching rather than writing.
 
@@ -44,11 +44,11 @@ My East-West binary collapsed. The variable is not which culture trained the mod
 
 I set this out as a diptych. On one side, the six traditional characters, correct in form, alongside their generated counterparts with broken interiors. On the other, pseudo-English: a fine-tuned model was given the manifesto's English line and asked to generate it as collapsed marks, the same process applied in reverse. The script that is supposed to survive and the script that is supposed to break trade places.
 
-<img src="/static/images/Ethan/image3.png" style="display: block; margin: 0 auto; width: 75%;">
+<img src="static/images/Ethan/image3.png" style="display: block; margin: 0 auto; width: 75%;">
 
 This descent is neither random nor a mere technical flaw; it is a visible register of power. Crawford argues that machine classification is never neutral: it records who holds weight in the world of data (Crawford 2021). The claim that such classification is objective is what Haraway calls the god trick, a view from nowhere that hides the position it speaks from (Haraway 1988). To stage this at small scale, I trained a CNN on a deliberately skewed set, 95% Latin characters to 5% Chinese. The training curve records the result plainly: the Latin class reaches near-perfect accuracy in the first epoch and holds there; the Chinese class oscillates and recovers more slowly, never closing the gap. It is a conceptual reenactment, not forensic proof, but the shape of the gap is the argument.
 
-<img src="/static/images/Ethan/image4.png" style="display: block; margin: 0 auto; width: 75%;">
+<img src="static/images/Ethan/image4.png" style="display: block; margin: 0 auto; width: 75%;">
 
 Tsang Tsou-choi, the self-styled Kowloon Emperor, brushed his name and lineage across Hong Kong: utility boxes, road signs, walls (Tsang 1990s). The authorities cleared it as graffiti, refusing to read it as writing. My collapsed characters and his wall-names share a fate, unread by the system, one processed as graffiti, the other as noise. The algorithm does not fail to see 處; it meets an unfamiliar symbol and substitutes the nearest known one. In every classificatory system, marginal writing is not processed: it is overwritten.
 

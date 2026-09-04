@@ -11,7 +11,7 @@ name: Jiang He Zhang (Hez)
 
 ## When GPS is disrupted, time and space no longer align
 
-<img src="/static/images/Hez/image-01.webp">
+<img src="static/images/Hez/image-01.webp">
 <br></br>
 
 <div class="body-text">
@@ -26,8 +26,8 @@ Before time was defined by atomic oscillations and digital signals, it was a sha
 _“Timing is rapidly becoming a critical element for many industries. As the need for precise timing grows, more and more users are turning to GPS technology.” \-Dennis L. Workman._
 
 Right now, we obtain precise time on our smartphones, synchronized through atomic clocks and GPS satellites. This time is transmitted as signals from satellites to receivers, where it is processed and corrected (Khalpada 2026). It then passes through different time standards before becoming the time we see on our screens. (The images below illustrate the relationship between GPS time and positioning) (UNAVCO Spotlight n.d.)
-<img src="/static/images/Hez/image1.png" class="single-column-img">
-<img src="/static/images/Hez/image2.png" class="single-column-img">
+<img src="static/images/Hez/image1.png" class="single-column-img">
+<img src="static/images/Hez/image2.png" class="single-column-img">
 
 **//- \- Now \- \-**  
 **//Signal Interference: The Fragility Behind Perfect Precision**
@@ -36,7 +36,7 @@ Have you ever doubted the time displayed on your smartphone or laptops? If it we
 
 Once we moved away from nature-based timekeeping, human beings achieved unprecedented precision in measuring time. Modern time is distributed through satellites, cloud infrastructure, and interconnected software systems, all of which have been accumulating new layers of vulnerability. Modern time systems are accurate to microseconds, yet even a small disruption such as GPS jamming (Windward n.d.) or spoofing (Brown 2024) can lead to errors of an hour or more.
 
-<img src="/static/images/Hez/image3.png" class="single-column-img">
+<img src="static/images/Hez/image3.png" class="single-column-img">
 
 These two forms of interference create distortions and illusions of time and space. GPS jamming prevents receivers from accessing authentic satellite signals, while GPS spoofing replaces them with false ones.
 
@@ -44,7 +44,7 @@ Although GPS depends on satellites orbiting above us, both attacks originate fro
 
 GPS is not only a positioning system but also a time synchronization infrastructure. As signal interference becomes more frequent, the reliability of modern timekeeping systems is increasingly at risk. In recent years, GPS signals have experienced growing levels of jamming and spoofing, particularly in regions affected by geopolitical tensions. These disruptions not only affect navigation but also the global timing systems that modern infrastructure depends on.
 
-<img src="/static/images/Hez/image4.png" class="single-column-img">
+<img src="static/images/Hez/image4.png" class="single-column-img">
 The image shows a live GPS interference map (GPSwise n.d.).
 <br></br>
 
@@ -53,13 +53,13 @@ The image shows a live GPS interference map (GPSwise n.d.).
 Both the signals that synchronise our time and the threats that disrupt them are invisible. As interference becomes increasingly common, it is still difficult to perceive the vulnerability hidden within the GPS Time keeping system. Therefore, Misalignment aims to make that vulnerability visible through data visualization and a piece of installation art.
 By comparing the sundial and GPS timekeeping systems, Misalignment explores the contradiction between two forms of reliability: one is imprecise yet difficult to manipulate, while another is extraordinarily precise yet increasingly vulnerable to interference.
 
-<img src="/static/images/Hez/image5.png" class="single-column-img">
+<img src="static/images/Hez/image5.png" class="single-column-img">
 
 It developed a dual timekeeping system. The sundial is driven by the Sun, while the GPS clock depends on satellite timing signals and real-time data from the OpenSky API. Using this data, I developed two formulas to measure the daily intensity of GPS jamming and spoofing in a specific region.
 
 Initially, the dual timekeeping system records two nearly identical trajectories. However, as interference emerges, the GPS clock begins to drift. Jamming causes the GPS clock hand to pause, while spoofing alters its speed. Over time, these deviations accumulate into visible traces of disruption, revealing the hidden instability beneath modern precision. The more a system depends on information and technology, the more easily it can be interfered with.
 
-<img src="/static/images/Hez/image6.png" class="single-column-img">
+<img src="static/images/Hez/image6.png" class="single-column-img">
 
 The movement of the clocks creates two sine-wave trajectories derived from circular motion. These traces show how time can be translated into distance, while also connecting to light waves and satellite signals that travel through space to transmit information. Although they rarely align perfectly, their highs and lows fall into a rhythm. This harmony reflects the friction and flow between humans and the path of technological development.
 

@@ -56,7 +56,7 @@ What changes most on this virtual side of the portal is not simply our sense of 
 
 In my past work _Low-life_ (Li 2021), I turned the viewer into a non-human body: a cockroach in a kitchen, where the world is seen from a low, ground-level vision, through a perspective our own bodies could never inhabit. Similarly, in CURIOSKI, one of my collective’s projects, _A Glimpse of the Mind Landscape_ (CURIOSKI 2022), we treated the headset itself as a “mind-plugin”. We explored how consciousness interacts with different states of embodiment, including human forms, mysterious creatures, and even existence without any body at all.
 
-<img src="/static/images/Yiho/Yiho_1.jpg" class="single-column-img">
+<img src="static/images/Yiho/Yiho_1.jpg" class="single-column-img">
 
 **Transporting the Context: The Social Portal in VRChat**
 
@@ -70,7 +70,7 @@ The realisation of these bidirectional portals relies fundamentally on the "pass
 
 CURIOSKI's _The Insider_ (CURIOSKI 2024a) takes this up as a narrative practice, assembling physical and virtual objects into a single space: we placed a virtual window on the real wall through which one could look out. On the other hand, in _Paxville_ (CURIOSKI 2024b), we did the opposite—making holes around the reality to look into the virtual world behind it. The two works map the two directions a portal can open in MR, emphasising this threshold connecting “here” and “there”, is no longer merely transporting us, but collapsing the boundary between the two, allowing physical reality and virtual imagination to seamlessly blend into one another.
 
-<img src="/static/images/Yiho/Yiho_2.jpg" class="single-column-img">
+<img src="static/images/Yiho/Yiho_2.jpg" class="single-column-img">
 
 **The Unfinished Imagination of the Elsewhere**
 

@@ -14,23 +14,23 @@ As the human population has grown exponentially, urban areas have expanded rapid
 
 The project started from curiosity that emerged from the observation of our urban environment. I participated in the _Lost Rivers of South London cycling tour_ from Open City, cycling around Clapham Junction, Brixton, and Vauxhall areas, with a historian and other participants (Open City n.d.). During the tour, the strong collective interests in the invisible rivers made visible what has been transformed into something else: parks occupying land too damp for habitation; willow and alder trees quietly marking the former channel; buildings built to avoid the buried riverbed; and Victorian stink pipes emerging awkwardly between roads and buildings (Newman 2016).
 
-<img src="/static/images/sohyun/image1.png" class="single-column-img">
+<img src="static/images/sohyun/image1.png" class="single-column-img">
 
 Twenty of the thirty-eight tributaries that once flowed into the Thames are now culverted and erased from the surface. I decided to narrow it down to a specific location and investigate the underground river through walking, a more embodied experience. I visited sites along the River Effra, which once flowed through south-west London from Crystal Palace, Dulwich, Brixton, and then to Vauxhall. I walked from the upstream source at Crystal Palace, following the old map, with my Apple Watch turned on, intending to record my body data: timestamp, latitude, longitude, heart rate, speed, and elevation.
 
-<img src="/static/images/sohyun/image2.png" class="single-column-img">
+<img src="static/images/sohyun/image2.png" class="single-column-img">
 
 Contrary to my expectation, the relation between my speed, heart rate, and elevation wasn't very strong. The data was too noisy, as I got lost, took photographs, and rested along the way. However, this way of researching gave me a deeper connection to the landscape and to the changes in surroundings. I converted this data of 6 hours 59 minutes 38 seconds, 14.5 km, 25,359 steps into lines, and stacked them on top of a 3D model of London's terrain. I then combined the three lines by multiplying them together, then applied the resulting value as a 'height' field to a flat plane to generate a new surface. Rather than raising the surface where this value was high, I inverted it so the surface sank instead, simulating erosion in the way a river carves into land over time. Could this be an alternative way of sensing the entity, one that can no longer be sensed directly, as it is now considered biologically 'dead'?
 
-<img src="/static/images/sohyun/image3.png" class="single-column-img">
+<img src="static/images/sohyun/image3.png" class="single-column-img">
 
 Another mode of existence of the lost rivers has emerged as public data. Over the past few years, Thames Water has made real-time storm discharge data publicly accessible, and I was able to successfully query this through their API. Publication of this dataset was a result of the public attention to the transparency of sewage spills into the rivers (The Rivers Trust n.d.). In this array of data, it shows 576 monitored locations in total, across the whole Thames Water operating area from around Hampshire in the west to Essex in the east. At each location, the most interesting information was whether it was currently discharging, the most recent time it discharged, and the receiving water course. It was the moment when the subterranean rivers emerged into a broader ecological setting and were translated into data.
 
-<img src="/static/images/sohyun/image4.png" class="single-column-img">
+<img src="static/images/sohyun/image4.png" class="single-column-img">
 
 Monitoring data from the sensing point near the Effra outfall at _Cadogan Pier_, provided by the Environment Agency (EA), I was able to identify relations between storm discharge activity and water quality data coming from different sources. For example, there was a storm discharge event into the Thames on 2 June 2026 at _South West Storm Relief CSO_, reported by Thames Water. Checking the water quality data from the EA at _Cadogan Pier_, I found that on 3 June 2026, the dissolved oxygen level dropped. Was this the result of the sewage discharge? If so, why did the drop in oxygen level take a day? As _Cadogan Pier_ is located a little upstream of the Effra outfall, you might think the influence of this activity would be limited. But in fact, the Thames is a tidal river, or rather, a complex living organism, where what happens at one local point can result in a chain of damage in delay.
 
-<img src="/static/images/sohyun/image5.png" class="single-column-img">
+<img src="static/images/sohyun/image5.png" class="single-column-img">
 
 Scientific research articles indicate that the spike in conductivity combined with drops in dissolved oxygen are classic indicators of organic pollution. Bacteria breaking down the waste consume a large amount of oxygen, driving dissolved oxygen levels down. As dissolved oxygen levels go down, the water becomes acidic, and decomposing organic waste dissolves into basic chemical ions, raising conductivity and salinity (Daniel and others 2002). After this traumatic incident, the river will replenish its oxygen through turbulence and the photosynthetic activity of plants and algae over time.
 

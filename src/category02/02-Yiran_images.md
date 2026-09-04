@@ -39,7 +39,7 @@ So what changes in judgment once the system intervenes? Gallese discusses a case
 
 **Context is displaced:** the background becomes past data compressed into features, and this data often belongs to a group, while the consequences fall on the individual.!
 
-<img src="/static/images/yiranJiao/image1.png" class="single-column-img">
+<img src="static/images/yiranJiao/image1.png" class="single-column-img">
 
 At the same time, that capacity "to be reopened" is absorbed in reverse. If a person marked as high-risk later commits no violence, this can be read as the risk never having existed, or as the risk having been preventively contained. Either way, the score is retained. The subject's later conduct, their appeals, even the fact that the predicted behaviour never occurred, are all absorbed as input for the model's next round of self-optimisation. This makes the system more precise and therefore harder to hold accountable; the channel of correction becomes a device that reinforces the initial treatment.
 

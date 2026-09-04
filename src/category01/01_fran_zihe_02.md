@@ -121,7 +121,7 @@ import time:
  let swarm \= hiveMind  
  let swarmPopulation \= ∞  
  let swarmQuestion_1 \= “ howDidYouFeelAboutYourPhysicalBodyWhenYouFirstBecamePhysical&\&HowDoesYourBodyFeelInItsCurr
- <br> entStateOfEvolution “  
+<br> entStateOfEvolution “  
  let mitoAnswer;
 
 <div style = "text-align:right">
@@ -182,7 +182,7 @@ import memory:
 
 import growth:  
  \<You\>
-<img src ="/static/images/fran_zihe/piledUp.png"> \#Pi%le^d u\&p y\*arn ge(nerat(io-ns  
+<img src ="static/images/fran_zihe/piledUp.png"> \#Pi%le^d u\&p y\*arn ge(nerat(io-ns  
  \<You\> \<Layer\> \=== \<Iteration\>  
  \<You\> \<Stich’\> \-@LtEreD-By-\<Stich\>  
  \<You\> —--------------------return\<GrowTh\>

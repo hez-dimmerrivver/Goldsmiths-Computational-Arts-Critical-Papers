@@ -39,7 +39,7 @@ On the basis of this legitimate translation, the paper argues, by construction, 
 These members find exact counterparts. The struts are the subject’s desires: each presses outward, and no desire touches another directly. The cables are friction, the tension that binds these outward pressures into one whole form. The empty spans between the struts — the non-contact the cables hold taut — are the unreachable itself, and it has two dimensions at once: a spatial gap (Lacan’s lack) and a temporal gap (Deleuze’s interval). A single tensioned band already carries both properties: it has a length in space and a duration over which it stays taut. Space and time are therefore not two different members but two projections of the one resistance the cables embody.
 <br></br>
 <br></br>
-<img src="/static/images/hanbo zhan/image1.png" class="single-column-img">
+<img src="static/images/hanbo zhan/image1.png" class="single-column-img">
 <br></br>
 <br></br>
 <br></br>
@@ -52,7 +52,7 @@ From this, three constraints follow. One: load-bearing relies on overall tension
 
 What truly holds this structure up is the relational field sustained by tension; the members are what that field holds in place. Mapped onto the subject, the subject itself is this space pried open by force. The void here is a living void — tautened and sustained by the tension around it, holding its form only through that tension’s continuous action. It is wholly distinct from a dead, silent emptiness: the living void has form and stiffness, deforming under force and rebounding when force is released. Once the tension disappears, this living space closes.
 
-<img src="/static/images/hanbo zhan/image2.png" class="single-column-img">
+<img src="static/images/hanbo zhan/image2.png" class="single-column-img">
 
 **V. The Smoothness of the Algorithm and the Weightlessness of the Subject**
 

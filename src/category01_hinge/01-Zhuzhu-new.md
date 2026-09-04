@@ -50,7 +50,7 @@ Instructions:
 - **Repeat the process with another object.**  
   _(If the repetition produces difference, the practice is alive.)_
 
-<img src ="/static/images/zhuzhu/image1.png" class="single-column-img">
+<img src ="static/images/zhuzhu/image1.png" class="single-column-img">
 
 <div class="body-text">
 Technical objects are often considered finished artifacts that serve a pre-determined purpose. Within an engineering logic, a system is expected to operate according to governed protocols in order to minimize errors. Control is essential. The system is designed to converge, to close the gap between its current state and its goal. Error is minimized. Noise is filtered. The technical object, under this logic, exists in service of a predetermined endpoint, and its success is measured by how efficiently it arrives there. Wiener called this cybernetics: the scientific study of control and communication in the animal and the machine (Wiener 1948, 11).

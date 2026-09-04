@@ -11,7 +11,7 @@ name: Huayang Lei
 
 ## Emergent _Umwelt_ and Indeterminacy in Embodied Computational Systems
 
-<img src ="/static/images/Huayang/image_01.png">
+<img src ="static/images/Huayang/image_01.png">
 <br>
 <div class="body-text">
 
@@ -45,7 +45,7 @@ The channels are limited, but the world they reach is not. The color sensor read
 
 A slowly drifting baseline gives the system memory: salience is computed relative to an accumulated history of both light and distance rather than an absolute value, so identical input can prompt different responses over time. The installation thus instantiates the paper's claims directly: an _Umwelt_ selectively constructed, relationally produced, and dependent on embodiment not for a body as such, but for the coupling through which the system continually alters itself.
 
-<img src="/static/images/Huayang/image_02.png" class="single-column-img">
+<img src="static/images/Huayang/image_02.png" class="single-column-img">
 
 <br />
 
@@ -75,7 +75,7 @@ An _Umwelt_, this paper has argued, is not a pre-given environment but a relatio
 - von Neumann, John (1966), _Theory of Self-Reproducing Automata_, ed. by Arthur W. Burks (Urbana: University of Illinois Press)
 - von Uexküll, Jakob (2010), _A Foray into the Worlds of Animals and Humans: with A Theory of Meaning_, trans. by Joseph D. O'Neil (Minneapolis: University of Minnesota Press)
 - Wiener, Norbert (1948), _Cybernetics: or Control and Communication in the Animal and the Machine_ (Cambridge, MA: MIT Press)
-  
+
 </div>
 
 </div> <!-- closes .chapter-one -->

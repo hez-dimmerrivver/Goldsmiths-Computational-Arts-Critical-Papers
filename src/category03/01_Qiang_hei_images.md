@@ -13,7 +13,7 @@ name: Qiang Hei
 
 ####
 
-<img src="/static/images/qiang_hei/image1.png">
+<img src="static/images/qiang_hei/image1.png">
 <br></br>
 <div class="body-text">
 
@@ -39,7 +39,7 @@ In Quan’ergou, infrastructural transformation affects the visibility of kinshi
 
 Computational art practice can respond to this infrastructural logic by working from small scale, situated experience, and partial connection. A situated approach to knowledge emphasises specific bodies, places, relations, and technological conditions, rather than a disembodied and all-seeing perspective (Haraway 1988).
 
-<img src="/static/images/qiang_hei/image2.png" class="single-column-img">
+<img src="static/images/qiang_hei/image2.png" class="single-column-img">
 
 From the perspective of computational art, a seemingly globally standardised wind turbine becomes specific once it enters a particular location. The wind turbines in the mountains around Quan'ergou and the offshore wind turbines near London may share similar industrial forms, yet they are embedded in very different local contexts. In Quan'ergou, wind turbines have become part of the mountain landscape, as well as visible traces of the relations between energy development, population outflow, spatial reorganisation, and the rupture of local memory.
 
@@ -51,7 +51,7 @@ Small-scale and situated technological practice therefore becomes a method of ap
 
 The mechanism of DRIFTING can be understood through three connected operations: sensing, mapping, and wandering. A micro wind-direction sensor is deployed in Quan'ergou Village, transmitting data through a cloud server to a remote digital system. The wind of Quan'ergou is translated from a local climatic condition into directional data that guides the movement of a digital avatar. Environmental sensing technologies do not merely record environmental conditions; they participate in making environments computable and connected (Gabrys 2016).
 
-<img src="/static/images/qiang_hei/image3.png" class="single-column-img">
+<img src="static/images/qiang_hei/image3.png" class="single-column-img">
 
 This data then enters a Digital Earth system, a platform usually associated with navigation, planning, and spatial management. In DRIFTING, the Digital Earth becomes a geographical medium disturbed by a specific environmental input. Mapping technologies are not neutral instruments of viewing; they organise distance, scale, and spatial relations (Kurgan 2013). The digital avatar may walk over mountains and cross oceans, without a clear destination or an efficiency-oriented route. The map is encountered as a changing field of surfaces, scales, and distances, continuously reoriented by wind data from Quan'ergou.
 

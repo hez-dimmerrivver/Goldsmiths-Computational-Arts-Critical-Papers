@@ -38,6 +38,6 @@ ISBN 978-1-913380-96-0
 DOI 10.25602/GOLD.00040726
 
 <br />
-<img src="/static/images/backcover/goldsmiths_logo.png" style="width: 42mm; height: auto;">
+<img src="static/images/backcover/goldsmiths_logo.png" style="width: 42mm; height: auto;">
 
 </div> <!-- closes .page-break-blank -->

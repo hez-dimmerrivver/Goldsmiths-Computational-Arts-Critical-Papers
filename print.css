@@ -25,39 +25,39 @@
 
 @font-face {
     font-family: "magicial_game";
-    src: url("/static/fonts/magicial_game.ttf");
+    src: url("static/fonts/magicial_game.ttf");
 }
 
 @font-face {
     font-family: "dichtmy";
-    src: url("/static/fonts/dichtmy.ttf");
+    src: url("static/fonts/dichtmy.ttf");
 }
 
 @font-face {
     font-family: "Distor";
-    src: url("/static/fonts/Distor.ttf");
+    src: url("static/fonts/Distor.ttf");
 }
 
 @font-face {
     font-family: "Computer_Malfunction_Error";
-    src: url("/static/fonts/Computer_Malfunction_Error.ttf");
+    src: url("static/fonts/Computer_Malfunction_Error.ttf");
 }
     
 
 
 @font-face {
     font-family: "Doto_Rounded-Black";
-    src: url("/static/fonts/Doto_Rounded-Black.ttf");
+    src: url("static/fonts/Doto_Rounded-Black.ttf");
 }
 
 @font-face {
     font-family: "Doto_Rounded-Bold";
-    src: url("/static/fonts/Doto_Rounded-Bold.ttf");
+    src: url("static/fonts/Doto_Rounded-Bold.ttf");
 }
 
 @font-face {
     font-family: "Doto_Rounded-Regular";
-    src: url("/static/fonts/Doto_Rounded-Regular.ttf");
+    src: url("static/fonts/Doto_Rounded-Regular.ttf");
 }
 
 @font-face {
@@ -307,28 +307,28 @@ body {
 
 /* ///////// COVER ///////// */
 .pagedjs_page[data-page-number="1"] {
-    background-image: url('/static/images/cover/cover.jpg');
+    background-image: url('static/images/cover/cover.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .pagedjs_page[data-page-number="2"] {
-    background-image: url('/static/images/cover/innercover1.jpg');
+    background-image: url('static/images/cover/innercover1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .pagedjs_page[data-page-number="99"] {
-    background-image: url('/static/images/cover/innercover2.jpg');
+    background-image: url('static/images/cover/innercover2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .pagedjs_page[data-page-number="100"] {
-    background-image: url('/static/images/backcover/backcover.jpg');
+    background-image: url('static/images/backcover/backcover.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
